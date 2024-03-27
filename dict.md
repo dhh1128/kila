@@ -9,6 +9,7 @@ e = third person, ve = plural
 ## Nouns
 boi - boy
 apl - apple
+frag - frog
 
 ## Verbs
 it - eat
