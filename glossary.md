@@ -2,15 +2,15 @@
 
 lexeme | pos | definition | notes
 --- | --- | --- | ---
-yz | particle | ~FR "est-ce que" | query word to tag a question (since word order doesn't change)
+yz | particle | ~FR "est-ce que" | query word to start a question (since word order doesn't change)
 i | pronoun | I | first person singular
 vi | pronoun | we | first person plural
 u | prounoun | you / thee | second person singular
 vu | pronoun | you / ye | second person plural
-e | pronoun | he / she / it | third person singular
-ve | pronoun | they | third person plural
+ei | pronoun | he / she / it | third person singular
+vei | pronoun | they | third person plural
 lon | ad | far
-nil | ad | near
+nir | ad | near
 -xm | suffix | converts a number to an ordinal or denominator
 toxm | ad | second (ordinal)
 toxm | ad | half | In English, the ordinal "second" and the fraction "half" are different words, but the ordinal "third" and the fraction "third" are not. Kila is consistent in using the same word for both concepts, because a fraction is just the ordinal piece of an overall pie.
@@ -30,8 +30,8 @@ zog | v | end
 -xt | suffix | convert verb to noun
 sapafxt | n | beginning
 zogxt | n | end
-eizogyt | n | infinity
-eizogytyk | ad | endless / infinite
+eizogxt | n | infinity
+eizogxtyk | ad | endless / infinite
 rwv | v | dream
 -or | suffix | convert a verb to the party who performs the verb | qkt -> qctor 
 -yk | suffix | convert noun or verb to its essential characteristic / ~EN "-ish" / ~EN "-ful" | rwv ("to dream") -> rwvyk ("dreamy")
@@ -53,14 +53,11 @@ ko | prep | with
 ko- | prefix | with / EN "co-"
 ei- | prefix | lack of something / English -less (e.g., sightless) / English a- (e.g., atypical)
 eiko | prep | without / FR "sans" / ES "sin"
-
+ven | v | come
+it | v | eat
 
 boi - boy
 apl - apple
 frag - frog
-
-## Verbs
-it - eat
-kxm - come
 
 Near adjective is used to indicate all honorary relationships
