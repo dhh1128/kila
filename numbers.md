@@ -1,9 +1,10 @@
 # Numbers
 
-Samu is strongly base-10 oriented.
+Kila is strongly base-10 oriented.
 
 number | word
 --- | ---
+0 | zo
 1 | un
 2 | to
 3 | si
@@ -39,9 +40,17 @@ number | word
 900 | nupoto
 1000 | umposi (one power of 3 - thousand)
 2000 | toumposi
-10000 | umpoka (one power of 4)
-100000 | umpofai (one power of 5 - lakh)
-1000000 | umpocei (one power of 6 - million)
+10 000 | umpokq (one power of 4)
+100 000 | umpofai (one power of 5 - lakh)
+1000 000 | umpocei (one power of 6 - million)
+1000 000 000 | umponu (one power of 9 - billion)
+1st | unxm
+2nd | toxm
+1/2 | toxm
+1/3 | sixm
+hi- | negative
+hitodisi | -23
+
 
 -xm converts to ordinal
 -man means a fuzzy group of that size, like "-aine" in French

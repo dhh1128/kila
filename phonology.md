@@ -21,7 +21,6 @@ The glides written with "w" and "y" in English are written with their vowel (e.g
 
 c = [sh] as in [sh]ip<br>
 j = [zh] as in a[z]ure<br>
-6 = [ng] as in si[ng]
 
 tc = [ch] as in [ch]ip<br>
 dj = [j] as in [j]oy
