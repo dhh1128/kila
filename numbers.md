@@ -1,8 +1,12 @@
 # Numbers
 
-Kila is strongly base-10 oriented.
+Kila is strongly base-10 oriented, and its numbering system is easy to learn because it is so predictable.
 
-number | word
+English has number words for the digits zero through nine, but it also has number words that are less directly tied to digits, like "ten", and "eleven". Kila, on the other hand, always models number words as sequences of one to three digits.
+
+The digit names in kila are:
+
+digit | word
 --- | ---
 0 | zo
 1 | un
@@ -14,44 +18,24 @@ number | word
 7 | sxt
 8 | ok
 9 | nuv
-10 | dis
-11 | disun
-12 | dito
-13 | disi
-14 | dikq
-15 | difai
-16 | dicei
-17 | disxt
-18 | diok
-19 | dinuv
-20 | todi
-21 | todisun
-30 | sidi
-40 | kqdi
-50 | faidi
-60 | ceidi
-70 | sxdi
-80 | odi
-90 | nudi
-100 | umpoto 
-200 | topoto (two power of 2)
-300 | sipoto
-800 | opoto
-900 | nupoto
-1000 | umposi (one power of 3 - thousand)
-2000 | toumposi
-10 000 | umpokq (one power of 4)
-100 000 | umpofai (one power of 5 - lakh)
-1000 000 | umpocei (one power of 6 - million)
-1000 000 000 | umponu (one power of 9 - billion)
-1st | unxm
-2nd | toxm
-1/2 | toxm
-1/3 | sixm
-hi- | negative
-hitodisi | -23
 
+The sequence of digits in the number 24 is the digit 2 followed by the digit 4 -- so the number word for 24 in kila is "tokq" (the word for "two" followed by the word for "four"). Similarly, the word for 100 in kila is "unzozo".
 
--xm converts to ordinal
--man means a fuzzy group of that size, like "-aine" in French
- 
+Numbers are virtually always written with actual digits in kila text. However, they can be spelled as words, and whichever form they take, they are pronounced the same way. "100" and "unzozo" sound the same when read aloud.
+
+If a number is more than 3 digits long, its digits are grouped into clusters of 3, beginning at the rightmost (least signficant) digit, with a comma separating each group. Thus, 42765 would be written in kila text as 42,765.
+
+When a large number like this is spoken aloud, it becomes a phrase, with one number word for each digit cluster. The commas correspond to vocal pauses between number words.
+
+Each digit cluster in a large number carries a suffix that tells how many zeros (which power of ten) its rightmost digit represents. This suffix is built from the syllable /po/ plus the number word for the associated number of zeros (power of ten). Returning to our sample large number, 42765, the cluster 42 represents 42 thousands, or 42 * 10^3. Therefore, the number word for this digit cluster is "kqto" (the digit cluster part) plus the suffix "-posi", where "si" tells us that 42 is a cluster for ten-to-the-power-of-3. Thus, the complete sequence of syllables that corresponds to the kila word "42,765" is:
+
+    kqtoposi sxtceifai
+
+From this convention, we derive the word "posi" for "thousand", "pocei" for million, "ponuv" for billion, "pounto" for trillion, and so forth.
+
+Negative numbers are preceded by the prefix "hi-". Thus, -4816 would be "hikqposi okuncei".
+
+Ordinals are constructed by adding the suffix "-xm" to the number. This rule is completely regular. Thus, the translation of English "first" or "1st" could be written as "1xm" or "unxm" in kila.
+
+Words for groups of a given size are built with numbers plus the suffix "-man". This is analogous to the French pattern of adding "-aine" to a number ("ventaine" is a group of 20, "centaine" is a group of 100, and "douzaine" is a group of 12 -- compare English "dozen"). Thus, "dozen" in kila would be "untoem".
+

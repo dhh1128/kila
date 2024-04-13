@@ -18,6 +18,8 @@ kukuanta | n | formal relatives by blood or marriage
 nirant | n | a person you live with
 lonkuanta | n | tribe
 anta | n | human / person
+vxanta | n | people
+-vnt | n | people (suffix preceded by type of people)
 antyk | ad | human
 nixn | n | friend
 koxn | n | partner

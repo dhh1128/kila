@@ -26,11 +26,11 @@ extreme | so | 4 | sodag = a very doggy dog; sotodag = an enormous dog of a dog;
 
 meaning | decorator | default spread | note
 --- | --- | --- | ---
-verb tense | vy = future, dy = past | 1 | kxmvy = will come, kxmdy = did come
-imperative aspect | du | 1 | kxmdu = come!
-infinitive aspect | tr | 1 | kxmtr is the opposite of gotr
-ongoing aspect | gx | 2 | kxmgx = is coming, kxmdygx = was coming, kxmvygx = will be coming
-completive aspect | hq | 3 | kxmhq = have come, kxmdyhq = had come, kxmdyhqvw = would have come, kmdygxhqvw = would have been coming
-conditional aspect | vw | 4 | kxmvw = would come, kxmgovw = would be coming
+verb tense | vy = future, dy = past | 1 | wakvy = will walk, wakdy = did walk
+imperative aspect | du | 1 | wakdu = walk!
+infinitive or past participle aspect | n | 1 | wakn is the opposite of rxnn; 
+ongoing aspect | gx | 2 | wakgx = is walking, wakdygx = was walking, wakvygx = will be walking
+perfective aspect | hq | 3 | wakhq = have come, wakdyhq = had come, wakdyhqvw = would have come, kmdygxhqvw = would have been walking
+conditional aspect | vw | 4 | wakvw = would come, wakgovw = would be walking
 
-reflexive (acted upon / passive) aspect | si | 0 | kxmsi
+reflexive (acted upon / passive) aspect | si | 0 | waksi
