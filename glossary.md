@@ -5,21 +5,26 @@ lexeme | pos | definition | notes
 -cn | fix | convert a verb to a noun that embodies its effect or outcome / ~EN "-ion" | kriet ("to create") -> kreitcn ("creation"); qkt ("to act") -> qktcn ("action")
 -du | fix | imperative form of a verb | spread = 1
 -or | fix | convert a verb to the party who performs the verb | qkt -> qctor
+-vnt | n | people (suffix preceded by type of people) | 
 -xm | fix | converts a number to an ordinal or denominator | 
 -yk | fix | convert noun or verb to its essential characteristic / ~EN "-ful" / ~EN "-ish" | rwvn ("to dream") -> rwvyk ("dreamy")
 abitn | v | to dwell | 
 aho | prep | unto | 
+ai | n | eye | 
 al | quantifier | all | 
 an | prep | on / upon | 
+anta | n | human / person | 
+antyk | ad | human | 
 bikxmn | v | to become | 
 bin | v | to be | 
 bxlivn | v | to believe | 
+co | n | child | cico for daughter, tahico for grandson
 con | v | to show | 
 desidn | v | to decide | 
 dimyntn | v | to decrease / to reduce | 
 donk | conj | so / therefore | 
 dun | v | to do | 
-dx | prep | of (association of two nouns: house of cards) / possession / signal of indirect object for following pronoun | 
+dx | prep | from / of (association of two nouns: house of cards) / possession / signal of indirect object for following noun or pronoun | 
 ei | pronoun | he / it / she | third person singular
 ei- | fix | English -less (e.g., sightless) / English a- (e.g., atypical) / as a verb fix, to leave something undone / lack of something | 
 eifyncn | n | infinity | 
@@ -32,14 +37,20 @@ fyncn | n | end |
 fynn | v | to end / to finish | 
 getn | v | to get | 
 gon | v | to go | 
+gqdrn | v | to gather | 
+gqdryk | ad | together | 
 gron | v | to grow | 
 gyvn | v | to give | 
+hai | ad | high | 
+harkn | v | to hearken | 
 havn | v | to have | 
 helpn | v | to aid / to assist / to help | 
 hirn | v | to hear | 
+ho | interjection | Oh ("Oh!" or "O ye of little faith" or "Oh no") | 
 hqpn | v | to happen / to occur | 
 hu | pronoun | who | 
 i | pronoun | I | first person singular
+isl | n | island | 
 itn | v | to eat | 
 iuzn | v | to use | 
 jentvnt | n | gentile | 
@@ -49,28 +60,39 @@ kal | v | to call |
 kaus | n | house | 
 kipn | v | to keep | 
 klozn | v | to close | 
+kn | n | spouse | 
 ko | prep | with | 
 ko- | fix | EN "co-" / with | 
 komprenn | v | to comprehend / to understand | 
 kontroln | v | to control | 
+koxn | n | partner | 
 kreitn | v | to create | 
+krk | n | church (building) / church (institution) | 
+ku- | fix | by marriage | kusyb is step sibling and kucisai is stepmother
+kuanta | n | family (casual usage) / nuclear family | 
+kukuanta | n | formal relatives by blood or marriage | 
+kupar | v | to marry | 
 kx | relpro | ~that (relative pronoun) | Also introduces clauses that would start with "who" or "which" in English.
 kxmn | v | to come | 
 kyj | n | year | 
 kyln | v | to kill | 
 leibrn | v | to labor | 
-leidn | v | to lade / to load | 
 lejer | ad | light (not weighing much) | FR "leger"
 letn | v | to allow / to let | 
 liv | n | book | 
 livn | v | to leave | 
+lo | ad | low | 
+lodn | v | to lade / to load | 
 lon | ad | far | 
+lonkuanta | n | tribe | 
 lrnn | v | to learn | 
 lun | n | moon | 
 lurd | ad | heavy | FR "lourde"
 lwk | v | to look | 
 lx | article | the (definite article) | 
+lysn | v | to listen | Not a perfect borrowing from English, because there's not an extra /n/.
 lyvn | v | to live (not "to dwell"; only antonym of "to die") | 
+mar | n | sea | 
 meikn | v | to make | 
 mencn | n | beginning / start | 
 mensn | v | to begin / to commence / to start | 
@@ -82,6 +104,10 @@ mqnyjn | v | to manage |
 naija | n | hour | 
 nidn | v | to need | 
 nir | ad | near | 
+nir- | fix | by close or honorary relationship | nirhico would be a reasonable translation of godson; a dear friend of your parents, who might be called an honorary "aunt" or "uncle" in English,
+nirant | n | a person you live with | 
+nixn | n | friend | 
+no | interjection | no / not | 
 nol | n | star | 
 non | v | to know | 
 nx | conj | and | 
@@ -125,12 +151,16 @@ ridun | v | to redo / to repeat |
 ruak | n | spirit | See Strongs 7307.
 rwvn | v | to dream | 
 rxnn | v | to run | 
+sai | n | parent | hisai and cisai for father and mother
+saisyb | n | aunt or uncle | hisaisyb is on dad's side and cisaicisyb is an aunt on the mother's side
 savan | v | to charge / to command / to lay charge upon (see Strongs 6680) | 
 see | v | to see | 
 sein | v | to say | 
+si | interjection | yea / yes | 
 sig | ad | next | 
 sigan | v | to follow | 
 simn | v | to seem | 
+sitakusyb | n | 3rd cousin | 
 sixm | ad | one third / third | 
 skribn | v | to write | 
 su | prep | under | 
@@ -139,12 +169,16 @@ sxm | quantifier | some |
 sxmpokq | n | legion (military unit with thousands of soldiers) | 
 sxn | n | sun | 
 sxtoi | n | week | 
+syb | n | sibling | hisyb and cisyb for bro and sis
 sypl | n | a durationless point in time / instant / moment | 
+ta- | fix | adds a generation | tapai for grandfather, tamai for grandma
 takn | v | to talk | 
+takusyb | n | cousin (literally, sibling by marriage one generation away) | 
 tam | ad | also | 
 teikn | v | to take | 
 teln | v | to tell | 
 titl | n | title | 
+totakucisyb | n | female 2nd cousin | 
 toxm | ad | second (ordinal) | 
 toxm | ad | half | In English, the ordinal "second" and the fraction "half" are different words, but the ordinal "third" and the fraction "third" are not. Kila is consistent in using the same word for both concepts, because a fraction is just the ordinal piece of an overall pie.
 train | v | to try | 
@@ -159,7 +193,10 @@ uxt | pronoun | what |
 vai | prep | over | 
 vei | pronoun | they | third person plural
 vi | pronoun | we | first person plural
+vos | n | voice | 
+vre | n | truth | 
 vu | pronoun | ye / you | second person plural
+vxanta | n | people | 
 wakn | v | to walk | 
 wantn | v | to want | 
 wrkn | v | to work | 

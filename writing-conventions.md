@@ -1,5 +1,5 @@
-# Writing conventions
+# Writing Conventions
 
-* Proper nouns (a label for a unique person or object) preceded with a hyphen. This includes titles of creative works, headings in a document. What about references to same? Subsequent appearances? Geographical features?
-* One-syllable words ending in vowel /x/ omit the x.
-* first word in sentence?
+1. No capitals.
+2. One-syllable words ending in /x/ are written without the trailing vowel: nx &rarr; n, dx &rarr; d.
+3. Sequences of one-syllable words like this are written just as consonant clusters: nx dx &rarr; nd
