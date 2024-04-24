@@ -35,7 +35,7 @@ gyvn | v | to give |
 havn | v | to have | 
 helpn | v | to aid / to assist / to help | 
 hirn | v | to hear | 
-hqpn | v | to happen | 
+hqpn | v | to happen / to occur | 
 hu | pronoun | who | 
 i | pronoun | I | first person singular
 itn | v | to eat | 
@@ -165,6 +165,7 @@ xkauntn | v | to account (give a history) |
 xn- | fix | to cancel or negate or rollback an action | 
 xndun | v | to undo | 
 ympruvn | v | to improve | 
+yn | prep | in | 
 ynklun | v | to include | 
 yz | particle | ~FR "est-ce que" | query word to start a yes/no question (since word order doesn't change)
 zaln | n | minute | 
