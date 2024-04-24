@@ -7,7 +7,6 @@ lexeme | pos | definition | notes
 -or | fix | convert a verb to the party who performs the verb | qkt -> qctor
 -xm | fix | converts a number to an ordinal or denominator | 
 -yk | fix | convert noun or verb to its essential characteristic / ~EN "-ful" / ~EN "-ish" | rwvn ("to dream") -> rwvyk ("dreamy")
-WOW2 | excl | EN wow | 
 abitn | v | to dwell | 
 aho | prep | unto | 
 al | quantifier | all | 
@@ -20,7 +19,7 @@ desidn | v | to decide |
 dimyntn | v | to decrease / to reduce | 
 donk | conj | so / therefore | 
 dun | v | to do | 
-dx | prep | of (association of two nouns) | 
+dx | prep | of (association of two nouns: house of cards) / possession / signal of indirect object for following pronoun | 
 ei | pronoun | he / it / she | third person singular
 ei- | fix | English -less (e.g., sightless) / English a- (e.g., atypical) / as a verb fix, to leave something undone / lack of something | 
 eifyncn | n | infinity | 
@@ -38,6 +37,7 @@ gyvn | v | to give |
 havn | v | to have | 
 helpn | v | to aid / to assist / to help | 
 hirn | v | to hear | 
+hqpn | v | to happen / to occur | 
 hu | pronoun | who | 
 i | pronoun | I | first person singular
 itn | v | to eat | 
@@ -59,11 +59,15 @@ kxmn | v | to come |
 kyj | n | year | 
 kyln | v | to kill | 
 leibrn | v | to labor | 
+leidn | v | to lade / to load | 
+lejer | ad | light (not weighing much) | FR "leger"
 letn | v | to allow / to let | 
 liv | n | book | 
 livn | v | to leave | 
 lon | ad | far | 
 lrnn | v | to learn | 
+lun | n | moon | 
+lurd | ad | heavy | FR "lourde"
 lwk | v | to look | 
 lx | article | the (definite article) | 
 lyvn | v | to live (not "to dwell"; only antonym of "to die") | 
@@ -78,6 +82,7 @@ mqnyjn | v | to manage |
 naija | n | hour | 
 nidn | v | to need | 
 nir | ad | near | 
+nol | n | star | 
 non | v | to know | 
 nx | conj | and | 
 o | prep | to | 
@@ -108,9 +113,11 @@ prosain | v | to prophesy |
 pwtn | v | to put | 
 qktn | v | to act | 
 qskn | v | to ask | 
+reinn | v | to rain | 
 rejist | n | record | 
 rejistcn | n | registry | 
 rejistn | v | to record / to register | 
+reposn | v | to repose / to rest | 
 rest | n | remnant | 
 restn | v | to remain | 
 ri- | fix | to do something again | 
@@ -118,7 +125,7 @@ ridun | v | to redo / to repeat |
 ruak | n | spirit | See Strongs 7307.
 rwvn | v | to dream | 
 rxnn | v | to run | 
-savan | v | to charge / to command / to lay charge upon | See Strongs 6680.
+savan | v | to charge / to command / to lay charge upon (see Strongs 6680) | 
 see | v | to see | 
 sein | v | to say | 
 sig | ad | next | 
@@ -130,6 +137,7 @@ su | prep | under |
 suvn | v | to remember | 
 sxm | quantifier | some | 
 sxmpokq | n | legion (military unit with thousands of soldiers) | 
+sxn | n | sun | 
 sxtoi | n | week | 
 sypl | n | a durationless point in time / instant / moment | 
 takn | v | to talk | 
@@ -161,6 +169,7 @@ xkauntn | v | to account (give a history) |
 xn- | fix | to cancel or negate or rollback an action | 
 xndun | v | to undo | 
 ympruvn | v | to improve | 
+yn | prep | in | 
 ynklun | v | to include | 
 yz | particle | ~FR "est-ce que" | query word to start a yes/no question (since word order doesn't change)
 zaln | n | minute | 
