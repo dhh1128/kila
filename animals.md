@@ -25,38 +25,3 @@ setys | whale
 pynys | seal
 celys | shellfish
 krxstys | crustacean
-
-
-English | kila
---- | ---
-cow, cattle, kine, bovine | kain (with hi- or ci- if sex matters)
-steer | stir
-ox | aks
-dog / canine | dag
-cat / feline | kqt
-sheep, ram, ewe | cip (with hi- or ci- if sex matters)
-goat | got
-lizard | lyzr
-snake | srp
-horse | hyp
-whale | ueil
-
-
-However, kila does not follow the pattern familiar from English, of having different animal names for the male and female of a species (ewe vs. ram). This means that some common English animal words, like "cow", tend to 
-
-English | kila
---- | ---
-cow, cattle, kine, bovine | kain (with hi- or ci- if sex matters)
-steer | stir
-ox | aks
-dog / canine | dag
-cat / feline | kqt
-sheep, ram, ewe | cip (with hi- or ci- if sex matters)
-goat | got
-lizard | lyzr
-snake | srp
-horse | hyp
-whale | ueil
-killer whale | orka
-bird | brd
-
