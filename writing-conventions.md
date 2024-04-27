@@ -15,4 +15,4 @@
 
 1. Text is emphasized (italicized) by surrounding it with asterisks: ei bi \*sobyg\*.
 
-1. Foreign words are surrounded by underscores: i abit yn \_Switzerland\_.
+1. Foreign words or phrases are surrounded by underscores, if they are lower case: i hav \_déjà vu\_. However, if the foreign word or phrase is capitalized, this is unnecessary: i abit yn Switzerland.
