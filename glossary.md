@@ -24,6 +24,7 @@ antyk | ad | human |
 arm | n | arm (body part) / arm (weapon) | 
 armn | v | to arm (equip for battle) | 
 armr | n | armor | 
+au | interjection | ouch / shoot | 
 bikxmn | v | to become | 
 bin | v | to be | 
 bovys | n | bovine / cattle / cow / kine | 
@@ -115,6 +116,7 @@ kubrn | v | to cover |
 kukuanta | n | formal relatives by blood or marriage | 
 kupar | v | to marry | 
 kursn | v | to course (blood coursed through his veins) / to race | 
+kuyk | ad | fast / quick / rapid | 
 kx | relpro | ~that (relative pronoun) | Also introduces clauses that would start with "who" or "which" in English.
 kxmn | v | to come | 
 kyj | n | year | 
@@ -231,6 +233,7 @@ sixm | ad | one third / third |
 skribn | v | to write | 
 smal | ad | small | 
 so- | fix | extreme / intense / very | 
+spikn | v | to speak | 
 srpys | n | snake | 
 su | prep | under | 
 suvn | v | to remember | 
@@ -258,6 +261,7 @@ u | pronoun | thee / you | second person singular
 uai | ad | why | 
 uen | ad | when | 
 uer | ad | where | 
+un | quant | a / one | 
 unzoxm | ad | tenth | 
 uxt | pronoun | what | 
 vai | prep | over | 
