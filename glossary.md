@@ -9,7 +9,7 @@ lexeme | pos | definition | notes
 -ri | fix | a place characterized by what precedes the suffix | 
 -vnt | n | people (suffix preceded by type of people) | 
 -xm | fix | converts a number to an ordinal or denominator | 
--yk | fix | convert noun or verb to its essential characteristic / ~EN "-ful" / ~EN "-ish" | rwvn ("to dream") -> rwvyk ("dreamy")
+-yk | fix | convert noun or verb to its essential characteristic / ~EN "-ful" / ~EN "-ish" / ~EN "-ous" | rwvn ("to dream") -> rwvyk ("dreamy")
 a | prep | at / to | 
 abitn | v | to dwell | 
 af | prep | off | 
@@ -19,6 +19,7 @@ ai | n | eye |
 aks | n | ox | 
 al | quantifier | all | 
 an | prep | on / upon | 
+anj | n | angel | 
 anta | n | human / person | 
 antyk | ad | human | 
 arm | n | arm (body part) / arm (weapon) | 
@@ -128,10 +129,12 @@ lejer | ad | light (not weighing much) | FR "leger"
 letn | v | to allow / to let | 
 liv | n | book | 
 livn | v | to leave | 
+livrn | v | deliver | FR livrer, DE abliefern
 lo | ad | low | 
 lodn | v | to lade / to load | 
 lon | ad | far | 
 lonkuanta | n | tribe | 
+lord | n | lord | 
 lrnn | v | to learn | 
 lun | n | moon | 
 lurd | ad | heavy | FR "lourde"
@@ -142,6 +145,8 @@ lyvn | v | to live (not "to dwell"; only antonym of "to die") |
 lyzys | n | lizard | 
 mar | n | sea | 
 meikn | v | to make | 
+melkn | v | to govern / to reign / to rule / to take counsel | see Strongs 4427 מָ
+melkor | n | ruler / >king / >queen | see Strongs 4427
 mencn | n | beginning / start | 
 mensn | v | to begin / to commence / to start | 
 minn | v | to mean / to signify | 
@@ -174,6 +179,9 @@ plak | n | plaque / plate |
 plein | v | to play | 
 pocei | n | million | 
 poceikyj | n | eon | 
+pod | n | power | 
+podn | v | to be able or capable / to have power to do / ~EN can / ~ES poder / ~FR pouvoir | 
+podyk | ad | powerful | 
 pofai | n | lakh | 
 pokq | n | ten thousand | 
 ponuv | n | billion | 
@@ -263,6 +271,7 @@ uen | ad | when |
 uer | ad | where | 
 un | quant | a / one | 
 unzoxm | ad | tenth | 
+urd | n | word | 
 uxt | pronoun | what | 
 vai | prep | over | 
 vehik | n | vehicle | 
