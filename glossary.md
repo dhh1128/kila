@@ -57,16 +57,19 @@ ekapn | v | to escape |
 eksplain | v | to explain | 
 eksrsisn | v | to exercise / to go through planned, intentional actions | 
 faindn | v | to find | 
+favrn | v | to favor / to prefer | 
 filn | v | to feel | 
 filys | n | cat | 
 firn | v | to fear | 
 fyncn | n | end | 
 fynn | v | to end / to finish | 
+gad | n | god | 
 getn | v | to get | 
 gon | v | to go | 
 got | n | goat | 
 gqdrn | v | to gather | 
 gqdryk | ad | together | 
+gran | ad | great | 
 gron | v | to grow | 
 gyvn | v | to give | 
 hai | ad | high | 
@@ -97,6 +100,8 @@ kampn | v | to camp / to occupy territory |
 kaos | n | chaos | 
 kasn | v | to cause | 
 kaus | n | house | 
+ken | n | comprehension / insight / practical knowledge / understanding | contrast "nocn", memorized knowledge
+kenn | v | to be familiar with / to know the nature of / to understand / ~ES conocer / ~FR connaitre | contrast "non", to know or perceive a fact
 ki | deixis | here / this | 
 kiet | ad | quiet | 
 kijum | n | today | 
@@ -160,6 +165,7 @@ mqgza | n | second |
 mqn | n | hand | 
 mqnyjn | v | to manage | 
 mylyter | n | military | 
+mystr | n | mystery | 
 naija | n | hour | 
 nasn | v | to bear a child / to birth | normally used in passive construction: i d nasdy = I was born
 nidn | v | to need | 
@@ -168,9 +174,10 @@ nir- | fix | by close or honorary relationship | nirhico would be a reasonable t
 nirant | n | a person you live with | 
 nixn | n | friend | 
 no | interjection | no / not | 
+nocn | n | memorized knowledge | contrast "ken", deep understanding
 nol | n | star | 
 nom | n | name | 
-non | v | to know | 
+non | v | to know or perceive a fact or abstract proposition | contrast "kenn", to understand or be familiar with the nature of
 nx | conj | and | 
 omxk | n | month | 
 omyntn | v | to augment / to increase | 
@@ -237,7 +244,7 @@ sein | v | to say |
 sektys | n | insect | 
 sentr | n | center | 
 sep | conj | but | 
-sepn | conj | however / nevertheless / yet | 
+sepn | conj | however / nevertheless / yet / ~FR cependant | 
 setys | n | whale | 
 si | interjection | yea / yes | 
 sidad | n | city | 
