@@ -13,6 +13,7 @@ lexeme | pos | definition | notes
 a | prep | at / to | 
 abitn | v | to dwell | 
 af | prep | off | 
+aflikn | v | to afflict | 
 afys | n | office (a formal role) | compare afysri (the location)
 aho | prep | unto | 
 ai | n | eye | 
@@ -24,10 +25,12 @@ anta | n | human / person |
 antyk | ad | human | 
 arm | n | arm (body part) / arm (weapon) | 
 armn | v | to arm (equip for battle) | 
+armnim | n | army | 
 armr | n | armor | 
 au | interjection | ouch / shoot | 
 bikxmn | v | to become | 
 bin | v | to be | 
+bon | ad | good / well | 
 bovys | n | bovine / cattle / cow / kine | 
 bxlivn | v | to believe | 
 bxs | n | bus | 
@@ -100,7 +103,7 @@ kijum | n | today |
 kipn | v | to keep | 
 klozn | v | to close | 
 kn | n | spouse | 
-knstrxktn | v | to construct | 
+knstrxkn | v | to construct | 
 ko | prep | with | 
 ko- | fix | EN "co-" / with | 
 kolidn | v | to collide | 
@@ -143,12 +146,14 @@ lx | article | the (definite article) |
 lysn | v | to listen | Not a perfect borrowing from English, because there's not an extra /n/.
 lyvn | v | to live (not "to dwell"; only antonym of "to die") | 
 lyzys | n | lizard | 
+mal | ad | bad / badly / poor | 
 mar | n | sea | 
 meikn | v | to make | 
 melkn | v | to govern / to reign / to rule / to take counsel | see Strongs 4427 מָ
 melkor | n | ruler / >king / >queen | see Strongs 4427
 mencn | n | beginning / start | 
 mensn | v | to begin / to commence / to start | 
+mensyk | ad | initial / initially | 
 minn | v | to mean / to signify | 
 mortn | v | to die | 
 mqgza | n | second | 
@@ -156,6 +161,7 @@ mqn | n | hand |
 mqnyjn | v | to manage | 
 mylyter | n | military | 
 naija | n | hour | 
+nasn | v | to bear a child / to birth | normally used in passive construction: i d nasdy = I was born
 nidn | v | to need | 
 nir | ad | near | 
 nir- | fix | by close or honorary relationship | nirhico would be a reasonable translation of godson; a dear friend of your parents, who might be called an honorary "aunt" or "uncle" in English,
@@ -230,6 +236,8 @@ see | v | to see |
 sein | v | to say | 
 sektys | n | insect | 
 sentr | n | center | 
+sep | conj | but | 
+sepn | conj | however / nevertheless / yet | 
 setys | n | whale | 
 si | interjection | yea / yes | 
 sidad | n | city | 
@@ -241,12 +249,14 @@ sixm | ad | one third / third |
 skribn | v | to write | 
 smal | ad | small | 
 so- | fix | extreme / intense / very | 
+sovx | ad | many / much | 
 spikn | v | to speak | 
 srpys | n | snake | 
 su | prep | under | 
 suvn | v | to remember | 
 sxm | quantifier | some | 
 sxmpokq | n | legion (military unit with thousands of soldiers) | 
+sxmyk | ad | partial / partially / somewhat | 
 sxn | n | sun | 
 sxtoi | n | week | 
 syb | n | sibling | hisyb and cisyb for bro and sis
@@ -258,6 +268,7 @@ tam | ad | also |
 tcim | pronoun | of which / ~FR "dont" | 
 teikn | v | to take | 
 teln | v | to tell | 
+titcn | v | to teach | 
 titl | n | title | 
 totakucisyb | n | female 2nd cousin | 
 toxm | ad | second (ordinal) | 
@@ -281,6 +292,7 @@ vos | n | voice |
 vre | n | truth | 
 vu | pronoun | ye / you | second person plural
 vxanta | n | people | 
+w | conj | or | 
 wakn | v | to walk | 
 wantn | v | to want | 
 wrkn | v | to work | 
