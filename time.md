@@ -6,10 +6,10 @@ instant, moment | sypl
 second | mqgza
 minute | zaln
 hour | naija
-day | jum
-week | soitxm
-month | txmaik
+day | ju
+week | sxtm
+month | omxk
 year | kyj
-decade | dikyj
-century | potokyj
+decade | zokyj
+century | zozokyj
 millennium | posikyj

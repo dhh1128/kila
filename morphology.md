@@ -14,10 +14,10 @@ meaning | decorator | default spread | note
 --- | --- | --- | ---
 possessive | dx | 5 | 
 plural (more than one) | vx | 4 | vxdag = plural of dag (dog)
-feminine | si | 1 | sidag = female dag; vxsidag = multiple female dogs
+feminine | ci | 1 | cidag = female dag; vxcidag = multiple female dogs
 masculine | hi | 1 | Both genders are marked.
-diminutive or endearing | ti | 3 | tidag = little dag; vxtisidag = cute female puppies
-augmentive | to | 3 | todag = great big dog
+diminutive or endearing | in | 3 | indag = little dag; vxinsidag = cute female puppies
+augmentive | gr | 3 | grdag = great big dog
 foul or evil or damaged | mei | 2 | meidag = nasty dog
 beautiful or good or pure | li | 2 | lidag = beautiful dog
 extreme | so | 4 | sodag = a very doggy dog; sotodag = an enormous dog of a dog; sovxdag = lots of dogs
