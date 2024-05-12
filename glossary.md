@@ -13,7 +13,6 @@ lemma | pos | definition | notes
 -yk | fix | convert noun or verb to its essential characteristic / ~EN "-ful" / ~EN "-ish" / ~EN "-ous" | rwvn ("to dream") -> rwvyk ("dreamy")
 10mxk | n | october | 
 11mxk | n | november | 
-12 | n | twelve | 
 12mxk | n | december | 
 1mxk | n | january | 
 1ves | ad | once | 
@@ -27,7 +26,6 @@ lemma | pos | definition | notes
 7mxk | n | july | 
 8mxk | n | august (the month) | 
 9mxk | n | september | 
-TEST | test | test | 
 a | prep | at / to | 
 abi | ad | i.e. / that is / that is to say | 
 abitn | v | to dwell | 
@@ -94,7 +92,7 @@ eifynyk | ad | endless / infinite |
 eiko | prep | ES "sin" / FR "sans" / without | 
 ek | ad | e.g. / for example | 
 ekapn | v | to escape | 
-eks | prep | out | 
+es | prep | out | 
 elo | ad | yellow | 
 eni | det | any | 
 enicoz | n | anything | 
