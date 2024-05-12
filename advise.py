@@ -43,7 +43,7 @@ def advise(tags):
             if word in ['a', 'an', 'the']:
                 pass # no need to translate
             elif word in ['this', 'that', 'these', 'those']:
-                revised.append((word, 'deixis'))
+                revised.append((word, 'det'))
             elif word == 'some':
                 revised.append((word, 'quant'))
         #elif pos == 'CC', 'coordinating conjunction', 'conj'),

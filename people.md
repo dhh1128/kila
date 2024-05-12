@@ -1,6 +1,6 @@
 # People
 
-lexeme | pos | definition | notes
+lemma | pos | definition | notes
 --- | --- | --- | ---
 syb | n | sibling | hisyb and cisyb for bro and sis
 sai | n | parent | hisai and cisai for father and mother
