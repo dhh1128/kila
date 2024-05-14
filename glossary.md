@@ -1,18 +1,18 @@
 # Glossary
 
-lemma | pos | definition | notes
------ | --- | ---------- | -----
--cn | fix | convert a verb to a noun that embodies its effect or outcome / ~EN "-ion" | kret ("to create") -> kretcn ("creation"); qk ("to ac") -> qkcn ("action")
--du | fix | imperative form of a verb | spread = 1
--ezn | fix | -ize (convert noun into verb that produces the noun) | 
--i | fix | -ee (convert verb into one receiving action) | 
--im | fix | a group of something | 
--mekor | fix | one who makes | 
--or | fix | convert a verb to the party who performs the verb | qk -> qcor
--ri | fix | a place characterized by what precedes the suffix | 
--vnt | n | people (suffix preceded by type of people) | 
--xm | fix | converts a number to an ordinal or denominator | 
--yk | fix | convert noun or verb to its essential characteristic / ~EN "-ful" / ~EN "-ish" / ~EN "-ous" | rwvn ("to dream") -> rwvyk ("dreamy")
+lemma | tags | definition | notes
+----- | ---- | ---------- | -----
+-cn | fix | convert a verb to a noun that embodies its effect or outcome / ~EN "-ion" | kret -> kretcn
+-du | fix | put a verb in imperative mood | spread = 1
+-ezn | fix | -ize: convert noun into verb that produces the noun | compare EN philosophy -> philosophize
+-i | fix | -ee: convert verb into one receiving action (inductee) | compare EN induct -> inductee
+-im | fix | a group of something (especially people) | 
+-mekor | fix | -maker: convert noun into one who makes it | compare EN trouble -> troublemaker
+-or | fix | convert a verb to the party who performs the verb | compare EN sail -> sailor
+-ri | fix | convert a noun or verb into a place characterized by it | compare EN bake -> bakery
+-vnt | n | people (suffix preceded by type of people) | compare EN Canaan -> Canaanites
+-xm | fix | converts a number to an ordinal or denominator | compare EN 4 -> 4th
+-yk | fix | convert noun or verb to its essential characteristic / ~EN "-ful" / ~EN "-ish" / ~EN "-ous" | rwvn -> rwvyk
 10mxk | n | october | 
 11mxk | n | november | 
 12mxk | n | december | 
@@ -71,10 +71,10 @@ byg | ad | big |
 byld | n | building | 
 byldn | v | to build | 
 bytn | v | to bite | 
-cad | det | each | 
+cad | det pronoun | each | 
 canj | n | change | 
 canjn | v | to change | 
-cei | n | six | 
+cei | ad det | six | 
 celys | n | shellfish | 
 cer | ad | dear / precious | 
 ci- | fix | female | 
@@ -86,26 +86,26 @@ coz | n | ES cosa / FR chose / thing |
 cwz | n | choice | 
 cwzn | v | to choose | 
 dainosarys | n | dinosaur | 
-daun | ad | down | 
+daun | ad prep | down | 
 daunyk | ad | downward | 
 debn | v | "must" as a helper verb / ES deber / FR devoir / to owe (either money, or a duty) | 
 desidn | v | to decide | 
 dimyntn | v | to decrease / to reduce | 
-donk | ad | so / therefore / thus / wherefore | 
+donk | ad conj | so / therefore / thus / wherefore | 
 dormn | v | to sleep | 
-dr | prep | as / during / while | 
+dr | conj prep | as / during / while | 
 dun | v | to do | 
 dx | prep | from / of / passive particle | 
 e | pronoun | he / her (indirect obj) / him / it / she | third person singular
-ed | ad | her / his / its | 
+ed | ad pronoun | her / his / its | 
 ei- | fix | English -less (e.g., sightless) / English a- (e.g., atypical) / as a verb fix, to leave something undone / lack of something | 
 eifyncn | n | infinity | 
-eifynyk | ad | endless / infinite | 
+eifynyk | ad | endless / infinite / neverending | 
 eiko | prep | ES "sin" / FR "sans" / without | 
 ek | ad | e.g. / for example | 
 ekapn | v | to escape | 
 elo | ad | yellow | 
-eni | det | any | 
+eni | det pronoun | any | 
 enicoz | n | anything | 
 es | prep | out / out of | 
 esjekn | v | to eject | 
@@ -113,9 +113,9 @@ eskleimn | v | to cry out / to exclaim |
 esplain | v | to explain | 
 esprn | v | to hope | 
 esrsisn | v | to exercise / to go through planned, intentional actions | 
-essaid | prep | outside | 
+essaid | ad prep | outside | 
 ets | ad | and so forth / et cetera / etc. | 
-fai | n | five | 
+fai | ad det | five | 
 faindn | v | to find | 
 faln | v | to fall | 
 fam | n | woman | 
@@ -133,7 +133,7 @@ fortn | v | to strengthen |
 frbydn | v | to forbid | 
 frut | n | fruit | 
 fyln | v | to fill | 
-fyncn | n | end | 
+fyn | n | end | 
 fynmil | n | dinner / evening meal / supper | 
 fynn | v | to end / to finish | 
 fynyk | ad | at last / final / finally / last / lastly | 
@@ -156,7 +156,7 @@ harc | ad | harsh |
 harkn | v | to hearken | 
 hart | n | heart | 
 hat | ad | hot | 
-hau | ad | how (but not "how much" or "how come") | 
+hau | ad | how ("how it happened" but not "how much" or "how come") | 
 havn | v | to have | 
 helpn | v | to aid / to assist / to help | 
 hi- | fix | male | 
@@ -213,7 +213,7 @@ kontroln | v | to control |
 korp | n | body | 
 kovrsn | n | to converse | 
 koxn | n | partner | 
-kq | n | four | 
+kq | ad det | four | 
 kqnys | n | dog | 
 kraud | n | crowd | 
 kraudn | v | to crowd | 
@@ -237,7 +237,7 @@ kuparn | v | to marry |
 kuparyk | ad | marital / married | 
 kursn | v | to course (blood coursed through his veins) / to race | 
 kuyk | ad | fast / quick / rapid | 
-kx | relpro | ~that (relative pronoun) | Also introduces clauses that would start with "who" or "which" in English.
+kx | pronoun | ~that (relative pronoun) | Also introduces clauses that would start with "who" or "which" in English.
 kxmn | v | to come | 
 kyj | n | year | 
 kyln | v | to kill / to murder / to slay | 
@@ -267,7 +267,6 @@ lum | n | light |
 lun | n | moon | 
 lurd | ad | heavy | FR "lourde"
 lwkn | v | to look | 
-lx | article | the (definite article) | 
 lysn | v | to listen | Not a perfect borrowing from English, because there's not an extra /n/.
 lyzys | n | lizard | 
 macaki | n | annointed one / messiah | 
@@ -314,8 +313,7 @@ nir | ad | near |
 nir- | fix | by close or honorary relationship | nirhico would be a reasonable translation of godson; a dear friend of your parents, who might be called an honorary "aunt" or "uncle" in English, might be nirsaisyb.
 nirant | n | a person you live with | 
 nixn | n | friend | 
-no | det | ES ningún / FR aucun / no / none | 
-no | iject | no | 
+no | det iject | ES ningún / FR aucun / no / none | 
 nocoz | n | nothing | 
 nol | n | star | 
 nom | n | name | 
@@ -324,10 +322,10 @@ nord | ad | north |
 nordyk | ad | northern | 
 nori | ad | nowhere | 
 notc | n | night | 
-nuv | n | nine | 
+nuv | ad det | nine | 
 nx | conj | and | 
 o | iject | Oh ("Oh!" or "O ye of little faith" or "Oh no") | 
-ok | n | eight | 
+ok | ad det | eight | 
 oke | ad | okay | 
 om | n | man (male human) | 
 omxk | n | month | 
@@ -435,7 +433,7 @@ sepn | conj | however / nevertheless / notwithstanding / yet / ~FR cependant |
 sepyk | prep | despite / notwithstanding | 
 setys | n | whale | 
 shwdn | v | to have good reason ("ought", "should") | 
-si | n | three | 
+si | ad det | three | 
 si | iject | yea / yes | 
 sidad | n | city | 
 siel | n | heaven | 
@@ -469,7 +467,7 @@ sxmcoz | n | something |
 sxmpokq | n | legion (military unit with thousands of soldiers) | 
 sxmyk | ad | partial / partially / somewhat | 
 sxn | n | sun | 
-sxt | n | seven | 
+sxt | ad det | seven | 
 sxtm | n | week | 
 syb | n | sibling | hisyb and cisyb for bro and sis
 sypl | n | a durationless point in time / instant / moment | 
@@ -478,7 +476,7 @@ takn | v | to talk |
 takusyb | n | cousin (literally, sibling by marriage one generation away) | 
 tal | ad | reference to a certain, given, or specific item ("one day", "a given word", "a certain man") / ~ES tal / ~FR tel or telle | 
 talkx | conj | insomuch / such that | 
-tam | ad | also | 
+tam | ad | also / too | 
 tas | n | cup | 
 tcim | pronoun | of which / of whom / ~FR "dont" | 
 tekn | v | to take | 
@@ -490,7 +488,7 @@ tern | v | to land (a plane, a boat) |
 tetc | n | technology | 
 titcn | v | to teach | 
 titl | n | title | 
-to | n | two | 
+to | ad det | two | 
 tost | n | toast | 
 totakucisyb | n | female 2nd cousin | 
 toxm | ad | second (ordinal) | 
@@ -508,7 +506,7 @@ ud | ad | your (singular possessive) |
 uen | ad | when | 
 uer | ad | where | 
 uest | ad | west | 
-un | det | a / one | 
+un | ad det | a / one | 
 unto | n | twelve | 
 unun | n | eleven | 
 unxm | ad | first | 
@@ -574,7 +572,7 @@ zoign | v | to assert (solemnly) / to bear witness / to testify |
 zokyj | n | decade | "The 80s": vokzokyj; "the 1990s": vunposi-nuvzokyj.
 zozo | n | hundred | 
 zozokyj | n | century | 
-zx | article | the | 
+zx | det | the | 
 
     Involve
     Arrive
