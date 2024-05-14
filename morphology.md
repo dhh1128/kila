@@ -27,10 +27,10 @@ extreme | so | 4 | sodag = a very doggy dog; sotodag = an enormous dog of a dog;
 meaning | decorator | default spread | note
 --- | --- | --- | ---
 verb tense | vy = future, dy = past | 1 | wakvy = will walk, wakdy = did walk
-imperative aspect | du | 1 | wakdu = walk!
+imperative mood | du | 1 | wakdu = walk!
 infinitive or past participle aspect | n | 1 | wakn is the opposite of rxnn; 
 ongoing aspect | gx | 2 | wakgx = is walking, wakdygx = was walking, wakvygx = will be walking
-perfective aspect | hq | 3 | wakhq = have come, wakdyhq = had come, wakdyhqvw = would have come, wakdygxhqvw = would have been walking
-conditional aspect | vw | 4 | wakvw = would come, wakgovw = would be walking
+perfective aspect | hq | 3 | wakhq = have come, wakdyhq = had come, wakhqvw = would have come, wakgxhqvw = would have been walking
+conditional or subjunctive aspect | vw | 4 | wakvw = would come, wakgxvw = would be walking
 
 reflexive (acted upon / passive) aspect | si | 0 | waksi
