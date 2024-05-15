@@ -3,14 +3,19 @@
 lemma | tags | definition | notes
 ----- | ---- | ---------- | -----
 -cn | fix | convert a verb to a noun that embodies its effect or outcome / ~EN "-ion" | kret -> kretcn
--du | fix | put a verb in imperative mood | spread = 1
+-du | fix | imperative mood on a verb | spread = 1
 -ezn | fix | -ize: convert noun into verb that produces the noun | compare EN philosophy -> philosophize
+-gx | fix | ongoing aspect on a verb | spread = 2
+-hq | fix | perfective aspect on a verb | spread = 3
 -i | fix | -ee: convert verb into one receiving action (inductee) | compare EN induct -> inductee
 -im | fix | a group of something (especially people) | 
 -mekor | fix | -maker: convert noun into one who makes it | compare EN trouble -> troublemaker
+-n | fix | infinitive or past participle on a verb | spread = 1
 -or | fix | convert a verb to the party who performs the verb | compare EN sail -> sailor
 -ri | fix | convert a noun or verb into a place characterized by it | compare EN bake -> bakery
 -vnt | n | people (suffix preceded by type of people) | compare EN Canaan -> Canaanites
+-vw | fix | conditional or subjunctive mood on a verb | spread = 4
+-vy | fix | future tense on a verb | Shortened from /vyl/. spread = 1
 -xm | fix | converts a number to an ordinal or denominator | compare EN 4 -> 4th
 -yk | fix | convert noun or verb to its essential characteristic / ~EN "-ful" / ~EN "-ish" / ~EN "-ous" | rwvn -> rwvyk
 10mxk | n | october | 
@@ -54,8 +59,10 @@ arm | n | arm (body part) / arm (weapon) |
 armn | v | to arm (equip for battle) | 
 armnim | n | army | 
 armr | n | armor | 
+ato | n | self | 
 au | iject | ouch / shoot | 
 avys | n | bird | 
+bern | v | to bear (a burden) | cf nasn, to bear a child
 biholdn | v | to behold / to observe with wonder or awe | 
 bikxmn | v | to become | 
 bin | v | to be | 
@@ -77,7 +84,7 @@ canjn | v | to change |
 cei | ad det | six | 
 celys | n | shellfish | 
 cer | ad | dear / precious | 
-ci- | fix | female | 
+ci- | fix | female | spread = 1
 cikn | n | missus | 
 cip | n | sheep (also, ram or ewe) | 
 co | n | child | cico for daughter, tahico for grandson
@@ -144,6 +151,7 @@ gon | v | to go |
 got | n | goat | 
 gqdrn | v | to gather | 
 gqdryk | ad | together | 
+gr- | fix | ES -ote / augmentive | spread = 3
 gran | ad | great | 
 gre | ad | grey | 
 grleit | ad | later | 
@@ -159,7 +167,7 @@ hat | ad | hot |
 hau | ad | how ("how it happened" but not "how much" or "how come") | 
 havn | v | to have | 
 helpn | v | to aid / to assist / to help | 
-hi- | fix | male | 
+hi- | fix | male | spread = 1
 hikn | n | mister | 
 hirn | v | to hear | 
 holdn | v | to hold | 
@@ -178,6 +186,7 @@ i | pronoun | I / me | first person singular
 ia | det | over there / that / there | 
 id | ad | mine / my | 
 iecux | n | Jesus | 
+in- | fix | ES -ito / diminutive or endearing / ~FR -ette | spread = 3
 isl | n | island | 
 ist | ad | east | 
 itn | v | to eat | 
@@ -237,7 +246,7 @@ kuparn | v | to marry |
 kuparyk | ad | marital / married | 
 kursn | v | to course (blood coursed through his veins) / to race | 
 kuyk | ad | fast / quick / rapid | 
-kx | pronoun | ~that (relative pronoun) | Also introduces clauses that would start with "who" or "which" in English.
+kx | det pronoun | which / ~that (relative pronoun) | Also introduces clauses that would start with "who" or "which" in English.
 kxmn | v | to come | 
 kyj | n | year | 
 kyln | v | to kill / to murder / to slay | 
@@ -252,6 +261,7 @@ lejmekim | n | legislature, parliament, congress (a law-making body) |
 lejmekor | n | legislator / member of a parliament or governing body | 
 lejor | n | lawyer | 
 letn | v | to allow / to let | 
+li- | fix | beautiful, good, pure | spread = 2
 lisn | v | to lease / to rent | 
 liv | n | book | 
 livn | v | to leave | 
@@ -277,6 +287,7 @@ mar | n | sea |
 markn | v | to mark | 
 medin | v | to care for, medically / to doctor | 
 medior | n | doctor | 
+mei- | fix | foul, evil, damaged / ~EN mal- as in "maladroit" (but EN is less negative) | spread = 2
 mekn | v | to make | 
 melkn | v | to govern / to reign / to rule / to take counsel | see Strongs 4427 מָ
 melkor | n | ruler / >king / >queen | see Strongs 4427
@@ -306,7 +317,7 @@ mylyter | n | military |
 mystr | n | mystery | 
 naija | n | hour | 
 nais | ad | nice | 
-nasn | v | to bear (a child) / to birth | normally used in passive construction: i d nasdy = I was born
+nasn | v | to bear a child / to birth | normally used in passive construction: i d nasdy = I was born
 nau | ad | now | 
 nidn | v | to need | 
 nir | ad | near | 
@@ -340,6 +351,8 @@ partn | v | to divide up / to divvy up / to share |
 pask | conj | because / since (causation) | 
 ped | n | foot | 
 pein | v | to pay | 
+pek | n | sin | 
+pekn | n | to sin | 
 pensn | v | to think | 
 pirsn | v | to pierce | 
 piso | n | floor | 
@@ -447,7 +460,7 @@ sixm | ad | one third / third |
 sizo | n | thirty | 
 skribn | v | to write | 
 smal | ad | small | 
-so- | fix | extreme / intense / very | 
+so- | fix | extreme / intense / very | spread = 4
 sofa | n | couch / sofa | 
 sosin | v | to associate | 
 sovx | ad | many / much | 
@@ -458,10 +471,12 @@ srpys | n | serpent / snake |
 stat | n | state (government mechanism) | 
 storm | n | storm | 
 su | prep | under | 
+subern | v | to support or sustain at great cost, without sinking under | cf "suffer" in Websters 1828
 sud | ad | south | 
 sufi | ad | enough / sufficient | 
 sun | ad | soon | 
 suvn | v | to remember | 
+sxfrn | v | to suffer | 
 sxm | det | some | 
 sxmcoz | n | something | 
 sxmpokq | n | legion (military unit with thousands of soldiers) | 
@@ -485,6 +500,7 @@ templ | n | temple |
 ter | n | countryside / earth (dirt) / ground / land / terrain | 
 tercn | n | territory | 
 tern | v | to land (a plane, a boat) | 
+testxmnt | n | legal doc distributing assets at death | cf /vyl/, mental determination
 tetc | n | technology | 
 titcn | v | to teach | 
 titl | n | title | 
@@ -530,10 +546,13 @@ vos | n | voice |
 vre | n | truth | 
 vu | pronoun | ye / you | second person plural
 vud | ad | your (plural possessive) | 
+vx- | fix | plural | spread = 4
 vxanta | n | people | 
 vxco | n | children | 
 vxno | det | either (additional negation) / neither | 
-vxri | ad | here and there / round about | contrast alri
+vxri | ad | here and there / round about | contrast /alri/
+vyl | n | DE Wille ES voluntad FR volonté / will (mental determination) | cf /testxmnt/, legal doc distributing assets at death
+vyln | v | to exercise the faculty of mind by which we determine either to do or forbear an action (paraphrase from Websters 1828) | 
 vynd | n | wind | 
 vyv | n | life | 
 vyvn | v | to live (not "to dwell" but rather antonym of "to die") | 
