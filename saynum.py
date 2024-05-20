@@ -24,6 +24,12 @@ def translate_number(value: int) -> str:
         power_of_ten += 3
     return prefix + ' '.join(words)
 
-while True:
-    number = input()
-    print(translate_number(int(number)))
+import sys
+try:
+    while True:
+        sys.stdout.write('Number? ')
+        number = input().strip().lower()
+        if not number or number.startswith('q'): break
+        print(translate_number(int(number)))
+except KeyboardInterrupt:
+    print()

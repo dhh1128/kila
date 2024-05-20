@@ -11,6 +11,7 @@ lemma | tags | definition | notes
 -i | fix | -ee: convert verb into one receiving action (inductee) | compare EN induct -> inductee
 -im | fix | a group of something (especially people) | 
 -mekr | fix | -maker: convert noun into one who makes it | compare EN trouble -> troublemaker
+-mqn | fix | FR -aine (convert a number to a group of that size) / cardinality | 
 -n | fix | infinitive or past participle on a verb | spread = 1
 -r | fix | convert a verb to the party who performs the verb | compare EN sail -> sailor
 -ri | fix | convert a noun or verb into a place characterized by it | compare EN bake -> bakery
@@ -119,6 +120,7 @@ dormn | v | to sleep |
 dr | conj prep | as / during / while | 
 dun | v | to do | 
 dx | prep | from / of / passive particle | 
+dxk | n | duck | 
 e | pronoun | he / her (indirect obj) / him / it / she | third person singular
 ed | ad pronoun | her / his / its | 
 ei- | fix | English -less (e.g., sightless) / English a- (e.g., atypical) / as a verb fix, to leave something undone / lack of something | 
@@ -127,6 +129,7 @@ eifynyk | ad | endless / infinite / neverending |
 eiko | prep | ES "sin" / FR "sans" / without | 
 ek | ad | e.g. / for example | 
 ekapn | v | to escape | 
+elfys | n | elephant | 
 elo | ad | yellow | 
 elyps | n | an ellipsis with 3 dots, used to show that elided text did not touch or cross a sentence boundary | cf tolyps, kalyps
 eni | det pronoun | any | 
@@ -164,6 +167,7 @@ fynmil | n | dinner / evening meal / supper |
 fynn | v | to end / to finish | 
 fynyk | ad | at last / final / finally / last / lastly | 
 gad | n | god | 
+galys | n | chicken | 
 getn | v | to get | 
 glori | n | glory | 
 gon | v | to go | 
@@ -231,6 +235,7 @@ kaus | n | house |
 kazn | v | to cause | 
 ken | n | comprehension / insight / knowledge (practical) / understanding | contrast "sabcn", memorized knowledge
 kenn | v | to be familiar with / to know the nature of / to understand / ~ES conocer / ~FR connaitre | contrast "non", to know or perceive a fact
+kerybu | n | caribou / reindeer | 
 ki | det | here / this | 
 kiet | ad | quiet | 
 kiju | n | today | 
@@ -251,6 +256,7 @@ koxn | n | partner |
 kq | ad det | four | 
 kqlyps | n | an ellipsis with 4 dots, used to show that elided text touches or crosses a sentence boundary | cf elyps, tolyps
 kqm | n | any script that is not kila's gwm or fim / ~unicode | 
+kqmlys | n | camel | 
 kqnys | n | dog | 
 kraud | n | crowd | 
 kraudn | v | to crowd | 
@@ -289,6 +295,7 @@ lejer | ad | light (not weighing much) | FR "leger"
 lejmekim | n | legislature, parliament, congress (a law-making body) | 
 lejmekr | n | legislator / member of a parliament or governing body | 
 lejr | n | lawyer | 
+lepys | n | rabbit | 
 letn | v | to allow / to let | 
 li- | fix | beautiful, good, pure | spread = 2
 lidn | v | to lead | 
@@ -324,6 +331,7 @@ medir | n | doctor |
 mei- | fix | foul, evil, damaged / ~EN mal- as in "maladroit" (but EN is less negative) | spread = 2
 meigri | ad n | evil / evilly | 
 mekn | v | to make | 
+melagrys | n | turkey | 
 melkn | v | to govern / to reign / to rule / to take counsel | see Strongs 4427 מָ
 melkr | n | ruler / >king / >queen | see Strongs 4427
 melkri | n | kingdom | 
@@ -347,6 +355,7 @@ mqm | n | ma'am / madam / madame / miss / respectful title for any adult woman, 
 mqn | n | hand | 
 mqnyjn | v | to manage | 
 mund | n | world | 
+mus | n | moose | 
 myd | ad | mid / middle | 
 mydmil | n | lunch | 
 mylyter | n | military | 
@@ -443,6 +452,7 @@ pwtn | v | to put |
 pynys | n | pinniped / seal | 
 qkn | v | to act | 
 qnsrn | v | to answer | 
+qnsrys | n | goose | 
 qskn | v | to ask | 
 qvryj | ad | average | 
 raidn | v | to ride | 
@@ -497,6 +507,7 @@ sentr | n | center |
 sep | conj | but | 
 sepn | conj | however / nevertheless / notwithstanding / yet / ~FR cependant | 
 sepyk | prep | despite / notwithstanding | 
+servys | n | deer | 
 setys | n | whale | 
 si | ad det | three | 
 si | iject | yea / yes | 
@@ -530,6 +541,7 @@ subern | v | to support or sustain at great cost, without sinking under | cf "su
 sud | ad | south | 
 sufi | ad | enough / sufficient | 
 sun | ad | soon | 
+susys | n | pig | 
 suvn | v | to remember | 
 sxfrn | v | to suffer | 
 sxm | det | some | 
@@ -566,6 +578,7 @@ titl | n | title |
 to | ad det | two | 
 tocwv | n | the two open-quote symbol | written as /--
 tolyps | n | an ellipsis with 2 dots, used to elide items in a sequence | cf elyps, kalyps
+tortys | n | tortoise | 
 tost | n | toast | 
 totakucisyb | n | female 2nd cousin | 
 tovwc | n | the two close-quote symbol | written as --/
@@ -576,16 +589,19 @@ tqksi | n | taxi |
 train | v | to try | 
 tren | n | train | 
 trnn | v | to turn | 
+trtlys | n | turtle | 
 tuin | prep | between / betwixt / tween | 
 u | conj | or | 
 uai | ad | why | 
 uait | ad | white | 
+uapiti | n | elk / wapiti | 
 ud | ad | your (singular possessive) | 
 uen | ad | when | 
 uer | ad | where | 
 uest | ad | west | 
 un | ad det | a / one | 
 unto | n | twelve | 
+untomqn | ad n | dozen | 
 unun | n | eleven | 
 unxm | ad | first | 
 unzo | n | ten | 
@@ -648,6 +664,7 @@ ynsaid | prep | inside |
 ynvitn | v | to invite | 
 yz | particle | ~FR "est-ce que" | query word to start a yes/no question (since word order doesn't change)
 zaln | n | minute | 
+zia | n | by the way / cf / compare / hyperlink / see / see also | one syllable. This is used in verbal as well as written kila.
 zo | n | zero | 
 zoig | n | testament / testimony / witness (what is asserted) | 
 zoign | v | to assert (solemnly) / to bear witness / to testify | 
