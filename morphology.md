@@ -5,10 +5,10 @@ These are short prefixes on nouns or suffixes on verbs that add extra meaning. T
 
 Prefix decorators are separate syllables if followed by a consonant, or usually just the consonant of the decorator if followed by a vowel. The first suffix decorators elides its vowel if the root it modifies ends in a vowel.
 
-Decorator syllables are usually not stressed. (For artistic purposes -- e.g., to alter rhythm or rhyme in poetry -- vowel may be retained or optionally made to echo the proximate vowel from the root word instead.)
+Decorator syllables are usually not stressed. (For artistic purposes &mdash; e.g., to alter rhythm or rhyme in poetry &mdash; vowel may be retained or optionally made to echo the proximate vowel from the root word instead.)
 
 ## Spread
-Decorators bind in order of semantic relevance -- the more transformative of meaning and therefore the more noteworthy the decorator, the closer it prefers to bind to its root word. The measure of the semantic relevance of a decorator is called its "spread". Each decorator type has a default spread that is standard for all language speakers, but individual speakers can change the spread of a decorator subjectively (subtly altering the meaning).
+Decorators bind in order of semantic relevance &mdash; the more transformative of meaning and therefore the more noteworthy the decorator, the closer it prefers to bind to its root word. The measure of the semantic relevance of a decorator is called its "spread". Each decorator type has a default spread that is standard for all language speakers, but individual speakers can change the spread of a decorator subjectively (subtly altering the meaning).
 
 meaning | decorator | default spread | note
 --- | --- | --- | ---

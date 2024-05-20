@@ -2,6 +2,7 @@
 
 unit | word
 --- | ---
+time | temp
 instant, moment | sypl
 second | mqgza
 minute | zaln

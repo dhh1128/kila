@@ -93,11 +93,14 @@ celys | n | shellfish |
 cer | ad | dear / precious | 
 ci- | fix | female | spread = 1
 cikn | n | missus | 
+cin | n | ES hembra / female | 
 cip | n | sheep (also, ram or ewe) | 
 co | n | child | cico for daughter, tahico for grandson
 con | v | to show | 
 coz | n | ES cosa / FR chose / thing | 
 cwdn | v | to have good reason ("ought", "should") | 
+cwv | n | the open-quote symbol | cf vwc; written as /-
+cwvn | v | to cite / to quote | 
 cwz | n | choice | 
 cwzn | v | to choose | 
 dainosarys | n | dinosaur | 
@@ -107,6 +110,8 @@ deb | n | debt |
 debcn | n | duty | 
 debn | v | "must" as a helper verb / ES deber / FR devoir / to owe (either money, or a duty) | 
 debr | n | debtor | 
+deluj | n | deluge / flood | 
+delujn | v | to deluge / to flood / to overflow or cover with water | 
 desidn | v | to decide | 
 dimyntn | v | to decrease / to reduce | 
 donk | ad conj | so / therefore / thus / wherefore | 
@@ -123,6 +128,7 @@ eiko | prep | ES "sin" / FR "sans" / without |
 ek | ad | e.g. / for example | 
 ekapn | v | to escape | 
 elo | ad | yellow | 
+elyps | n | a nomral ellipsis (...) representing an elision that does not span a sentence boundary | cf tolyps, plulyps
 eni | det pronoun | any | 
 enicoz | n | anything | 
 es | prep | out / out of | 
@@ -185,6 +191,7 @@ havn | v | to have |
 helpn | v | to aid / to assist / to help | 
 hi- | fix | male | spread = 1
 hikn | n | mister | 
+hin | n | ES macho / ES varon / male | 
 hirn | v | to hear | 
 holdn | v | to hold | 
 hom | n | home | 
@@ -376,6 +383,7 @@ pai | n | father | Conveys more intimacy and more loyalty or submission than the
 papa | n | dad | 
 papin | n | daddy | 
 part | n | part | 
+parti | n | party (one concerned or interested in an affair, including possibly a group that's unified in interests or purpose) | 
 partn | v | to divide up / to divvy up / to share | 
 pask | conj | because / since (causation) | 
 ped | n | foot | 
@@ -390,6 +398,7 @@ plas | n | place |
 plasn | v | to place | 
 plein | v | to play | 
 plu | ad | more | 
+plulyps | n | an ellipsis that represents an elision spanning a sentence boundary | cf elyps, tolyps
 pocei | n | million | 
 poceikyj | n | eon | 
 pod | n | power | 
@@ -489,6 +498,7 @@ sig | ad | next |
 sigju | n | morrow / tomorrow | 
 sign | v | to follow | 
 simn | v | to seem | 
+sisi | n | IFF / if and only if | 
 sitakusyb | n | 3rd cousin | 
 sixm | ad | one third / third | 
 sizo | n | thirty | 
@@ -545,8 +555,11 @@ titcn | v | to teach |
 titcr | n | teacher | 
 titl | n | title | 
 to | ad det | two | 
+tocwv | n | the two open-quote symbol | written as /--
+tolyps | n | the 2-dot form of ellipsis (..) | cf elyps, plulyps
 tost | n | toast | 
 totakucisyb | n | female 2nd cousin | 
+tovwc | n | the two close-quote symbol | written as --/
 toxm | ad | second (ordinal) | 
 toxm | ad | half | In English, the ordinal "second" and the fraction "half" are different words, but the ordinal "third" and the fraction "third" are not. Kila is consistent in using the same word for both concepts, because a fraction is just the ordinal piece of an overall pie.
 tozo | n | twenty | 
@@ -585,6 +598,7 @@ vln | v | to want |
 vos | n | voice | 
 vre | n | truth | 
 vw | pronoun | ye / you | second person plural
+vwc | close-quote symbol the | see cmv; written as - | 
 vwd | ad | your (plural possessive) | 
 vx- | fix | plural | spread = 4
 vxanta | n | people | 
