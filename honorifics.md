@@ -1,6 +1,6 @@
 # Honorifics and Titles
 
-Honorifics and titles follow names, kind of like "-san" in Japanese or "-bhai" in Bengali, or like appending ", MD" or ", PhD" in English. A hyphen separates them from the preceding name. If more than one honorific is used, hyphens separate each one.
+Honorifics and titles follow names, kind of like *-san* in Japanese or *-bhai* in Bengali, or like appending *, MD* or *, PhD* in English. A hyphen separates them from the preceding name. If more than one honorific is used, hyphens separate each one.
 
 honorific | meaning
 --- | ---

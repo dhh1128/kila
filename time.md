@@ -6,7 +6,7 @@ time | temp
 instant, moment | sypl
 second | mqgza
 minute | zaln
-hour | naija
+hour | naij
 day | ju
 week | sxtm
 month | omxk

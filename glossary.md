@@ -99,7 +99,7 @@ co | n | child | cico for daughter, tahico for grandson
 con | v | to show | 
 coz | n | ES cosa / FR chose / thing | 
 cwdn | v | to have good reason ("ought", "should") | 
-cwv | n | the open-quote symbol | cf vwc; written as /-
+cwv | n | the open-quote symbol ∕- | cf vwc
 cwvn | v | to cite / to quote | 
 cwz | n | choice | 
 cwzn | v | to choose | 
@@ -128,7 +128,7 @@ eiko | prep | ES "sin" / FR "sans" / without |
 ek | ad | e.g. / for example | 
 ekapn | v | to escape | 
 elo | ad | yellow | 
-elyps | n | a nomral ellipsis (...) representing an elision that does not span a sentence boundary | cf tolyps, plulyps
+elyps | n | an ellipsis with 3 dots, used to show that elided text did not touch or cross a sentence boundary | cf tolyps, kalyps
 eni | det pronoun | any | 
 enicoz | n | anything | 
 es | prep | out / out of | 
@@ -182,6 +182,8 @@ gwm | n | spelling alphabet (lower-case letters) | contrast /fim/
 gwmn | v | to spell | 
 gyvn | v | to give | 
 hai | ad | high | 
+haif | n | the en dash / the hyphen symbol | 
+haifn | v | to mark a word or phrase as an identifier by preceding it with a haif (hyphen) character; roughly, to capitalize | 
 harc | ad | harsh | 
 harkn | v | to hearken | 
 hart | n | heart | 
@@ -197,8 +199,8 @@ holdn | v | to hold |
 hom | n | home | 
 hqpn | v | to happen / to occur | 
 hrdn | v | to herd | 
-hrdor | n | herder / shepherd | 
-hrdorys | n | a herder's animal (member of a domesticated flock) | 
+hrdr | n | herder / shepherd | 
+hrdrys | n | a herder's animal (member of a domesticated flock) | 
 hrdys | n | herd animal | 
 hu | pronoun | who | 
 hud | pronoun | whose | 
@@ -247,6 +249,8 @@ korp | n | body |
 kovrsn | n | to converse | 
 koxn | n | partner | 
 kq | ad det | four | 
+kqlyps | n | an ellipsis with 4 dots, used to show that elided text touches or crosses a sentence boundary | cf elyps, tolyps
+kqm | n | any script that is not kila's gwm or fim / ~unicode | 
 kqnys | n | dog | 
 kraud | n | crowd | 
 kraudn | v | to crowd | 
@@ -283,7 +287,7 @@ leit | ad | late |
 lej | n | law | 
 lejer | ad | light (not weighing much) | FR "leger"
 lejmekim | n | legislature, parliament, congress (a law-making body) | 
-lejmekor | n | legislator / member of a parliament or governing body | 
+lejmekr | n | legislator / member of a parliament or governing body | 
 lejr | n | lawyer | 
 letn | v | to allow / to let | 
 li- | fix | beautiful, good, pure | spread = 2
@@ -295,7 +299,7 @@ livrn | v | deliver | FR livrer, DE abliefern
 lo | ad | low | 
 lodn | v | to lade / to load | 
 loji | n | formal study / science | 
-lojior | n | expert / guru / philosopher / scholar | 
+lojir | n | expert / guru / philosopher / scholar | 
 lojn | v | to practice science / to study with rigor | 
 lojr | n | scientist | 
 lon | ad | far | 
@@ -316,7 +320,7 @@ mamin | n | mommy |
 mar | n | sea | 
 markn | v | to mark | 
 medin | v | to care for, medically / to doctor | 
-medior | n | doctor | 
+medir | n | doctor | 
 mei- | fix | foul, evil, damaged / ~EN mal- as in "maladroit" (but EN is less negative) | spread = 2
 meigri | ad n | evil / evilly | 
 mekn | v | to make | 
@@ -349,14 +353,16 @@ mylyter | n | military |
 myn | ad | less | 
 mystr | n | mystery | 
 n | v | proverb (placeholder or ref to other verb) | "Did you go?" "Yes, I <placeholder>+past tense"
-naija | n | hour | 
+naij | n | hour | 
 nais | ad | nice | 
 nasn | v | to bear a child / to birth | normally used in passive construction: i d nasdy = I was born
 nau | ad | now | 
 nidn | v | to need | 
 nir | ad | near | 
-nir- | fix | by close or honorary relationship | nirhico would be a reasonable translation of godson; a dear friend of your parents, who might be called an honorary "aunt" or "uncle" in English, might be nirsaisyb.
+nir- | fix | EN para- (paralegal, paramedic) / by close or honorary relationship | nirhico would be a reasonable translation of godson; a dear friend of your parents, who might be called an honorary "aunt" or "uncle" in English, might be nirsaisyb.
 nirant | n | a person you live with | 
+nirsaik | n | the posited dimension of mind that is capable of paranormal activities such as ESP, telekinesis, and so forth. | 
+nirsaikr | n | psychic | 
 nixn | n | friend | 
 no | det iject | ES ningún / FR aucun / no / none | 
 nocoz | n | nothing | 
@@ -367,6 +373,7 @@ nord | ad | north |
 nordyk | ad | northern | 
 nori | ad | nowhere | 
 notc | n | night | 
+nu | conj | and∕or | 
 nuv | ad det | nine | 
 nx | conj | and | 
 o | iject | Oh ("Oh!" or "O ye of little faith" or "Oh no") | 
@@ -398,7 +405,6 @@ plas | n | place |
 plasn | v | to place | 
 plein | v | to play | 
 plu | ad | more | 
-plulyps | n | an ellipsis that represents an elision spanning a sentence boundary | cf elyps, tolyps
 pocei | n | million | 
 poceikyj | n | eon | 
 pod | n | power | 
@@ -434,7 +440,7 @@ prosain | v | to prophesy |
 prosair | n | prophet | 
 prp | ad | purple | 
 pwtn | v | to put | 
-pynys | n | seal | 
+pynys | n | pinniped / seal | 
 qkn | v | to act | 
 qnsrn | v | to answer | 
 qskn | v | to ask | 
@@ -472,6 +478,9 @@ sabcn | n | knowledge (memorized) | contrast "ken", deep understanding
 sabn | v | to know or perceive a fact or abstract proposition | contrast "kenn", to understand or be familiar with the nature of
 sai | n | parent | hisai and cisai for father and mother
 said | n | side | 
+saik | n | mind / psyche | 
+saikloji | n | psychology | 
+saikyk | ad | mental / psychic (but not in a pseudo-scientific sense) | cf nirsaik
 saisyb | n | aunt or uncle | Add hi- or ci- at the front to say what side of the family (father's or mother's side); add it before "syb" to differentiate aunt and uncle: hisaisyb is an aunt/uncle on dad's side; saicisyb is an aunt; hisaicisyb is an aunt on father's side.
 sanj | n | blood | 
 sankt | ad | consecrated to a sacred purpose / holy | 
@@ -556,7 +565,7 @@ titcr | n | teacher |
 titl | n | title | 
 to | ad det | two | 
 tocwv | n | the two open-quote symbol | written as /--
-tolyps | n | the 2-dot form of ellipsis (..) | cf elyps, plulyps
+tolyps | n | an ellipsis with 2 dots, used to elide items in a sequence | cf elyps, kalyps
 tost | n | toast | 
 totakucisyb | n | female 2nd cousin | 
 tovwc | n | the two close-quote symbol | written as --/
@@ -598,7 +607,7 @@ vln | v | to want |
 vos | n | voice | 
 vre | n | truth | 
 vw | pronoun | ye / you | second person plural
-vwc | close-quote symbol the | see cmv; written as - | 
+vwc | n | the close-quote symbol -∕ | cf cwv
 vwd | ad | your (plural possessive) | 
 vx- | fix | plural | spread = 4
 vxanta | n | people | 
