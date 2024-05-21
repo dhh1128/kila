@@ -9,7 +9,7 @@ lemma | tags | definition | notes
 -gx | fix | ongoing aspect on a verb | spread = 2
 -hq | fix | perfective aspect on a verb | spread = 3
 -i | fix | -ee: convert verb into one receiving action (inductee) | compare EN induct -> inductee
--im | fix | a group of something (especially people) | 
+-im | fix | a group (especially of people or animals) | 
 -mekr | fix | -maker: convert noun into one who makes it | compare EN trouble -> troublemaker
 -mqn | fix | FR -aine (convert a number to a group of that size) / cardinality | 
 -n | fix | infinitive or past participle on a verb | spread = 1
@@ -114,8 +114,10 @@ debr | n | debtor |
 deluj | n | deluge / flood | 
 delujn | v | to deluge / to flood / to overflow or cover with water | 
 desidn | v | to decide | 
+desirn | v | to desire | 
+desryk | ad | desirous | 
 dimyntn | v | to decrease / to reduce | 
-donk | ad conj | so / therefore / thus / wherefore | 
+donk | ad conj | so / so that / therefore / thus / wherefore | Similar to FR donc, but has a stronger sense of causation
 dormn | v | to sleep | 
 dr | conj prep | as / during / while | 
 dun | v | to do | 
@@ -146,6 +148,8 @@ fai | ad det | five |
 faindn | v | to find | 
 faln | v | to fall | 
 fam | n | woman | 
+fard | n | burden | 
+fardn | v | to burden | 
 favrn | v | to favor / to prefer | 
 fi | n | a symbol in the symbolic alphabet (the fim) | 
 filn | v | to feel | 
@@ -202,6 +206,7 @@ hirn | v | to hear |
 holdn | v | to hold | 
 hom | n | home | 
 hqpn | v | to happen / to occur | 
+hrd | n | herd | 
 hrdn | v | to herd | 
 hrdr | n | herder / shepherd | 
 hrdrys | n | a herder's animal (member of a domesticated flock) | 
@@ -315,6 +320,7 @@ lrnn | v | to learn |
 lum | n | light | 
 lun | n | moon | 
 lurd | ad | heavy | FR "lourde"
+lwki | excl | FR voici / look here | 
 lwkn | v | to look | 
 lysn | v | to listen | Not a perfect borrowing from English, because there's not an extra /n/.
 lyzys | n | lizard | 
@@ -355,6 +361,7 @@ mqm | n | ma'am / madam / madame / miss / respectful title for any adult woman, 
 mqn | n | hand | 
 mqnyjn | v | to manage | 
 mund | n | world | 
+murnn | v | to mourn | 
 mus | n | moose | 
 myd | ad | mid / middle | 
 mydmil | n | lunch | 
@@ -377,6 +384,7 @@ no | det iject | ES ningún / FR aucun / no / none |
 nocoz | n | nothing | 
 nol | n | star | 
 nom | n | name | 
+nomn | v | to call (apply a name to) / to name | 
 nor | ad | black | 
 nord | ad | north | 
 nordyk | ad | northern | 
@@ -423,7 +431,7 @@ pofai | n | lakh |
 pokq | n | ten thousand | 
 ponuv | n | billion | 
 portn | v | to carry | 
-portorys | n | beast of burden | 
+portrys | n | beast of burden | 
 posi | n | thousand | 
 posikyj | n | millennium | 
 post | prep | after | 
@@ -589,6 +597,7 @@ tqksi | n | taxi |
 train | v | to try | 
 tren | n | train | 
 trnn | v | to turn | 
+trostn | v | to comfort / to console | 
 trtlys | n | turtle | 
 tuin | prep | between / betwixt / tween | 
 u | conj | or | 

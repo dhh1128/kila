@@ -12,11 +12,11 @@ in | mark of tenderness and intimacy
 ta | respect for an older generation, as when a child addresses a great aunt
 z+&lt;honorific&gt; (one word), read as "zx &lt;honorific&gt;" | the definite article before the honorific means that the person is the prototype or epitome of the honorific. If no honorific follows "z", the preceding honorific becomes definite.
 id+&lt;honorific&gt; (one word), read as "i dx &lt;honorific&gt;" | the possessive before the honorific means that the honorific has special significance to the speaker; in a series of honorifics, ones using this pattern come last. If no honorific follows "id", the preceding honorific becomes possessive/special.
-melkor | governor, ruler, king, queen
+melkr | governor, ruler, king, queen
 leid | lord or lady
-medior | doctor
-lojior | scholar, PhD
-lejor | lawyer
+medir | doctor
+lojir | scholar, PhD
+lejr | lawyer
 dam | woman, feminine
 ai | man, masculine
 cer | dear, beloved
