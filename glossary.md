@@ -2,7 +2,7 @@
 
 lemma | tags | definition | notes
 ----- | ---- | ---------- | -----
--cn | fix | convert a verb to a noun that embodies its effect or outcome / ~EN "-ion" | kret -> kretcn
+-cn | fix | adverb to a noun that embodies the action or quality / convert a verb or an adjective | kret -> kretcn; saj -> sajcn
 -du | fix | imperative mood on a verb | spread = 1
 -ez | fix | convert noun or adverb into verb (cf EN -ify or -ize) | 
 -ezn | fix | -ize: convert noun into verb that produces the noun | compare EN philosophy -> philosophize
@@ -15,7 +15,7 @@ lemma | tags | definition | notes
 -n | fix | infinitive or past participle on a verb | spread = 1
 -r | fix | convert a verb to the party who performs the verb | compare EN sail -> sailor
 -ri | fix | convert a noun or verb into a place characterized by it | compare EN bake -> bakery
--vnt | n | people (suffix preceded by type of people) | compare EN Canaan -> Canaanites
+-vnt | n | turn a name or noun into a category of people / ~EN -ic, -ian, -ese, -ish (hispanic, italian, chinese, turkish -- only used for people, not as a general adjective suffix) | 
 -vw | fix | conditional or subjunctive mood on a verb | spread = 4
 -vy | fix | future tense on a verb | Shortened from /vyl/. spread = 1
 -xm | fix | converts a number to an ordinal or denominator | compare EN 4 -> 4th
@@ -66,7 +66,8 @@ arm | n | arm (body part) / arm (weapon) |
 armn | v | to arm (equip for battle) | 
 armnim | n | army | 
 armr | n | armor | 
-ato | n | self | 
+astu | ad | astute / clever / cunning | 
+astucn | n | astuteness / cleverness / cunning | 
 au | iject | ouch / shoot | 
 avys | n | bird | 
 bern | v | to bear (a burden) | cf nasn, to bear a child
@@ -143,6 +144,7 @@ esplain | v | to explain |
 esprn | v | to hope | 
 esrsisn | v | to exercise / to go through planned, intentional actions | 
 essaid | ad prep | outside | 
+esxkutn | v | to execute (a person, NOT an order or a plan) | cf sign, to follow an order or plan
 ets | ad | and so forth / et cetera / etc. | 
 fai | ad det | five | 
 faindn | v | to find | 
@@ -250,6 +252,8 @@ kmplet | ad | complete / entire |
 kmpletn | v | to complete | 
 kn | n | spouse | 
 knstrxkn | v | to construct | 
+kntendcn | n | competition / contention | 
+kntendn | v | to compete / to contend / to vie | 
 ko | prep | with | 
 ko- | fix | EN "co-" / with | 
 kolidn | v | to collide | 
@@ -338,6 +342,7 @@ mei- | fix | foul, evil, damaged / ~EN mal- as in "maladroit" (but EN is less ne
 meigri | ad n | evil / evilly | 
 mekn | v | to make | 
 melagrys | n | turkey | 
+melk | n | domain / kingdom / reign / sphere of sovereignty | 
 melkn | v | to govern / to reign / to rule / to take counsel | see Strongs 4427 מָ
 melkr | n | ruler / >king / >queen | see Strongs 4427
 melkri | n | kingdom | 
@@ -409,7 +414,7 @@ papin | n | daddy |
 part | n | part | 
 parti | n | party (one concerned or interested in an affair, including possibly a group that's unified in interests or purpose) | 
 partn | v | to divide up / to divvy up / to share | 
-pask | conj | because / since (causation) | 
+pask | conj | ES porque / ES pues / FR parceque / because / since (causation) | 
 ped | n | foot | 
 pein | v | to pay | 
 pek | n | sin | 
@@ -500,6 +505,8 @@ saik | n | mind / psyche |
 saikloji | n | psychology | 
 saikyk | ad | mental / psychic (but not in a pseudo-scientific sense) | cf nirsaik
 saisyb | n | aunt or uncle | Add hi- or ci- at the front to say what side of the family (father's or mother's side); add it before "syb" to differentiate aunt and uncle: hisaisyb is an aunt/uncle on dad's side; saicisyb is an aunt; hisaicisyb is an aunt on father's side.
+saj | ad | sage / wise | 
+sajcn | n | wisdom | 
 sanj | n | blood | 
 sankt | ad | consecrated to a sacred purpose / holy | 
 sanktn | v | to sanctify | 
@@ -524,24 +531,27 @@ siel | n | heaven |
 sielyk | ad | celestial / heavenly | 
 sig | ad | next | 
 sigju | n | morrow / tomorrow | 
-sign | v | to follow | 
+sign | v | to follow (a person, a map, an order, a plan) | 
 simn | v | to seem | 
 sisi | n | IFF / if and only if | 
 sitakusyb | n | 3rd cousin | 
 sixm | ad | one third / third | 
 sizo | n | thirty | 
 skribn | v | to write | 
+slon | prep | ES segun / FR selon / according to / as to | 
 smal | ad | small | 
 so- | fix | extreme / intense / very | spread = 4
 sofa | n | couch / sofa | 
 sosin | v | to associate | 
 sovx | ad | many / much | 
+spad | n | sword | 
 spikn | v | to speak | 
 spredn | v | to spread | 
 sr | n | monsieur / respectful title for any adult man / señor / sir | 
 srpys | n | serpent / snake | 
 stat | n | state (government mechanism) | 
 storm | n | storm | 
+stqndn | v | to stand | 
 studn | v | to study | 
 studr | n | student | 
 su | prep | under | 
@@ -580,6 +590,7 @@ tercn | n | territory |
 tern | v | to land (a plane, a boat) | 
 testxmnt | n | legal doc distributing assets at death | cf /vyl/, mental determination
 tetc | n | technology | 
+tip | n | category / manner / prototype / type | 
 titcn | v | to teach | 
 titcr | n | teacher | 
 titl | n | title | 
@@ -599,7 +610,7 @@ tren | n | train |
 trnn | v | to turn | 
 trostn | v | to comfort / to console | 
 trtlys | n | turtle | 
-tuin | prep | between / betwixt / tween | 
+tuin | prep | ES entre / FR parmi / among / between / betwixt / tween | 
 u | conj | or | 
 uai | ad | why | 
 uait | ad | white | 
@@ -673,6 +684,7 @@ ynsaid | prep | inside |
 ynvitn | v | to invite | 
 yz | particle | ~FR "est-ce que" | query word to start a yes/no question (since word order doesn't change)
 zaln | n | minute | 
+zi | n | self | 
 zia | n | by the way / cf / compare / hyperlink / see / see also | one syllable. This is used in verbal as well as written kila.
 zo | n | zero | 
 zoig | n | testament / testimony / witness (what is asserted) | 
