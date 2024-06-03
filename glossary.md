@@ -98,6 +98,7 @@ cikn | n | missus |
 cin | n | ES hembra / female | 
 cip | n | sheep (also, ram or ewe) | 
 co | n | child | cico for daughter, tahico for grandson
+cogron | v | to become familiar with or adapted to / to know through co-adaptation / ~ES conocer / ~FR connaitre | cf kenn, sabn
 con | v | to show | 
 coz | n | ES cosa / FR chose / thing | 
 cwdn | v | to have good reason ("ought", "should") | 
@@ -108,19 +109,24 @@ cwzn | v | to choose |
 dainosarys | n | dinosaur | 
 daun | ad prep | down | 
 daunyk | ad | downward | 
+de- | fix | to undo or cancel an action | 
 deb | n | debt | 
 debcn | n | duty | 
 debn | v | "must" as a helper verb / ES deber / FR devoir / to owe (either money, or a duty) | 
 debr | n | debtor | 
 deluj | n | deluge / flood | 
 delujn | v | to deluge / to flood / to overflow or cover with water | 
+deprtenn | v | to deprive / to dissociate | 
 desidn | v | to decide | 
 desirn | v | to desire | 
 desryk | ad | desirous | 
+destrxkn | v | to destroy | 
 dimyntn | v | to decrease / to reduce | 
 donk | ad conj | so / so that / therefore / thus / wherefore | Similar to FR donc, but has a stronger sense of causation
 dormn | v | to sleep | 
 dr | conj prep | as / during / while | 
+drec | ad | right (-hand side, -ward) | cf nist
+drit | ad | straight | 
 dun | v | to do | 
 dx | prep | from / of / passive particle | 
 dxk | n | duck | 
@@ -130,6 +136,7 @@ ei- | fix | English -less (e.g., sightless) / English a- (e.g., atypical) / as a
 eifyncn | n | infinity | 
 eifynyk | ad | endless / infinite / neverending | 
 eiko | prep | ES "sin" / FR "sans" / without | 
+eiposib | ad | impossible | 
 ek | ad | e.g. / for example | 
 ekapn | v | to escape | 
 elfys | n | elephant | 
@@ -213,7 +220,7 @@ hrdn | v | to herd |
 hrdr | n | herder / shepherd | 
 hrdrys | n | a herder's animal (member of a domesticated flock) | 
 hrdys | n | herd animal | 
-hu | pronoun | who | 
+hu | pronoun | who (question word, not relative pronoun) | cf kx, relative pronoun
 hud | pronoun | whose | 
 hydn | v | to hide | 
 hypys | n | horse | 
@@ -240,8 +247,8 @@ kaos | n | chaos |
 kasi | ad | almost | 
 kaus | n | house | 
 kazn | v | to cause | 
-ken | n | comprehension / insight / knowledge (practical) / understanding | contrast "sabcn", memorized knowledge
-kenn | v | to be familiar with / to know the nature of / to understand / ~ES conocer / ~FR connaitre | contrast "non", to know or perceive a fact
+ken | n | comprehension / deep, integrated insight comprising factual knowledge and habituation | contrast sab, cogro
+kenn | v | to deeply comprehend / to understand | contrast sabn, cogron (which are each components of this deeper knowing)
 kerybu | n | caribou / reindeer | 
 ki | det | here / this | 
 kiet | ad | quiet | 
@@ -372,6 +379,7 @@ myd | ad | mid / middle |
 mydmil | n | lunch | 
 mylyter | n | military | 
 myn | ad | less | 
+mys- | fix | EN dys- / EN mis- / to do in a flawed or broken way | 
 mystr | n | mystery | 
 n | v | proverb (placeholder or ref to other verb) | "Did you go?" "Yes, I <placeholder>+past tense"
 naij | n | hour | 
@@ -384,6 +392,7 @@ nir- | fix | EN para- (paralegal, paramedic) / by close or honorary relationship
 nirant | n | a person you live with | 
 nirsaik | n | the posited dimension of mind that is capable of paranormal activities such as ESP, telekinesis, and so forth. | 
 nirsaikr | n | psychic | 
+nist | ad | left (-hand side, -ward) | cf drec
 nixn | n | friend | 
 no | det iject | ES ningún / FR aucun / no / none | 
 nocoz | n | nothing | 
@@ -438,6 +447,7 @@ ponuv | n | billion |
 portn | v | to carry | 
 portrys | n | beast of burden | 
 posi | n | thousand | 
+posib | ad | possible | 
 posikyj | n | millennium | 
 post | prep | after | 
 post- | fix | to do something after | 
@@ -461,6 +471,7 @@ problm | n | problem |
 prosain | v | to prophesy | 
 prosair | n | prophet | 
 prp | ad | purple | 
+pryvlej | n | privilege | n
 pwtn | v | to put | 
 pynys | n | pinniped / seal | 
 qkn | v | to act | 
@@ -468,9 +479,11 @@ qnsrn | v | to answer |
 qnsrys | n | goose | 
 qskn | v | to ask | 
 qvryj | ad | average | 
+raca | ad | lost from the path / wicked | Hebrew רשע
 raidn | v | to ride | 
 re- | fix | to repeat an action | 
 redun | v | to redo / to repeat | 
+reg | n | right (what justly pertains to one) | 
 rein | n | rain | 
 reinn | v | to rain | 
 rejekn | v | to reject | 
@@ -494,6 +507,7 @@ ruak | n | spirit | See Strongs 7307.
 ruj | ad | red | 
 rut | n | path / route / way | 
 rutin | ad | routine | 
+rutn | v | to head in a direction / to pathfind / to route | 
 rwvn | v | to dream | 
 rxnn | v | to run | 
 rxportn | v | to report | 
@@ -549,6 +563,8 @@ spikn | v | to speak |
 spredn | v | to spread | 
 sr | n | monsieur / respectful title for any adult man / señor / sir | 
 srpys | n | serpent / snake | 
+stabl | ad | stable | 
+stabln | v | to establish / to stabilize | 
 stat | n | state (government mechanism) | 
 storm | n | storm | 
 stqndn | v | to stand | 
@@ -557,6 +573,7 @@ studr | n | student |
 su | prep | under | 
 subern | v | to support or sustain at great cost, without sinking under | cf "suffer" in Websters 1828
 sud | ad | south | 
+sueidn | v | to persuade | 
 sufi | ad | enough / sufficient | 
 sun | ad | soon | 
 susys | n | pig | 
@@ -574,7 +591,7 @@ sypl | n | a durationless point in time / instant / moment |
 ta- | fix | grand-, as in grandmother (mai = mother, tamai = grandmother). Generations greater than "grand" are counted with numbers before "ta", so great-grandmother is "totamai". | 
 takn | v | to talk | 
 takusyb | n | cousin (literally, sibling by marriage one generation away) | 
-tal | ad | reference to a certain, given, or specific item ("one day", "a given word", "a certain man") / ~ES tal / ~FR tel or telle | 
+tal | ad | reference to a certain, given, or specific item ("one day", "a given word", "a certain man") / such (such words are dangerous) / ~ES tal / ~FR tel or telle | 
 talkx | conj | insomuch / such that | 
 tam | ad | also / too | 
 tas | n | cup | 
@@ -615,6 +632,7 @@ u | conj | or |
 uai | ad | why | 
 uait | ad | white | 
 uapiti | n | elk / wapiti | 
+uarnn | v | to alarm / to caution / to warn | 
 ud | ad | your (singular possessive) | 
 uen | ad | when | 
 uer | ad | where | 
@@ -629,6 +647,7 @@ unzoxm | ad | tenth |
 urd | n | word | 
 uxndrn | v | to wonder | 
 uxt | pronoun | what | 
+uynn | v | to win | 
 vai | prep | over | 
 vailxt | ad | violet | 
 valu | n | value | 
@@ -641,13 +660,16 @@ vi | pronoun | us / we | first person plural
 visitn | v | to visit | 
 vln | v | to want | 
 vos | n | voice | 
-vre | n | truth | 
+vre | n | right (as in, "correct") / truth | 
+vreyk | ad | true / truthful | 
 vw | pronoun | ye / you | second person plural
 vwc | n | the close-quote symbol -∕ | cf cwv
 vwd | ad | your (plural possessive) | 
 vx- | fix | plural | spread = 4
 vxanta | n | people | 
 vxco | n | children | 
+vxia | det | those | 
+vxki | det | these | 
 vxno | det | either (additional negation) / neither | 
 vxri | ad | here and there / round about | contrast /alri/
 vyl | n | DE Wille ES voluntad FR volonté / will (mental determination) | cf /testxmnt/, legal doc distributing assets at death
@@ -681,11 +703,16 @@ ynflun | v | to influence |
 ynjekn | v | to inject | 
 ynklun | v | to include | 
 ynsaid | prep | inside | 
+ynten | n | intent / intention | 
+yntencn | n | objective | 
+yntenn | v | to intend | 
 ynvitn | v | to invite | 
 yz | particle | ~FR "est-ce que" | query word to start a yes/no question (since word order doesn't change)
 zaln | n | minute | 
+zedek | ad | righteous / traveling the path | Hebrew צדיק
 zi | n | self | 
 zia | n | by the way / cf / compare / hyperlink / see / see also | one syllable. This is used in verbal as well as written kila.
+zireg | n | privacy | 
 zo | n | zero | 
 zoig | n | testament / testimony / witness (what is asserted) | 
 zoign | v | to assert (solemnly) / to bear witness / to testify | 
