@@ -41,6 +41,7 @@ abitn | v | to dwell |
 abpwtcn | n | forgiveness | 
 abpwtn | v | to forgive | 
 af | prep | off | 
+afer | n | ES asunto / affair (a matter to consider) | 
 aflikn | v | to afflict | 
 afys | n | office (a formal role) | compare afysri (the location)
 afysr | n | officer / official | 
@@ -71,11 +72,12 @@ astucn | n | astuteness / cleverness / cunning |
 au | iject | ouch / shoot | 
 avys | n | bird | 
 bern | v | to bear (a burden) | cf nasn, to bear a child
-biholdn | v | to behold / to observe with wonder or awe | 
+biholdn | v | to behold / to observe with wonder or awe | This verb is used in cases where the associated contemplation is particularly deep, wondrous, or awe-filled. It is not used to simply invite consideration. Contrast "lwki".
 bikxmn | v | to become | 
 bin | v | to be | 
 blu | ad | blue | 
 bntcn | v | to bunch | 
+bok | n | mouth | 
 bon | ad | good / well | 
 bovys | n | bovine / cattle / cow / kine | 
 braun | ad | brown | 
@@ -168,6 +170,7 @@ firn | v | to fear |
 fl | ad | full | 
 flo | n | flow | 
 flon | v | to flow | 
+flyk | ad | completely / entirely / fully / wholly | 
 font | n | fount / fountain | 
 fort | ad | strong | 
 fortcn | n | strength | 
@@ -236,6 +239,9 @@ itn | v | to eat |
 iuzn | v | to use | 
 jentvnt | n | gentile | 
 ju | n | day | 
+juj | n | judge | 
+jujcn | n | judgment | 
+jujn | v | to judge | 
 jum | n | twin | 
 just | ad | barely / just | 
 juvnt | n | Jew | 
@@ -311,6 +317,7 @@ lejer | ad | light (not weighing much) | FR "leger"
 lejmekim | n | legislature, parliament, congress (a law-making body) | 
 lejmekr | n | legislator / member of a parliament or governing body | 
 lejr | n | lawyer | 
+leng | n | language | 
 lepys | n | rabbit | 
 letn | v | to allow / to let | 
 li- | fix | beautiful, good, pure | spread = 2
@@ -331,7 +338,7 @@ lrnn | v | to learn |
 lum | n | light | 
 lun | n | moon | 
 lurd | ad | heavy | FR "lourde"
-lwki | excl | FR voici / look here | 
+lwki | excl | FR voici / look here | In scriptural language, it is this exclamation, rather than a command or invitation or description about gazing with wonder or awe, that is usually the correct translation of "behold"
 lwkn | v | to look | 
 lysn | v | to listen | Not a perfect borrowing from English, because there's not an extra /n/.
 lyzys | n | lizard | 
@@ -529,6 +536,7 @@ sava | n | charge / commandment |
 savan | v | to charge / to command / to lay charge upon (see Strongs 6680) | 
 sein | n | sign | 
 seinn | v | to sign / to signal | 
+sej | n | ES sede / FR siège / headquarters / locus / seat (of government, etc.) | 
 sektys | n | insect | 
 sen | v | to say | 
 sendn | v | to send | 
@@ -554,12 +562,12 @@ sizo | n | thirty |
 skribn | v | to write | 
 slon | prep | ES segun / FR selon / according to / as to | 
 smal | ad | small | 
-so- | fix | extreme / intense / very | spread = 4
+so- | fix | extreme / intense / own (before possessive, as in "soid" (my own) / very | spread = 4
 sofa | n | couch / sofa | 
 sosin | v | to associate | 
 sovx | ad | many / much | 
 spad | n | sword | 
-spikn | v | to speak | 
+spikn | v | to address (with indirect object for audience) / to speak | 
 spredn | v | to spread | 
 sr | n | monsieur / respectful title for any adult man / señor / sir | 
 srpys | n | serpent / snake | 

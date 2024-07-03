@@ -33,3 +33,4 @@ ongoing aspect | gx | 2 | segx = is saying, sedygx = was saying, sevygx = will b
 perfective aspect | hq | 3 | sehq = have said, sedyhq = had said, sehqvw = would have said, segxhqvw = would have been saying
 conditional or subjunctive aspect | vw | 4 | sevw = would say, segxvw = would be saying
 reflexive aspect | zi | 0 | sezi = say to myself
+
