@@ -75,11 +75,13 @@ bern | v | to bear (a burden) | cf nasn, to bear a child
 biholdn | v | to behold / to observe with wonder or awe | This verb is used in cases where the associated contemplation is particularly deep, wondrous, or awe-filled. It is not used to simply invite consideration. Contrast "lwki".
 bikxmn | v | to become | 
 bin | v | to be | 
+blas | n | bladder | 
 blu | ad | blue | 
 bntcn | v | to bunch | 
 bok | n | mouth | 
 bon | ad | good / well | 
 bovys | n | bovine / cattle / cow / kine | 
+brau | n | eyebrow | 
 braun | ad | brown | 
 bwbn | v | to drink | 
 bxlivn | v | to believe | 
@@ -103,6 +105,7 @@ co | n | child | cico for daughter, tahico for grandson
 cogron | v | to become familiar with or adapted to / to know through co-adaptation / ~ES conocer / ~FR connaitre | cf kenn, sabn
 con | v | to show | 
 coz | n | ES cosa / FR chose / thing | 
+cudr | n | shoulder | 
 cwdn | v | to have good reason ("ought", "should") | 
 cwv | n | the open-quote symbol ∕- | cf vwc
 cwvn | v | to cite / to quote | 
@@ -118,6 +121,7 @@ debn | v | "must" as a helper verb / ES deber / FR devoir / to owe (either money
 debr | n | debtor | 
 deluj | n | deluge / flood | 
 delujn | v | to deluge / to flood / to overflow or cover with water | 
+dent | n | tooth | 
 deprtenn | v | to deprive / to dissociate | 
 desidn | v | to decide | 
 desirn | v | to desire | 
@@ -146,6 +150,7 @@ elo | ad | yellow |
 elyps | n | an ellipsis with 3 dots, used to show that elided text did not touch or cross a sentence boundary | cf tolyps, kalyps
 eni | det pronoun | any | 
 enicoz | n | anything | 
+enkl | n | ankle | 
 es | prep | out / out of | 
 esjekn | v | to eject | 
 eskleimn | v | to cry out / to exclaim | 
@@ -166,6 +171,7 @@ fi | n | a symbol in the symbolic alphabet (the fim) |
 filn | v | to feel | 
 filys | n | cat | 
 fim | n | symbolic alphabet | contrast /gwm/
+fingr | n | finger | 
 firn | v | to fear | 
 fl | ad | full | 
 flo | n | flow | 
@@ -175,6 +181,7 @@ font | n | fount / fountain |
 fort | ad | strong | 
 fortcn | n | strength | 
 fortn | v | to strengthen | 
+frant | n | forehead | 
 frbydn | v | to forbid | 
 frut | n | fruit | 
 fyln | v | to fill | 
@@ -184,7 +191,9 @@ fynn | v | to end / to finish |
 fynyk | ad | at last / final / finally / last / lastly | 
 gad | n | god | 
 galys | n | chicken | 
+garg | n | throat | 
 getn | v | to get | 
+ginx | n | knee | 
 glori | n | glory | 
 gon | v | to go | 
 got | n | goat | 
@@ -201,6 +210,7 @@ gw | n | a letter of the spelling alphabet (the gwm) |
 gwm | n | spelling alphabet (lower-case letters) | contrast /fim/
 gwmn | v | to spell | 
 gyvn | v | to give | 
+habl | n | hair | 
 hai | ad | high | 
 haif | n | the en dash / the hyphen symbol | 
 haifn | v | to mark a word or phrase as an identifier by preceding it with a haif (hyphen) character; roughly, to capitalize | 
@@ -233,6 +243,7 @@ ia | det | over there / that / there |
 id | ad | mine / my | 
 iecux | n | Jesus | 
 in- | fix | ES -ito / diminutive or endearing / ~FR -ette | spread = 3
+iris | n | iris | 
 isl | n | island | 
 ist | ad | east | 
 itn | v | to eat | 
@@ -245,6 +256,8 @@ jujn | v | to judge |
 jum | n | twin | 
 just | ad | barely / just | 
 juvnt | n | Jew | 
+kak | n | feces / poop | 
+kaksyks | n | coccyx / tailbone | 
 kald | ad | cold | 
 kaln | v | to call | 
 kamp | n | camp / encampment | 
@@ -261,6 +274,7 @@ kiet | ad | quiet |
 kiju | n | today | 
 kipn | v | to keep | 
 klozn | v | to close | 
+klqvykl | n | clavicle / collarbone | 
 kmplet | ad | complete / entire | 
 kmpletn | v | to complete | 
 kn | n | spouse | 
@@ -269,9 +283,11 @@ kntendcn | n | competition / contention |
 kntendn | v | to compete / to contend / to vie | 
 ko | prep | with | 
 ko- | fix | EN "co-" / with | 
+koc | n | thigh | 
 kolidn | v | to collide | 
 komprenn | v | to comprehend / to understand | 
 kontroln | v | to control | 
+kop | n | head | 
 korp | n | body | 
 kovrsn | n | to converse | 
 koxn | n | partner | 
@@ -294,6 +310,7 @@ krxstys | n | crustacean |
 ku- | fix | by marriage | kusyb is step sibling and kucisai is stepmother
 kuanta | n | family (casual usage) / nuclear family | 
 kubrn | v | to cover | 
+kud | n | elbow | 
 kueikn | v | to quake | 
 kukuanta | n | formal relatives by blood or marriage | 
 kunt | n | amount / count / quantity | 
@@ -302,11 +319,13 @@ kuntn | v | to count / to quantify |
 kuparn | v | to marry | 
 kuparyk | ad | marital / married | 
 kursn | v | to course (blood coursed through his veins) / to race | 
+kutykl | n | cuticle | 
 kuyk | ad | fast / quick / rapid | 
 kx | det pronoun | than / which / ~ES que / ~FR que / ~that (relative pronoun) | Also introduces clauses that would start with "who" or "which" in English.
 kxmn | v | to come | 
 kyj | n | year | 
 kyln | v | to kill / to murder / to slay | 
+lab | n | lip | 
 lansn | v | to throw | 
 laud | ad | loud | 
 leibrn | v | to labor | 
@@ -319,14 +338,17 @@ lejmekr | n | legislator / member of a parliament or governing body |
 lejr | n | lawyer | 
 leng | n | language | 
 lepys | n | rabbit | 
+lerynks | n | Adam's apple / larynx / voicebox | 
 letn | v | to allow / to let | 
 li- | fix | beautiful, good, pure | spread = 2
 lidn | v | to lead | 
+linga | n | tongue | 
 lisn | v | to lease / to rent | 
 liv | n | book | 
 livn | v | to leave | 
 livrn | v | deliver | FR livrer, DE abliefern
 lo | ad | low | 
+lob | n | lobe (a rounded protrusion) | 
 lodn | v | to lade / to load | 
 loji | n | formal study / science | 
 lojir | n | expert / guru / philosopher / scholar | 
@@ -340,7 +362,9 @@ lun | n | moon |
 lurd | ad | heavy | FR "lourde"
 lwki | excl | FR voici / look here | In scriptural language, it is this exclamation, rather than a command or invitation or description about gazing with wonder or awe, that is usually the correct translation of "behold"
 lwkn | v | to look | 
+lyd | n | lid (cover for a pot or eye) | 
 lysn | v | to listen | Not a perfect borrowing from English, because there's not an extra /n/.
+lyvr | n | liver | 
 lyzys | n | lizard | 
 macaki | n | annointed one / messiah | 
 macakn | v | to annoint / to smear / to spread (a liquid) | see Strongs 4886
@@ -348,6 +372,8 @@ mai | n | mother |
 mal | ad | bad / badly / poor | 
 mama | n | mom | 
 mamin | n | mommy | 
+mamlo | n | nipple | 
+mamryn | n | breast | 
 mar | n | sea | 
 markn | v | to mark | 
 medin | v | to care for, medically / to doctor | 
@@ -391,8 +417,12 @@ mystr | n | mystery |
 n | v | proverb (placeholder or ref to other verb) | "Did you go?" "Yes, I <placeholder>+past tense"
 naij | n | hour | 
 nais | ad | nice | 
+nas | n | nose | 
 nasn | v | to bear a child / to birth | normally used in passive construction: i d nasdy = I was born
+nasryl | n | nostril | 
 nau | ad | now | 
+negl | n | nail (of finger or toe) | 
+nek | f | neck | 
 nidn | v | to need | 
 nir | ad | near | 
 nir- | fix | EN para- (paralegal, paramedic) / by close or honorary relationship | nirhico would be a reasonable translation of godson; a dear friend of your parents, who might be called an honorary "aunt" or "uncle" in English, might be nirsaisyb.
@@ -414,17 +444,22 @@ notc | n | night |
 nu | conj | and∕or | 
 nuv | ad det | nine | 
 nx | conj | and | 
+nxkl | n | knuckle | 
 o | iject | Oh ("Oh!" or "O ye of little faith" or "Oh no") | 
 ok | ad det | eight | 
 oke | ad | okay | 
 om | n | man (male human) | 
+ombyl | n | ES ombligo / FR nombril / IT ombelico / bellybutton / navel | 
 omxk | n | month | 
 omyntn | v | to augment / to increase | 
 opn | v | to open | 
+ortei | n | toe | 
 ospital | n | hospital | 
 ot | n | another / other | 
 ov | n | egg | 
 pai | n | father | Conveys more intimacy and more loyalty or submission than the English word "father". Good analog to the Hebrew word "abba".
+palm | n | palm (of the hand) | 
+panz | n | belly | 
 papa | n | dad | 
 papin | n | daddy | 
 part | n | part | 
@@ -436,12 +471,14 @@ pein | v | to pay |
 pek | n | sin | 
 pekn | n | to sin | 
 pensn | v | to think | 
+petc | n | chest (body part) | 
 pirsn | v | to pierce | 
 piso | n | floor | 
 plak | n | plaque / plate | 
 plas | n | place | 
 plasn | v | to place | 
 plein | v | to play | 
+plg | n | thumb | 
 plu | ad | more | 
 pocei | n | million | 
 poceikyj | n | eon | 
@@ -460,6 +497,7 @@ post | prep | after |
 post- | fix | to do something after | 
 pqcn | v | to attend / to wait patiently | 
 pqcnyk | ad | patient / patiently | 
+pqlxt | n | palate | 
 pr | prep | by (through the action of) / by way of / per (ratio) / through | 
 pre | prep | before | 
 pre- | fix | to do something before | 
@@ -479,6 +517,8 @@ prosain | v | to prophesy |
 prosair | n | prophet | 
 prp | ad | purple | 
 pryvlej | n | privilege | n
+puan | n | wrist | 
+pumon | n | lung | 
 pwtn | v | to put | 
 pynys | n | pinniped / seal | 
 qkn | v | to act | 
@@ -518,6 +558,7 @@ rutn | v | to head in a direction / to pathfind / to route |
 rwvn | v | to dream | 
 rxnn | v | to run | 
 rxportn | v | to report | 
+ryb | n | rib | 
 sabcn | n | knowledge (memorized) | contrast "ken", deep understanding
 sabn | v | to know or perceive a fact or abstract proposition | contrast "kenn", to understand or be familiar with the nature of
 sai | n | parent | hisai and cisai for father and mother
@@ -525,6 +566,8 @@ said | n | side |
 saik | n | mind / psyche | 
 saikloji | n | psychology | 
 saikyk | ad | mental / psychic (but not in a pseudo-scientific sense) | cf nirsaik
+sain | n | sign | 
+sainn | v | to sign / to signal | 
 saisyb | n | aunt or uncle | Add hi- or ci- at the front to say what side of the family (father's or mother's side); add it before "syb" to differentiate aunt and uncle: hisaisyb is an aunt/uncle on dad's side; saicisyb is an aunt; hisaicisyb is an aunt on father's side.
 saj | ad | sage / wise | 
 sajcn | n | wisdom | 
@@ -534,8 +577,6 @@ sanktn | v | to sanctify |
 sarys | n | reptile | 
 sava | n | charge / commandment | 
 savan | v | to charge / to command / to lay charge upon (see Strongs 6680) | 
-sein | n | sign | 
-seinn | v | to sign / to signal | 
 sej | n | ES sede / FR siège / headquarters / locus / seat (of government, etc.) | 
 sektys | n | insect | 
 sen | v | to say | 
@@ -574,6 +615,7 @@ srpys | n | serpent / snake |
 stabl | ad | stable | 
 stabln | v | to establish / to stabilize | 
 stat | n | state (government mechanism) | 
+stomak | n | stomach | 
 storm | n | storm | 
 stqndn | v | to stand | 
 studn | v | to study | 
@@ -595,6 +637,7 @@ sxn | n | sun |
 sxt | ad det | seven | 
 sxtm | n | week | 
 syb | n | sibling | hisyb and cisyb for bro and sis
+synt | n | waist | 
 sypl | n | a durationless point in time / instant / moment | 
 ta- | fix | grand-, as in grandmother (mai = mother, tamai = grandmother). Generations greater than "grand" are counted with numbers before "ta", so great-grandmother is "totamai". | 
 takn | v | to talk | 
@@ -604,6 +647,7 @@ talkx | conj | insomuch / such that |
 tam | ad | also / too | 
 tas | n | cup | 
 tcim | pronoun | of which / of whom / ~FR "dont" | 
+tcyn | n | chin | 
 tekn | v | to take | 
 teln | v | to tell | 
 temp | n | time | 
@@ -636,6 +680,7 @@ trnn | v | to turn |
 trostn | v | to comfort / to console | 
 trtlys | n | turtle | 
 tuin | prep | ES entre / FR parmi / among / between / betwixt / tween | 
+tybia | n | shin | 
 u | conj | or | 
 uai | ad | why | 
 uait | ad | white | 
@@ -688,7 +733,9 @@ vyvn | v | to live (not "to dwell" but rather antonym of "to die") |
 vyzn | v | to see | 
 w | pronoun | thee / you | second person singular
 wakn | v | to walk | 
+wr | n | ear | 
 wrkn | v | to work | 
+wrlob | n | earlobe | 
 xbjekn | v | to object | 
 xbryjn | v | to abridge | 
 xbundn | v | to abound | 
