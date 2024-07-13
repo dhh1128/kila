@@ -269,7 +269,7 @@ hydn | v | to hide |
 hypys | n | horse | 
 hytn | v | to hit | 
 i | pronoun | I / me | first person singular
-ia | det | over there / that (when determining a subsequent noun: "that apple") / there | cf *iat* 'that' (pronoun)
+ia | det | over there / that (when determining a subsequent noun: "that apple") / there / yon / yonder | cf *iat* 'that' (pronoun)
 iat | pronoun | that | cf *kx* (pronoun introducing relative clause), *ki* 'that' (determiner)
 id | ad | mine / my | 
 ide | n | idea | 
@@ -305,7 +305,7 @@ kazn | v | to cause |
 ken | n | comprehension / deep, integrated insight comprising factual knowledge and habituation | contrast sab, cogro
 kenn | v | to deeply comprehend / to understand | contrast sabn, cogron (which are each components of this deeper knowing)
 kerybu | n | caribou / reindeer | 
-ki | det | here / this (when determining a subsequent noun: "this apple") | cf *kit* 'this' (pronoun)
+ki | det | here / hither / this (when determining a subsequent noun: "this apple") | cf *kit* 'this' (pronoun)
 kiet | ad | quiet | 
 kiju | n | today | 
 kipn | v | to keep | 
