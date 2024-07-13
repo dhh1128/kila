@@ -1,7 +1,7 @@
 
 en | kila
 --- | ---
-The Road Not Taken | z rod eiteikn
+The Road Not Taken | -rod-z eiteikn
 by Robert Frost | pr -rabrt -frast
 <br>Two roads diverged in a yellow wood, | <br>2 rod - dy-splyt - yn 1 uwd e'lo 
 And sorry I could not travel both | n trist k i dy-eipod rutgo z 2
