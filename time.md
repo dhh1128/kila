@@ -14,3 +14,7 @@ year | kyj
 decade | zokyj
 century | zozokyj
 millennium | posikyj
+million years | poceikyj
+age | eij
+era | era
+eon | eon

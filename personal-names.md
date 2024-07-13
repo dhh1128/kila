@@ -1,5 +1,7 @@
 # Personal Names
 
+Each of a person's names is written with a haifa in front of it (essentially, capitalizing it as a proper noun).
+
 Kila distinguishes the following categories of names for people:
 
 * nom gyvn
@@ -8,6 +10,8 @@ Kila distinguishes the following categories of names for people:
 * nom kuanta
 
 A person may have names from some or all of these categories, and may have more than one name in a given category.
+
+
 
 ## nom gyvn
 A *nom gyvn* is a name a parent gives to a child when they become part of the family (when they are born or adopted). In most English-speaking cultures, the so-called "first name" and "middle name" are both *nom gyvn*. If a girl's birth certificate says their name is "Lori Jo Felicia Sorensen", "Lori", "Jo", and "Felicia" are *nom gyvn*, and they are used in that order. In cultures that put the family name first, all the formal names after the family name are *nom gyvn*. For example, in the full Chinese name 洪美丽 (Hong Mei-Li), 美丽 (Mei-Li) is the *nom gyvn*.
@@ -39,7 +43,7 @@ When children grow up, if they pair off and create a *nom kuanta* of their own, 
 
 en | kila
 --- | ---
-Maria Salomea Sklodowska Curie<br>aka Marie Curie née Sklodowska<br>daughter of Bronislawa and Wladislaw,<br>spouse of Pierre Curie | nom gyvn: maria, salomea<br>nom im: sklodowska, curie<br>nom kuanta as child: co-broni-kn-vlad<br>nom kuanta as adult: pier-kn-mar, co-broni-kn-vlad
+Maria Salomea Sklodowska Curie<br>aka Marie Curie née Sklodowska<br>daughter of Bronislawa and Wladislaw,<br>spouse of Pierre Curie | nom gyvn: -maria, -salomea<br>nom im: -sklodowska, -curie<br>nom kuanta as child: -co-broni-kn-vlad<br>nom kuanta as adult: -pier-kn-mar, -co-broni-kn-vlad
 
 ## Identifying oneself
 The common way to ask for a person's name in kila is /uat bi wd nom?/ ("What is your name?"), to which the answer would be a preferred *nom tekn* or *nom gyvn*: /i bi dqniel/ or /id nom bi dqniel/.

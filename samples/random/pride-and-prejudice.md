@@ -6,6 +6,6 @@ Mr. Bennet replied that he had not. | Bennet-hikn replaidy k e no ndy\*.<br>---<
 Mr. Bennet made no answer.|Bennet-hikn no qnsrdy.
 “Do you not want to know who has taken it?” cried his wife impatiently.|/-w no vl sabn hu tekhq e?-/ eskleimdy eipqcntyk qd kn.
 “You want to tell me, and I have no objection to hearing it.”|/-w vl teln d i, n i hav no xbjekcn a hirn e.-/
-This was invitation enough.|ki bidy ynvit sufi.
+This was invitation enough.|kit bidy ynvit sufi.
 
 “Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it, that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.” |/-uai, cer-id, u deb sabn, Long-cikn se k Netherfield bi tekn pr 

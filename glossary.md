@@ -52,13 +52,13 @@ aks | n | ox |
 al | det | all | 
 alma | n | soul | 
 alri | ad | all around / everywhere | contrast vxri
-amen | excl | amen | 
+amen | iject | amen | 
 amer | ad | bitter | 
-an | prep | on / upon | 
+an | prep | FR sur / on / upon | 
 anj | n | angel | 
 anta | n | human / person | 
 antyk | ad | human | 
-ap | ad prep | away / away from | see Strongs G575
+ap | ad prep | away / away from / hence | see Strongs G575
 arb | n | tree | 
 ardn | v | to burn | 
 ardyk | ad | burned / burnt | 
@@ -84,16 +84,15 @@ bovys | n | bovine / cattle / cow / kine |
 brau | n | eyebrow | 
 braun | ad | brown | 
 bwbn | v | to drink | 
-bxlivn | v | to believe | 
 bxs | n | bus | 
 byg | ad | big | 
 byld | n | building | 
 byldn | v | to build | 
 bytn | v | to bite | 
+c | iject | FR chut / shhh | 
 cad | det pronoun | each | 
 canj | n | change | 
 canjn | v | to change | 
-cc | excl | FR chut / sh | 
 cei | ad det | six | 
 celys | n | shellfish | 
 cer | ad | dear / precious | 
@@ -119,28 +118,42 @@ deb | n | debt |
 debcn | n | duty | 
 debn | v | "must" as a helper verb / ES deber / FR devoir / to owe (either money, or a duty) | 
 debr | n | debtor | 
+debyk | ad | due / owing | 
+deklern | v | to declare / to proclaim | 
 deluj | n | deluge / flood | 
 delujn | v | to deluge / to flood / to overflow or cover with water | 
+den | ad | then | 
 dent | n | tooth | 
 deprtenn | v | to deprive / to dissociate | 
+desaifrn | v | to decipher | 
 desidn | v | to decide | 
 desirn | v | to desire | 
+desrt | n | desert | 
 desryk | ad | desirous | 
 destrxkn | v | to destroy | 
+develcn | n | revelation | 
+develn | v | to reveal | 
 dimyntn | v | to decrease / to reduce | 
+djngl | n | jungle | 
 donk | ad conj | so / so that / therefore / thus / wherefore | Similar to FR donc, but has a stronger sense of causation
 dormn | v | to sleep | 
 dr | conj prep | as / during / while | 
 drec | ad | right (-hand side, -ward) | cf nist
 drit | ad | straight | 
 dun | v | to do | 
+dutn | v | to doubt | 
 dx | prep | from / of / passive particle | 
 dxk | n | duck | 
+dyfr | n | difference | 
+dyfrn | v | to differ | 
+dys- | fix | bent, apart, turned | 
+dysvirn | v | to diverge | 
 e | pronoun | he / her (indirect obj) / him / it / she | third person singular
 ed | ad pronoun | her / his / its | 
-ei- | fix | English -less (e.g., sightless) / English a- (e.g., atypical) / as a verb fix, to leave something undone / lack of something | 
+ei- | fix | EN -less (sightless) / EN a- (atypical) / EN in- or im- (impossible) / EN non- (nontraditional) / EN un (unlikely) / as a verb fix, lack of what follows | 
 eifyncn | n | infinity | 
 eifynyk | ad | endless / infinite / neverending | 
+eij | n | age (unit of longevity) / age (very long period of time) | 
 eiko | prep | ES "sin" / FR "sans" / without | 
 eiposib | ad | impossible | 
 ek | ad | e.g. / for example | 
@@ -150,16 +163,25 @@ elo | ad | yellow |
 elyps | n | an ellipsis with 3 dots, used to show that elided text did not touch or cross a sentence boundary | cf tolyps, kalyps
 eni | det pronoun | any | 
 enicoz | n | anything | 
+eniri | ad | anywhere | 
+eniuen | ad | anytime | 
 enkl | n | ankle | 
-es | prep | out / out of | 
+entrn | v | enter | 
+eon | n | eon | 
+era | n | era | 
+es | ad prep, | forth / out / out of | 
 esjekn | v | to eject | 
 eskleimn | v | to cry out / to exclaim | 
+esmrjn | v | to emerge | 
 esplain | v | to explain | 
+esplikn | n | to explain / to explicate / to interpret or clarify the meaning | 
 esprn | v | to hope | 
+esrodn | v | to erode / to wear away | 
 esrsisn | v | to exercise / to go through planned, intentional actions | 
 essaid | ad prep | outside | 
 esxkutn | v | to execute (a person, NOT an order or a plan) | cf sign, to follow an order or plan
 ets | ad | and so forth / et cetera / etc. | 
+evr | ad | always / ever / forever | 
 fai | ad det | five | 
 faindn | v | to find | 
 faln | v | to fall | 
@@ -177,6 +199,7 @@ fl | ad | full |
 flo | n | flow | 
 flon | v | to flow | 
 flyk | ad | completely / entirely / fully / wholly | 
+fo | prep | for | 
 font | n | fount / fountain | 
 fort | ad | strong | 
 fortcn | n | strength | 
@@ -192,23 +215,28 @@ fynyk | ad | at last / final / finally / last / lastly |
 gad | n | god | 
 galys | n | chicken | 
 garg | n | throat | 
+geizn | v | to gaze / to stare | 
 getn | v | to get | 
 ginx | n | knee | 
 glori | n | glory | 
 gon | v | to go | 
 got | n | goat | 
+gqdrkaus | n | assembly hall / synagogue | 
 gqdrn | v | to gather | 
 gqdryk | ad | together | 
 gr- | fix | ES -ote / augmentive | spread = 3
 gran | ad | great | 
 gre | ad | grey | 
 grleit | ad | later | 
+grocn | n | growth | 
 gron | v | to grow | 
 grqbn | v | to grab | 
+grqs | n | grass | 
 grsun | ad | sooner | 
 gw | n | a letter of the spelling alphabet (the gwm) | 
 gwm | n | spelling alphabet (lower-case letters) | contrast /fim/
 gwmn | v | to spell | 
+gyv | n | gift | 
 gyvn | v | to give | 
 habl | n | hair | 
 hai | ad | high | 
@@ -225,6 +253,7 @@ hi- | fix | male | spread = 1
 hikn | n | mister | 
 hin | n | ES macho / ES varon / male | 
 hirn | v | to hear | 
+hm | iject | hmmm | 
 holdn | v | to hold | 
 hom | n | home | 
 hqpn | v | to happen / to occur | 
@@ -233,14 +262,19 @@ hrdn | v | to herd |
 hrdr | n | herder / shepherd | 
 hrdrys | n | a herder's animal (member of a domesticated flock) | 
 hrdys | n | herd animal | 
-hu | pronoun | who (question word, not relative pronoun) | cf kx, relative pronoun
+hu | pronoun | who (question word, not relative pronoun) | cf *kx*, relative pronoun
 hud | pronoun | whose | 
+hw | iject | "Now" when used as an interjection or coordinating conjunction, introducing a new thought. / ho / lo | 
 hydn | v | to hide | 
 hypys | n | horse | 
 hytn | v | to hit | 
 i | pronoun | I / me | first person singular
-ia | det | over there / that / there | 
+ia | det | over there / that (when determining a subsequent noun: "that apple") / there | cf *iat* 'that' (pronoun)
+iat | pronoun | that | cf *kx* (pronoun introducing relative clause), *ki* 'that' (determiner)
 id | ad | mine / my | 
+ide | n | idea | 
+idm | ad | equal / same | 
+idmi | ad | equivalent | 
 iecux | n | Jesus | 
 in- | fix | ES -ito / diminutive or endearing / ~FR -ette | spread = 3
 iris | n | iris | 
@@ -256,23 +290,27 @@ jujn | v | to judge |
 jum | n | twin | 
 just | ad | barely / just | 
 juvnt | n | Jew | 
+jxst | ad | just / only | 
 kak | n | feces / poop | 
 kaksyks | n | coccyx / tailbone | 
 kald | ad | cold | 
 kaln | v | to call | 
 kamp | n | camp / encampment | 
 kampn | v | to camp / to occupy territory | 
+kanixn | n | canyon | 
 kaos | n | chaos | 
-kasi | ad | almost | 
+kasi | ad | about / almost / approximately | 
 kaus | n | house | 
 kazn | v | to cause | 
 ken | n | comprehension / deep, integrated insight comprising factual knowledge and habituation | contrast sab, cogro
 kenn | v | to deeply comprehend / to understand | contrast sabn, cogron (which are each components of this deeper knowing)
 kerybu | n | caribou / reindeer | 
-ki | det | here / this | 
+ki | det | here / this (when determining a subsequent noun: "this apple") | cf *kit* 'this' (pronoun)
 kiet | ad | quiet | 
 kiju | n | today | 
 kipn | v | to keep | 
+kit | pronoun | this | cf *ki* 'this' (determiner)
+klemn | v | to claim | 
 klozn | v | to close | 
 klqvykl | n | clavicle / collarbone | 
 kmplet | ad | complete / entire | 
@@ -284,11 +322,14 @@ kntendn | v | to compete / to contend / to vie |
 ko | prep | with | 
 ko- | fix | EN "co-" / with | 
 koc | n | thigh | 
+kokob | n | star | 
 kolidn | v | to collide | 
+kolin | n | hill | 
 komprenn | v | to comprehend / to understand | 
 kontroln | v | to control | 
 kop | n | head | 
 korp | n | body | 
+kost | n | coast | 
 kovrsn | n | to converse | 
 koxn | n | partner | 
 kq | ad det | four | 
@@ -298,11 +339,13 @@ kqmlys | n | camel |
 kqnys | n | dog | 
 kraud | n | crowd | 
 kraudn | v | to crowd | 
+kredn | v | to believe | 
 kretn | v | to create | 
 kretyk | ad | creative | 
 kretys | n | creature | 
 krk | n | church (building) / church (institution) | 
 krqftn | v | to craft / to create by hand with skill | 
+krt | ad | short | also used in the sense of "curt"
 krtn | n | curtain | 
 krxpt | ad | corrupt | 
 krxptn | v | to corrupt | 
@@ -312,6 +355,7 @@ kuanta | n | family (casual usage) / nuclear family |
 kubrn | v | to cover | 
 kud | n | elbow | 
 kueikn | v | to quake | 
+kukan | n | kin / people for whom one has a strong affinity / relatives | 
 kukuanta | n | formal relatives by blood or marriage | 
 kunt | n | amount / count / quantity | 
 kunt | ad | ES cuanto / FR combien / how many / how much | 
@@ -326,6 +370,8 @@ kxmn | v | to come |
 kyj | n | year | 
 kyln | v | to kill / to murder / to slay | 
 lab | n | lip | 
+lak | n | lake | 
+lang | ad | long | 
 lansn | v | to throw | 
 laud | ad | loud | 
 leibrn | v | to labor | 
@@ -340,7 +386,8 @@ leng | n | language |
 lepys | n | rabbit | 
 lerynks | n | Adam's apple / larynx / voicebox | 
 letn | v | to allow / to let | 
-li- | fix | beautiful, good, pure | spread = 2
+li | ad | comely / wholesome | 
+li- | fix | beautiful, good, pure / comely / wholesome | spread = 2
 lidn | v | to lead | 
 linga | n | tongue | 
 lisn | v | to lease / to rent | 
@@ -360,7 +407,9 @@ lrnn | v | to learn |
 lum | n | light | 
 lun | n | moon | 
 lurd | ad | heavy | FR "lourde"
-lwki | excl | FR voici / look here | In scriptural language, it is this exclamation, rather than a command or invitation or description about gazing with wonder or awe, that is usually the correct translation of "behold"
+lwf | n | leaf | 
+lwgn | v | to lay, typically down (cause to rest, transitive) / to lie (rest in a supported position, typically flat or prostrate, intransitive) | 
+lwki | iject | FR voici / look here | In scriptural language, it is this exclamation, rather than a command or invitation or description about gazing with wonder or awe, that is usually the correct translation of "behold"
 lwkn | v | to look | 
 lyd | n | lid (cover for a pot or eye) | 
 lysn | v | to listen | Not a perfect borrowing from English, because there's not an extra /n/.
@@ -389,6 +438,7 @@ melkri | n | kingdom |
 mens | n | beginning / start | 
 mensn | v | to begin / to commence / to start | 
 mensyk | ad | initial / initially | 
+mentn | v | to lie (tell an untruth) | 
 mervln | v | to marvel | 
 mervlyk | ad | marvelous | 
 mesyjn | v | to message | 
@@ -396,15 +446,18 @@ mil | n | FR répas / meal |
 minn | v | to mean / to signify | 
 mltxim | n | crowd / multitude | 
 mltxplin | v | to multiply | 
+montn | n | mountain | 
 morn | n | morning | 
 mornmil | n | breakfast | 
 mornn | v | ES despertar / FR réveiller / to wake up | 
+morqs | n | morass / swamp | 
 mort | n | death | 
 mortn | v | to die | 
 mqgza | n | second | 
 mqm | n | ma'am / madam / madame / miss / respectful title for any adult woman, without respect to married status / señora | 
 mqn | n | hand | 
 mqnyjn | v | to manage | 
+mrjn | v | to merge | 
 mund | n | world | 
 murnn | v | to mourn | 
 mus | n | moose | 
@@ -412,7 +465,7 @@ myd | ad | mid / middle |
 mydmil | n | lunch | 
 mylyter | n | military | 
 myn | ad | less | 
-mys- | fix | EN dys- / EN mis- / to do in a flawed or broken way | 
+mys- | fix | failed, broken | 
 mystr | n | mystery | 
 n | v | proverb (placeholder or ref to other verb) | "Did you go?" "Yes, I <placeholder>+past tense"
 naij | n | hour | 
@@ -423,6 +476,7 @@ nasryl | n | nostril |
 nau | ad | now | 
 negl | n | nail (of finger or toe) | 
 nek | f | neck | 
+nevr | ad | never | 
 nidn | v | to need | 
 nir | ad | near | 
 nir- | fix | EN para- (paralegal, paramedic) / by close or honorary relationship | nirhico would be a reasonable translation of godson; a dear friend of your parents, who might be called an honorary "aunt" or "uncle" in English, might be nirsaisyb.
@@ -433,7 +487,7 @@ nist | ad | left (-hand side, -ward) | cf drec
 nixn | n | friend | 
 no | det iject | ES ningún / FR aucun / no / none | 
 nocoz | n | nothing | 
-nol | n | star | 
+nolm | ad | eternal | 
 nom | n | name | 
 nomn | v | to call (apply a name to) / to name | 
 nor | ad | black | 
@@ -446,6 +500,7 @@ nuv | ad det | nine |
 nx | conj | and | 
 nxkl | n | knuckle | 
 o | iject | Oh ("Oh!" or "O ye of little faith" or "Oh no") | 
+ocn | n | ocean | 
 ok | ad det | eight | 
 oke | ad | okay | 
 om | n | man (male human) | 
@@ -465,7 +520,7 @@ papin | n | daddy |
 part | n | part | 
 parti | n | party (one concerned or interested in an affair, including possibly a group that's unified in interests or purpose) | 
 partn | v | to divide up / to divvy up / to share | 
-pask | conj | ES porque / ES pues / FR parceque / because / since (causation) | 
+pask | conj | ES porque / ES pues / FR parceque / because / since (causation) / so that / such that | 
 ped | n | foot | 
 pein | v | to pay | 
 pek | n | sin | 
@@ -477,11 +532,14 @@ piso | n | floor |
 plak | n | plaque / plate | 
 plas | n | place | 
 plasn | v | to place | 
+plato | n | plateau | 
 plein | v | to play | 
 plg | n | thumb | 
 plu | ad | more | 
+plubon | ad | better | 
+plumal | ad | worse | 
 pocei | n | million | 
-poceikyj | n | eon | 
+poceikyj | n | a million years | 
 pod | n | power | 
 podn | v | to be able or capable / to have power to do / ~EN can / ~ES poder / ~FR pouvoir | 
 podyk | ad | powerful | 
@@ -493,20 +551,24 @@ portrys | n | beast of burden |
 posi | n | thousand | 
 posib | ad | possible | 
 posikyj | n | millennium | 
-post | prep | after | 
+post | prep | after (in time or space) | 
 post- | fix | to do something after | 
 pqcn | v | to attend / to wait patiently | 
 pqcnyk | ad | patient / patiently | 
 pqlxt | n | palate | 
+pqsn | v | to pass | 
 pr | prep | by (through the action of) / by way of / per (ratio) / through | 
-pre | prep | before | 
+prc | ad | maybe / perchance / perhaps / possibly | 
+pre | prep | before (in time or space) | 
 pre- | fix | to do something before | 
+predeklrn | v | to preach | 
 preju | n | yesterday | 
 prekyj | n | ago / last year / yesteryear | 
 premorn | n | yesterday morning | 
 prenotc | n | last night / yesternight | 
 prepn | v | to prepare | 
 prepreju | n | ES anteayer / day before yesterday | 
+preri | n | prairie | 
 presypcn | n | precipitation | 
 presypn | v | to precipitate | 
 prezns | n | presence (direct engagement in environment) | 
@@ -519,6 +581,7 @@ prp | ad | purple |
 pryvlej | n | privilege | n
 puan | n | wrist | 
 pumon | n | lung | 
+punin | v | punish | 
 pwtn | v | to put | 
 pynys | n | pinniped / seal | 
 qkn | v | to act | 
@@ -547,18 +610,22 @@ restn | v | to remain |
 retrnn | v | to return | 
 ri | prep | about / around / concerning / regarding | 
 ridn | v | to read | 
+rod | n | road | 
 romn | v | to roam / to wander | 
 rqptys | n | bird of prey | 
 rsys | n | bear | 
 ruak | n | spirit | See Strongs 7307.
 ruj | ad | red | 
 rut | n | path / route / way | 
+rutfaindn | v | to navigate | 
+rutgon | v | to travel | 
 rutin | ad | routine | 
 rutn | v | to head in a direction / to pathfind / to route | 
 rwvn | v | to dream | 
 rxnn | v | to run | 
 rxportn | v | to report | 
 ryb | n | rib | 
+ryvr | n | river | 
 sabcn | n | knowledge (memorized) | contrast "ken", deep understanding
 sabn | v | to know or perceive a fact or abstract proposition | contrast "kenn", to understand or be familiar with the nature of
 sai | n | parent | hisai and cisai for father and mother
@@ -578,12 +645,13 @@ sarys | n | reptile |
 sava | n | charge / commandment | 
 savan | v | to charge / to command / to lay charge upon (see Strongs 6680) | 
 sej | n | ES sede / FR siège / headquarters / locus / seat (of government, etc.) | 
+sejln | v | to seal | 
 sektys | n | insect | 
 sen | v | to say | 
 sendn | v | to send | 
 sentr | n | center | 
 sep | conj | but | 
-sepn | conj | however / nevertheless / notwithstanding / yet / ~FR cependant | 
+sepn | conj | although / however / nevertheless / notwithstanding / though / yet / ~FR cependant | 
 sepyk | prep | despite / notwithstanding | 
 servys | n | deer | 
 setys | n | whale | 
@@ -603,21 +671,28 @@ sizo | n | thirty |
 skribn | v | to write | 
 slon | prep | ES segun / FR selon / according to / as to | 
 smal | ad | small | 
+so | prep | as (followed by adjective or adverb) / so (followed by adjective or adverb) | 
 so- | fix | extreme / intense / own (before possessive, as in "soid" (my own) / very | spread = 4
+sobon | ad | best | 
 sofa | n | couch / sofa | 
+somal | ad | worst | 
 sosin | v | to associate | 
 sovx | ad | many / much | 
 spad | n | sword | 
 spikn | v | to address (with indirect object for audience) / to speak | 
+splytn | v | to split | n
 spredn | v | to spread | 
 sr | n | monsieur / respectful title for any adult man / señor / sir | 
 srpys | n | serpent / snake | 
 stabl | ad | stable | 
 stabln | v | to establish / to stabilize | 
 stat | n | state (government mechanism) | 
+step | n | step | 
+stepn | v | to step | n
 stomak | n | stomach | 
 storm | n | storm | 
 stqndn | v | to stand | 
+strat | n | street | 
 studn | v | to study | 
 studr | n | student | 
 su | prep | under | 
@@ -625,13 +700,19 @@ subern | v | to support or sustain at great cost, without sinking under | cf "su
 sud | ad | south | 
 sueidn | v | to persuade | 
 sufi | ad | enough / sufficient | 
+sugrocn | n | undergrowth | 
+sumrjn | v | to submerge | 
 sun | ad | soon | 
+suspirn | v | to sigh | 
 susys | n | pig | 
 suvn | v | to remember | 
 sxfrn | v | to suffer | 
 sxm | det | some | 
+sxmant | n | someone | 
 sxmcoz | n | something | 
 sxmpokq | n | legion (military unit with thousands of soldiers) | 
+sxmri | ad | somewhere | 
+sxmuen | ad | sometime | 
 sxmyk | ad | partial / partially / somewhat | 
 sxn | n | sun | 
 sxt | ad det | seven | 
@@ -663,7 +744,7 @@ tip | n | category / manner / prototype / type |
 titcn | v | to teach | 
 titcr | n | teacher | 
 titl | n | title | 
-to | ad det | two | 
+to | ad det | both / two | 
 tocwv | n | the two open-quote symbol | written as /--
 tolyps | n | an ellipsis with 2 dots, used to elide items in a sequence | cf elyps, kalyps
 tortys | n | tortoise | 
@@ -675,7 +756,9 @@ toxm | ad | half | In English, the ordinal "second" and the fraction "half" are 
 tozo | n | twenty | 
 tqksi | n | taxi | 
 train | v | to try | 
+tredn | v | to tread | 
 tren | n | train | 
+trist | ad | sad / sorry | 
 trnn | v | to turn | 
 trostn | v | to comfort / to console | 
 trtlys | n | turtle | 
@@ -689,6 +772,7 @@ uarnn | v | to alarm / to caution / to warn |
 ud | ad | your (singular possessive) | 
 uen | ad | when | 
 uer | ad | where | 
+uern | v | to wear | 
 uest | ad | west | 
 un | ad det | a / one | 
 unto | n | twelve | 
@@ -698,6 +782,7 @@ unxm | ad | first |
 unzo | n | ten | 
 unzoxm | ad | tenth | 
 urd | n | word | 
+uwd | n | wood (the material) / woods (a copse of trees) | 
 uxndrn | v | to wonder | 
 uxt | pronoun | what | 
 uynn | v | to win | 
@@ -707,9 +792,11 @@ valu | n | value |
 ve | pronoun | them / they | third person plural
 ved | ad | their | 
 vehik | n | vehicle | 
+vel | n | veil | 
 verd | ad | green | 
 ves | n | ES vez / FR fois / instance / occurence / repetition / times (multiplication) | 
 vi | pronoun | us / we | first person plural
+virn | v | to turn / to veer | 
 visitn | v | to visit | 
 vln | v | to want | 
 vos | n | voice | 
@@ -721,8 +808,10 @@ vwd | ad | your (plural possessive) |
 vx- | fix | plural | spread = 4
 vxanta | n | people | 
 vxco | n | children | 
-vxia | det | those | 
-vxki | det | these | 
+vxia | det | those (when determining a subsequent noun: "those apples") | cf *vxiat*, 'those' (pronoun)
+vxiat | pronoun | those | cf *vxia*, `those` (determiner)
+vxki | det | these (when determining a subsequent noun: "these apples") | cf *vxkit*, 'these' (pronoun)
+vxkit | pronoun | these (pronoun) | cf *vxki* (determiner)
 vxno | det | either (additional negation) / neither | 
 vxri | ad | here and there / round about | contrast /alri/
 vyl | n | DE Wille ES voluntad FR volonté / will (mental determination) | cf /testxmnt/, legal doc distributing assets at death
@@ -736,6 +825,7 @@ wakn | v | to walk |
 wr | n | ear | 
 wrkn | v | to work | 
 wrlob | n | earlobe | 
+x | iject | uh / unstressed syllable placeholder used to force rhythm in poetry | 
 xbjekn | v | to object | 
 xbryjn | v | to abridge | 
 xbundn | v | to abound | 
