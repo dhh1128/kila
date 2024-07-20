@@ -51,6 +51,8 @@ anj | n | angel |
 ant | n | human / person | 
 antyk | ad | human | 
 ap | ad prep | away / away from / hence | see Strongs G575
+appwt | n | forgiveness | 
+appwtn | v | to forgive | 
 arb | n | tree | 
 ardn | v | to burn | 
 ardyk | ad | burned / burnt | 
@@ -62,9 +64,6 @@ armr | n | armor |
 astu | ad | astute / clever / cunning | 
 astucn | n | astuteness / cleverness / cunning | 
 au | iject | ouch / shoot | 
-aub | ad | away | 
-aubpwt | n | forgiveness | 
-aubpwtn | v | to forgive | 
 bern | v | to bear (a burden) | cf nasn, to bear a child
 biholdn | v | to behold / to observe with wonder or awe | This verb is used in cases where the associated contemplation is particularly deep, wondrous, or awe-filled. It is not used to simply invite consideration. Contrast "lwki".
 bikxmn | v | to become | 
@@ -167,6 +166,7 @@ entrn | v | enter |
 eon | n | eon | 
 era | n | era | 
 es | ad prep, | forth / out / out of | 
+esgon | v | FR, ES sortir / to exit | 
 esjekn | v | to eject | 
 eskapn | v | to escape | 
 eskleimn | v | to cry out / to exclaim | 
@@ -178,7 +178,6 @@ esrodn | v | to erode / to wear away |
 esrsisn | v | to exercise / to go through planned, intentional actions | 
 essaid | ad prep | outside | 
 esxkutn | v | to execute (a person, NOT an order or a plan) | cf sign, to follow an order or plan
-esytn | v | FR, ES sortir / to exit | 
 ets | ad | and so forth / et cetera / etc. | 
 evr | ad | always / ever / forever | 
 fai | ad det | five | 

@@ -10,8 +10,8 @@ In kila, stress can be used to place special emphasis anywhere, and special stre
 
     word | stress analysis
     --- | ---
-    *aubpwtn* 'to forgive' | Remove -n, then stress penultimate syllable *aub* of root.
-    *aubpwtgxhq* 'had been forgiving' | Remove -hq and -gz, same result as before.
+    *appwtn* 'to forgive' | Remove ap- and -n, then stress single syllable of root.
+    *appwtgxhq* 'had been forgiving' | Remove ap- and -hq and -gz, same result as before.
     *eifynyk* 'infinite' | Remove ei- and -yk, stress one-syllable root *fyn*.
     *cisyb* 'sister' | Remove ci-, stress one-syllable root *syb*.
     *jxngl* 'jungle' | Prefer penultimate, but /x/ is penultimate nucleus, so look at final. Final is a vocalic /l/, so stress penultimate.
