@@ -10,15 +10,13 @@ jungle | djngl
 lake | lak
 mountain | montn
 ocean | ocn
-plateau | 
+plateau | plxto
 prairie | preri
 river | ryvr
 sea | mar
 swamp | morqs
+valley | vql
 
-Certainly! Here is a list of 40 geographical terms that you can use when teaching about features on a map:
-
-3. **Valley**
 5. **Gorge**
 6. **Cliff**
 7. **Plain**

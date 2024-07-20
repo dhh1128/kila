@@ -2,24 +2,23 @@
 
 lemma | tags | definition | notes
 ----- | ---- | ---------- | -----
--cn | fix | adverb to a noun that embodies the action or quality / convert a verb or an adjective | kret -> kretcn; saj -> sajcn
+-cn | fix | -ness or -tion: convert a verb, adjective, or adverb to a noun that embodies the action or quality (cloudi*ness*) | Not needed for many verbs, because a verb or adjective and a noun obviously associated with the verb or adjective are the same word, like "hammer" is both a noun and a verb in English, and "black" can be used as both an adjective and a noun. However: 'saj' &rarr; 'sajcn' (wise &rarr; wisdom)
 -du | fix | imperative mood on a verb | spread = 1
--ez | fix | convert noun or adverb into verb (cf EN -ify or -ize) | 
--ezn | fix | -ize: convert noun into verb that produces the noun | compare EN philosophy -> philosophize
+-ez | fix | -ify or -ize: convert noun or adverb into verb (weather*ize*) | 
 -gx | fix | ongoing aspect on a verb | spread = 2
 -hq | fix | perfective aspect on a verb | spread = 3
--i | fix | -ee: convert verb into one receiving action (inductee) | compare EN induct -> inductee
--im | fix | a group (especially of people or animals) | 
--mekr | fix | -maker: convert noun into one who makes it | compare EN trouble -> troublemaker
--mqn | fix | FR -aine (convert a number to a group of that size) / cardinality | 
+-i | fix | -ee: convert verb into one receiving action (induct*ee*) | 
+-im | fix | convert a noun (especially of people or animals) into a group | 
+-mekr | fix | -maker: convert noun into one who makes it (trouble*maker*) | 
+-mqn | fix | FR *-aine*: convert a number to a group of that size / cardinality | cf doz*en*
 -n | fix | infinitive or past participle on a verb | spread = 1
--r | fix | convert a verb to the party who performs the verb | compare EN sail -> sailor
--ri | fix | convert a noun or verb into a place characterized by it | compare EN bake -> bakery
--vnt | n | turn a name or noun into a category of people / ~EN -ic, -ian, -ese, -ish (hispanic, italian, chinese, turkish -- only used for people, not as a general adjective suffix) | 
+-r | fix | -or or -er: convert a verb to the party who performs the verb (sail*or*) | 
+-ri | fix | -ry: convert a noun or verb into a place characterized by it (bake*ry*) | 
+-vnt | n | -ic, -an, -ese, -ish: turn a name or noun into a category of people (hispan*ic*, itali*an*, chin*ese*, turk*ish*) | only used for people, not as a general adjective suffix
 -vw | fix | conditional or subjunctive mood on a verb | spread = 4
--vy | fix | future tense on a verb | Shortened from /vyl/. spread = 1
--xm | fix | converts a number to an ordinal or denominator | compare EN 4 -> 4th
--yk | fix | convert noun or verb to its essential characteristic / ~EN "-ful" / ~EN "-ish" / ~EN "-ous" | rwvn -> rwvyk
+-vy | fix | future tense on a verb | spread = 1
+-xm | fix | -th or -st: convert a number to an ordinal or denominator (four*th*) | 
+-yk | fix | -ful or -ish or -ous: convert noun or verb to its essential characteristic (ridicul*ous*) | 'rwvn' -> 'rwvyk' (dreamy)
 10mxk | n | october | 
 11mxk | n | november | 
 12mxk | n | december | 
@@ -37,13 +36,13 @@ lemma | tags | definition | notes
 9mxk | n | september | 
 a | prep | at / to | 
 abi | ad | i.e. / that is / that is to say | 
-abitn | v | to dwell | 
-abpwtcn | n | forgiveness | 
-abpwtn | v | to forgive | 
+xbitn | v | to dwell | 
+aubpwt | n | forgiveness | 
+aubpwtn | v | to forgive | 
 af | prep | off | 
-afer | n | ES asunto / affair (a matter to consider) | 
-aflikn | v | to afflict | 
-afys | n | office (a formal role) | compare afysri (the location)
+xfer | n | ES asunto / affair (a matter to consider) | 
+xflykn | v | to afflict | 
+afys | n | office (a formal role) | cf 'afysri' (the location)
 afysr | n | officer / official | 
 agu | n | water | 
 aho | prep | unto | 
@@ -52,11 +51,11 @@ aks | n | ox |
 al | det | all | 
 alma | n | soul | 
 alri | ad | all around / everywhere | contrast vxri
-amen | iject | amen | 
-amer | ad | bitter | 
+xmen | iject | amen | 
+xmer | ad | bitter | 
 an | prep | FR sur / on / upon | 
 anj | n | angel | 
-anta | n | human / person | 
+ant | n | human / person | 
 antyk | ad | human | 
 ap | ad prep | away / away from / hence | see Strongs G575
 arb | n | tree | 
@@ -69,7 +68,8 @@ armnim | n | army |
 armr | n | armor | 
 astu | ad | astute / clever / cunning | 
 astucn | n | astuteness / cleverness / cunning | 
-au | iject | ouch / shoot | 
+au | iject | ouch / shoot |
+aub | ad | away 
 avys | n | bird | 
 bern | v | to bear (a burden) | cf nasn, to bear a child
 biholdn | v | to behold / to observe with wonder or awe | This verb is used in cases where the associated contemplation is particularly deep, wondrous, or awe-filled. It is not used to simply invite consideration. Contrast "lwki".
@@ -84,6 +84,7 @@ bovys | n | bovine / cattle / cow / kine |
 brau | n | eyebrow | 
 braun | ad | brown | 
 bwbn | v | to drink | 
+bx | iject | FR bah / ~EN like (valley girl verbal tic) | 
 bxs | n | bus | 
 byg | ad | big | 
 byld | n | building | 
@@ -146,6 +147,8 @@ dx | prep | from / of / passive particle |
 dxk | n | duck | 
 dyfr | n | difference | 
 dyfrn | v | to differ | 
+dygnx | ad | worthy | 
+dygnxcn | n | worthiness | 
 dys- | fix | bent, apart, turned | 
 dysvirn | v | to diverge | 
 e | pronoun | he / her (indirect obj) / him / it / she | third person singular
@@ -180,6 +183,7 @@ esrodn | v | to erode / to wear away |
 esrsisn | v | to exercise / to go through planned, intentional actions | 
 essaid | ad prep | outside | 
 esxkutn | v | to execute (a person, NOT an order or a plan) | cf sign, to follow an order or plan
+esytn | v | FR, ES sortir / to exit | 
 ets | ad | and so forth / et cetera / etc. | 
 evr | ad | always / ever / forever | 
 fai | ad det | five | 
@@ -221,12 +225,16 @@ ginx | n | knee |
 glori | n | glory | 
 gon | v | to go | 
 got | n | goat | 
+gqdr | n | any group of animals that is not under human supervision, such as a murder of crows, a pod of whales, a pride of lions, etc. Kila doesn't have different words for different types of animals. / assembly / gathering | 
 gqdrkaus | n | assembly hall / synagogue | 
 gqdrn | v | to gather | 
 gqdryk | ad | together | 
 gr- | fix | ES -ote / augmentive | spread = 3
 gran | ad | great | 
 gre | ad | grey | 
+grit | n | greeting | cf *gritcn*, 'formal greeting or greeting ceremony'
+gritcn | n | formal greeting or greeting ceremony / salutation (a showy or flowery greeting) | cf *grit*, 'greeting'
+gritn | v | to greet | 
 grleit | ad | later | 
 grocn | n | growth | 
 gron | v | to grow | 
@@ -257,7 +265,7 @@ hm | iject | hmmm |
 holdn | v | to hold | 
 hom | n | home | 
 hqpn | v | to happen / to occur | 
-hrd | n | herd | 
+hrd | n | herd, flock (a group of domesticated animals under human supervision) | Unlike English, this word is used with any animals that meet this definition, including geese, sheep, and so forth. Kila doesn't have different words for different types of animals.
 hrdn | v | to herd | 
 hrdr | n | herder / shepherd | 
 hrdrys | n | a herder's animal (member of a domesticated flock) | 
@@ -313,6 +321,7 @@ kit | pronoun | this | cf *ki* 'this' (determiner)
 klemn | v | to claim | 
 klozn | v | to close | 
 klqvykl | n | clavicle / collarbone | 
+klyf | n | cliff | 
 kmplet | ad | complete / entire | 
 kmpletn | v | to complete | 
 kn | n | spouse | 
@@ -351,12 +360,12 @@ krxpt | ad | corrupt |
 krxptn | v | to corrupt | 
 krxstys | n | crustacean | 
 ku- | fix | by marriage | kusyb is step sibling and kucisai is stepmother
-kuanta | n | family (casual usage) / nuclear family | 
+kuant | n | family (casual usage) / nuclear family | 
 kubrn | v | to cover | 
 kud | n | elbow | 
 kueikn | v | to quake | 
 kukan | n | kin / people for whom one has a strong affinity / relatives | 
-kukuanta | n | formal relatives by blood or marriage | 
+kukuant | n | formal relatives by blood or marriage | 
 kunt | n | amount / count / quantity | 
 kunt | ad | ES cuanto / FR combien / how many / how much | 
 kuntn | v | to count / to quantify | 
@@ -402,7 +411,7 @@ lojir | n | expert / guru / philosopher / scholar |
 lojn | v | to practice science / to study with rigor | 
 lojr | n | scientist | 
 lon | ad | far | 
-lonkuanta | n | tribe | 
+lonkuant | n | tribe | 
 lrnn | v | to learn | 
 lum | n | light | 
 lun | n | moon | 
@@ -507,6 +516,9 @@ om | n | man (male human) |
 ombyl | n | ES ombligo / FR nombril / IT ombelico / bellybutton / navel | 
 omxk | n | month | 
 omyntn | v | to augment / to increase | 
+onr | n | honor | 
+onrn | v | to honor | 
+op | iject | FR hop / c'mon / right! | 
 opn | v | to open | 
 ortei | n | toe | 
 ospital | n | hospital | 
@@ -532,12 +544,12 @@ piso | n | floor |
 plak | n | plaque / plate | 
 plas | n | place | 
 plasn | v | to place | 
-plato | n | plateau | 
 plein | v | to play | 
 plg | n | thumb | 
 plu | ad | more | 
 plubon | ad | better | 
 plumal | ad | worse | 
+plxto | n | plateau | 
 pocei | n | million | 
 poceikyj | n | a million years | 
 pod | n | power | 
@@ -669,12 +681,14 @@ sitakusyb | n | 3rd cousin |
 sixm | ad | one third / third | 
 sizo | n | thirty | 
 skribn | v | to write | 
+skrin | v | to shout | 
 slon | prep | ES segun / FR selon / according to / as to | 
 smal | ad | small | 
-so | prep | as (followed by adjective or adverb) / so (followed by adjective or adverb) | 
+so | prep | as (followed by adjective or adverb) / so (followed by adjective or adverb) / way (intensifier: way up high) | 
 so- | fix | extreme / intense / own (before possessive, as in "soid" (my own) / very | spread = 4
 sobon | ad | best | 
 sofa | n | couch / sofa | 
+solm | ad | solemn | 
 somal | ad | worst | 
 sosin | v | to associate | 
 sovx | ad | many / much | 
@@ -686,7 +700,7 @@ sr | n | monsieur / respectful title for any adult man / señor / sir |
 srpys | n | serpent / snake | 
 stabl | ad | stable | 
 stabln | v | to establish / to stabilize | 
-stat | n | state (government mechanism) | 
+stat | n | state (government division smaller than federal) / state (government mechanism) / ~canton / ~province | 
 step | n | step | 
 stepn | v | to step | n
 stomak | n | stomach | 
@@ -707,6 +721,8 @@ suspirn | v | to sigh |
 susys | n | pig | 
 suvn | v | to remember | 
 sxfrn | v | to suffer | 
+sxlut | n | greeting gesture / salute | 
+sxlutn | v | to greet with a gesture / to salute | cf *gritcn*, 'formal greeting or greeting ceremony'
 sxm | det | some | 
 sxmant | n | someone | 
 sxmcoz | n | something | 
@@ -721,6 +737,7 @@ syb | n | sibling | hisyb and cisyb for bro and sis
 synt | n | waist | 
 sypl | n | a durationless point in time / instant / moment | 
 ta- | fix | grand-, as in grandmother (mai = mother, tamai = grandmother). Generations greater than "grand" are counted with numbers before "ta", so great-grandmother is "totamai". | 
+tak | iject | FR tac / there! | 
 takn | v | to talk | 
 takusyb | n | cousin (literally, sibling by marriage one generation away) | 
 tal | ad | reference to a certain, given, or specific item ("one day", "a given word", "a certain man") / such (such words are dangerous) / ~ES tal / ~FR tel or telle | 
@@ -800,13 +817,14 @@ virn | v | to turn / to veer |
 visitn | v | to visit | 
 vln | v | to want | 
 vos | n | voice | 
+vql | n | dale / valley | 
 vre | n | right (as in, "correct") / truth | 
 vreyk | ad | true / truthful | 
 vw | pronoun | ye / you | second person plural
 vwc | n | the close-quote symbol -∕ | cf cwv
 vwd | ad | your (plural possessive) | 
 vx- | fix | plural | spread = 4
-vxanta | n | people | 
+vxant | n | people | 
 vxco | n | children | 
 vxia | det | those (when determining a subsequent noun: "those apples") | cf *vxiat*, 'those' (pronoun)
 vxiat | pronoun | those | cf *vxia*, `those` (determiner)
@@ -819,6 +837,8 @@ vyln | v | to exercise the faculty of mind by which we determine either to do or
 vynd | n | wind | 
 vyv | n | life | 
 vyvn | v | to live (not "to dwell" but rather antonym of "to die") | 
+vyz | n | sight / vision (literal sense of perception) | cf *vyzcn*, 'figurative vision or dream'
+vyzcn | n | vision (figurative or imaginative) | cf *vyz*, 'sight'
 vyzn | v | to see | 
 w | pronoun | thee / you | second person singular
 wakn | v | to walk | 
@@ -826,6 +846,7 @@ wr | n | ear |
 wrkn | v | to work | 
 wrlob | n | earlobe | 
 x | iject | uh / unstressed syllable placeholder used to force rhythm in poetry | 
+xbitn | v | to dwell | 
 xbjekn | v | to object | 
 xbryjn | v | to abridge | 
 xbundn | v | to abound | 
@@ -833,6 +854,7 @@ xbundyk | ad | abundant / bountiful |
 xjendx | n | agenda | 
 xkaunt | n | account | 
 xkauntn | v | to account (give a history) | 
+xm | iject | uh / umm | 
 xn- | fix | to cancel or negate or rollback an action | 
 xndun | v | to undo | 
 xp | ad | up | 
@@ -857,6 +879,8 @@ zaln | n | minute |
 zedek | ad | righteous / traveling the path | Hebrew צדיק
 zi | n | self | 
 zia | n | by the way / cf / compare / hyperlink / see / see also | one syllable. This is used in verbal as well as written kila.
+zidygnezn | v | to dignify | 
+zidygnx | ad | dignified | 
 zireg | n | privacy | 
 zo | n | zero | 
 zoig | n | testament / testimony / witness (what is asserted) | 

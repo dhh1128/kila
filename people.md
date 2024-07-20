@@ -13,12 +13,12 @@ nir- | fix | by close or honorary relationship | nirhico would be a reasonable t
 takusyb | n | cousin (literally, sibling by marriage one generation away)
 totakucisyb | n | female 2nd cousin
 sitakusyb | n | 3rd cousin
-kuanta | n | nuclear family / family (casual usage)
-kukuanta | n | formal relatives by blood or marriage
+kuant | n | nuclear family / family (casual usage)
+kukuant | n | formal relatives by blood or marriage
 nirant | n | a person you live with
-lonkuanta | n | tribe
-anta | n | human / person
-vxanta | n | people
+lonkuant | n | tribe
+ant | n | human / person
+vxant | n | people
 -vnt | n | people (suffix preceded by type of people)
 antyk | ad | human
 nixn | n | friend

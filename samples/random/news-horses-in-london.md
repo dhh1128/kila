@@ -1,6 +1,6 @@
 en | kila
 --- | ---
-Four people have been taken to hospital | 4 anta\* d\* tekhq\* a ospital<br>---<br>\* no plural since preceded by quantifier<br>\* passive<br>\* take + -hq (completive, implies past)
+Four people have been taken to hospital | 4 ant\* d\* tekhq\* a ospital<br>---<br>\* no plural since preceded by quantifier<br>\* passive<br>\* take + -hq (completive, implies past)
 after five runaway horses | post 5 hypys ekapn\*<br>---<br>\* past participle as an adjective
 of the Household Cavalry | d Household Cavalry\*<br>---<br>\* foreign term recognized by capitalization
 threw off their riders and raced through London. | lansdy af ve d raidr n korsdy pr London.

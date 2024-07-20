@@ -9,7 +9,7 @@ and in the Holy Ghost. | n yn -ruak-sankt-z
 
 en | kila
 --- | ---
-2 We believe that men will be punished|vi kred k d punivy d anta 
+2 We believe that men will be punished|vi kred k d punivy d ant 
 for their own sins, | fo soved pek,
 and not for Adam’s transgression. | n no fo 
 

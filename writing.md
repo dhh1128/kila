@@ -36,7 +36,7 @@ If and only if what's quoted includes natural punctuation (e.g., it's a quoted q
 Text is emphasized (italicized) by surrounding it with asterisks: e bi \*sobyg\*.
 
 ## Foreign text
-Kila uses foreign words freely, and writes them in their native script ([kqm](alphabets.md#kqm)). If words are obviously kqm, no special markup is needed: *i abit yn Switzerland*. For extra clarity, the foreign text is surrounded by underscores: i hav \_déjà vu\_. (The word *déjà* is obviously kqm, but vu is not.) 
+Kila uses foreign words freely, and writes them in their native script ([kqm](alphabets.md#kqm)). If words are obviously kqm, no special markup is needed: *i xbit yn Switzerland*. For extra clarity, the foreign text is surrounded by underscores: i hav \_déjà vu\_. (The word *déjà* is obviously kqm, but vu is not.) 
 
 ## Other punctuation
 Dashes are written as 2 hyphens -- or an em dash &mdash;, with spaces before and after. Question marks, exclamation points, commas, semicolons, and colons all bind to the word that precedes them, meaning they have no preceding space. Parens touch what they contain, and are offset from exterior text by a space.
