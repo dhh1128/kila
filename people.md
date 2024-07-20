@@ -7,7 +7,7 @@ sai | n | parent | hisai and cisai for father and mother
 saisyb | n | aunt or uncle | hisaisyb is on dad's side and cisaicisyb is an aunt on the mother's side
 ta- | fix | adds a generation | tapai for grandfather, tamai for grandma
 co | n | child | cico for daughter, tahico for grandson
-kupar | v | to marry
+kuparn | v | to marry
 ku- | fix | by marriage | kusyb is step sibling and kucisai is stepmother
 nir- | fix | by close or honorary relationship | nirhico would be a reasonable translation of godson; a dear friend of your parents, who might be called an honorary "aunt" or "uncle" in English, 
 takusyb | n | cousin (literally, sibling by marriage one generation away)

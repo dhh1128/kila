@@ -6,7 +6,7 @@ canyon | kanixn
 coast | kost
 desert | desrt
 hill | kolin
-jungle | djngl
+jungle | djxngl
 lake | lak
 mountain | montn
 ocean | ocn

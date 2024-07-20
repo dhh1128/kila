@@ -36,12 +36,7 @@ lemma | tags | definition | notes
 9mxk | n | september | 
 a | prep | at / to | 
 abi | ad | i.e. / that is / that is to say | 
-xbitn | v | to dwell | 
-aubpwt | n | forgiveness | 
-aubpwtn | v | to forgive | 
 af | prep | off | 
-xfer | n | ES asunto / affair (a matter to consider) | 
-xflykn | v | to afflict | 
 afys | n | office (a formal role) | cf 'afysri' (the location)
 afysr | n | officer / official | 
 agu | n | water | 
@@ -51,8 +46,6 @@ aks | n | ox |
 al | det | all | 
 alma | n | soul | 
 alri | ad | all around / everywhere | contrast vxri
-xmen | iject | amen | 
-xmer | ad | bitter | 
 an | prep | FR sur / on / upon | 
 anj | n | angel | 
 ant | n | human / person | 
@@ -68,9 +61,10 @@ armnim | n | army |
 armr | n | armor | 
 astu | ad | astute / clever / cunning | 
 astucn | n | astuteness / cleverness / cunning | 
-au | iject | ouch / shoot |
-aub | ad | away 
-avys | n | bird | 
+au | iject | ouch / shoot | 
+aub | ad | away | 
+aubpwt | n | forgiveness | 
+aubpwtn | v | to forgive | 
 bern | v | to bear (a burden) | cf nasn, to bear a child
 biholdn | v | to behold / to observe with wonder or awe | This verb is used in cases where the associated contemplation is particularly deep, wondrous, or awe-filled. It is not used to simply invite consideration. Contrast "lwki".
 bikxmn | v | to become | 
@@ -132,7 +126,7 @@ desirn | v | to desire |
 desrt | n | desert | 
 desryk | ad | desirous | 
 destrxkn | v | to destroy | 
-develcn | n | revelation | 
+devel | n | revelation | 
 develn | v | to reveal | 
 dimyntn | v | to decrease / to reduce | 
 djngl | n | jungle | 
@@ -159,8 +153,8 @@ eifynyk | ad | endless / infinite / neverending |
 eij | n | age (unit of longevity) / age (very long period of time) | 
 eiko | prep | ES "sin" / FR "sans" / without | 
 eiposib | ad | impossible | 
+eivys | n | bird | 
 ek | ad | e.g. / for example | 
-ekapn | v | to escape | 
 elfys | n | elephant | 
 elo | ad | yellow | 
 elyps | n | an ellipsis with 3 dots, used to show that elided text did not touch or cross a sentence boundary | cf tolyps, kalyps
@@ -174,6 +168,7 @@ eon | n | eon |
 era | n | era | 
 es | ad prep, | forth / out / out of | 
 esjekn | v | to eject | 
+eskapn | v | to escape | 
 eskleimn | v | to cry out / to exclaim | 
 esmrjn | v | to emerge | 
 esplain | v | to explain | 
@@ -847,14 +842,19 @@ wrkn | v | to work |
 wrlob | n | earlobe | 
 x | iject | uh / unstressed syllable placeholder used to force rhythm in poetry | 
 xbitn | v | to dwell | 
+xbitn | v | to dwell | 
 xbjekn | v | to object | 
 xbryjn | v | to abridge | 
 xbundn | v | to abound | 
 xbundyk | ad | abundant / bountiful | 
+xfer | n | ES asunto / affair (a matter to consider) | 
+xflykn | v | to afflict | 
 xjendx | n | agenda | 
 xkaunt | n | account | 
 xkauntn | v | to account (give a history) | 
 xm | iject | uh / umm | 
+xmen | iject | amen | 
+xmer | ad | bitter | 
 xn- | fix | to cancel or negate or rollback an action | 
 xndun | v | to undo | 
 xp | ad | up | 

@@ -6,22 +6,21 @@ The word for "animal" in kila is *qnmys*. The suffix *-ys* is very productive wi
 
 kila | English
 --- | ---
-kqnys | dog
 bovys | bovine
-filys | cat
-sarys | reptile
-srpsys | snake
-dainosarys | dinosaur
-hypys | horse
-sektys | insect
-yktys | fish
+celys | shellfish
+dainxsarys | dinosaur
 eivys | bird
+filys | cat
+hrdys | herd animal
+hypys | horse
+kqnys | dog
+krxstys | crustacean
+portrys | beast of burden
+pynys | seal
 rqptys | bird of prey
 rsys | bear
-hrdys | herd animal
-hrdrys | a herder's animal (member of a domesticated flock)
-portorys | beast of burden
+sarys | reptile
+sektys | insect
 setys | whale
-pynys | seal
-celys | shellfish
-krxstys | crustacean
+srpys | snake
+yktys | fish
