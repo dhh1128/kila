@@ -1,0 +1,3 @@
+[submodule "samples/skribsankt"]
+	path = samples/skribsankt
+	url = git@github.com:dhh1128/skribsankt.git
