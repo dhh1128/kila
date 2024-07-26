@@ -68,7 +68,7 @@ fim | order | jum gw name | name
 A fi often (but not always) gets its meaning from jum correspondence. For example, if two friends are talking or writing about a third person named *meri-qn* 'Mary Anne', that they both know well and recognize from context, they may simply refer to this person verbally as /fem/, or in written form as *M* (read aloud as /fem/ again). Both will understand that the person they're referring to is someone whose name begins with the jum of *M*, which is *m* &mdash; and connect that mentally with *meri-qn*.
 
 ## kqm
-Any script that is written with accepts or a non-latin script, or that mixes upper- and lower-case ASCII in a way that kila would not, is categorized as *kqm* and is processed as unicode. See [foreign text](writing.md#foreign-text). 
+Any script that is written with accepts or a non-latin script, or that mixes upper- and lower-case ASCII in a way that kila would not, is categorized as *kqm* and is processed as unicode. See [foreign text](writing.md#foreign-text) and [borrowing and transliteration](borrowing.md).
 
 ## Sort order
 Kila sorts whitespace characters first (and within whitespace, in byte order), then digits, then fim, then gwm in the order shown, then kqm, then every other byte of text in byte order.

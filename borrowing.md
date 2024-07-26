@@ -1,9 +1,13 @@
-# Borrowing
+# Borrowing and transliteration
 
-Kila borrows concepts, words, and morphemes liberally from other languages. The effect is strongest for English, but there are also borrowings from Romance languages, and from a few other sources. The reason to do this is to make kila faster to learn and easier to remember for many speakers.
+When a word or phrase is borrowed into kila, it can be written two ways: in its native script, or in kila.
 
-However, when kila borrows, it almost never borrows an inflected form; it borrows a root, instead, and then follows its own extremely consistent morphological rules.
+If the borrowing is written in its native script ([kqm](alphabets.md#kqm)), it is called a *kqmcn*. A kqmcn's foreignness may be obvious because of accents, capitalization, or spelling that clearly violates kila norms. In this case, it is usually written directly, without any special notation: *i hqdygx aft déjà vu* 'I often used to have déjà vu'. However, in contexts where a kqmcn could be misinterpreted as kila, it is delimited with asterisks and is called an *eskqmcn*: *yz vu vyzdy ki \*meme\*?* 'Did you see this meme?' In documents, asterisks are often used only once per kqmcn &mdash; the first time the kqmcn appears. In rare cases, kqmcn can be inflected according to their native rules: *id \*laptops\* bi brekn* 'my laptops are broken'. More commonly, kqmcn are inflected by kila rules, in which case they are written with asterisks around the base form but not the inflections: *id vx\*laptop\* bi brekn* 'my laptops are broken'.
 
-Consider the English word *psychological*. This word can be analyzed as a root, *psych*, and then the ending *-ology*, and then the ending *-ical*. Kila borrows the root, *psyche* &rarr; *saik* &mdash; 'mind', and then applies its own morphological transformations: *saikloji &mdash; 'psychology, formal study of the mind', *saikyk* &mdash; 'mental', *nirsaikr* &mdash; 'psychic (a mentalist or parapsychic practitioner)', etc.
+A borrowing can also be written phonetically in kila ([fim](alphabets.md#fim), in which case it is called a *fimcn*. Fimcn are written and inflected just like ordinary kila words. Kqmcn that get used regularly and inflected tend to become fimcn over time.
 
-See [foreign text](writing.md#foreign-text) for rules about writing borrowings in kila text.
+Proper nouns and highly technical terms that help communicate with a non-kila audience are generally kqmcn. General-purpose verbs and adjectives tend to be fimcn.
+
+[Personal names](personal-names.md) are kqmcn if their owner prefers to identify in a native script, but *nom gyvn* are typically equated to a parenthesized fimcn on first use, with the fimcn being the standard way to refer to the person thereafter.
+
+When constructing fimcn, best effort mappings from source sounds to kila phonology are used. [Stress rules in kila](prosody.md) cause some vowels to collapse to /x/ to make it obvious that another syllable is emphasized. However, apostrophes are preferred to /x/ reduction in proper nouns and personal names, if emphasis on a particular syllable is needed and vowel reduction would cause a significant distortion.

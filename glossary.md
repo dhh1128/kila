@@ -12,9 +12,10 @@ lemma | tags | definition | notes
 -mekr | fix | -maker: convert noun into one who makes it (trouble*maker*) | 
 -mqn | fix | FR *-aine*: convert a number to a group of that size / cardinality | cf doz*en*
 -n | fix | infinitive or past participle on a verb | spread = 1
+-pos | fix | -able or -ible: admitting the possibility of what's inflected | 
 -r | fix | -or or -er: convert a verb to the party who performs the verb (sail*or*) | 
 -ri | fix | -ry: convert a noun or verb into a place characterized by it (bake*ry*) | 
--vnt | n | -ic, -an, -ese, -ish: turn a name or noun into a category of people (hispan*ic*, itali*an*, chin*ese*, turk*ish*) | only used for people, not as a general adjective suffix
+-vnt | n | -ic, -an, -ese, -ish: turn a name or noun into a category of people (hispan*ic*, itali*an*, chin*ese*, turk*ish*) | Somewhat like a nisba adjective ending in Arabic. Only used for people, not as a general adjective suffix.
 -vw | fix | conditional or subjunctive mood on a verb | spread = 4
 -vy | fix | future tense on a verb | spread = 1
 -xm | fix | -th or -st: convert a number to an ordinal or denominator (four*th*) | 
@@ -37,6 +38,7 @@ lemma | tags | definition | notes
 a | prep | at / to | 
 abi | ad | i.e. / that is / that is to say | 
 af | prep | off | 
+aft | ad | often | 
 afys | n | office (a formal role) | cf 'afysri' (the location)
 afysr | n | officer / official | 
 agu | n | water | 
@@ -46,6 +48,9 @@ aks | n | ox |
 al | det | all | 
 alma | n | soul | 
 alri | ad | all around / everywhere | contrast vxri
+amn | n | faith / trust | see Strongs 540
+amnn | v | to exercise faith / to trust | see Strongs 540. cf *kredn* 'to believe (intellectually or abstractly)'
+amnyk | ad | faith-filled / trusting | cf *dygnamnyk* 'faithful, trustworthy'
 an | prep | FR sur / on / upon | 
 anj | n | angel | 
 ant | n | human / person | 
@@ -74,8 +79,10 @@ bntcn | v | to bunch |
 bok | n | mouth | 
 bon | ad | good / well | 
 bovys | n | bovine / cattle / cow / kine | 
+bqg | n | bag (a small sack) | 
 brau | n | eyebrow | 
 braun | ad | brown | 
+brekn | v | to break | 
 bwbn | v | to drink | 
 bx | iject | FR bah / ~EN like (valley girl verbal tic) | 
 bxs | n | bus | 
@@ -140,6 +147,8 @@ dx | prep | from / of / passive particle |
 dxk | n | duck | 
 dyfr | n | difference | 
 dyfrn | v | to differ | 
+dygnamnyk | ad | faithful / trustworthy | cf *amnyk* 'faith-filled, trusting'
+dygnamnykcn | n | faithfulness / trustworthiness | 
 dygnx | ad | worthy | 
 dygnxcn | n | worthiness | 
 dys- | fix | bent, apart, turned | 
@@ -278,6 +287,7 @@ ide | n | idea |
 idm | ad | equal / same | 
 idmi | ad | equivalent | 
 iecux | n | Jesus | 
+in | ad | little / petite / tiny | 
 in- | fix | ES -ito / diminutive or endearing / ~FR -ette | spread = 3
 iris | n | iris | 
 isl | n | island | 
@@ -342,7 +352,7 @@ kqmlys | n | camel |
 kqnys | n | dog | 
 kraud | n | crowd | 
 kraudn | v | to crowd | 
-kredn | v | to believe | 
+kredn | v | to believe (intellectually or abstractly) | cf *amnn* 'to exercise faith, to trust'
 kretn | v | to create | 
 kretyk | ad | creative | 
 kretys | n | creature | 
@@ -449,6 +459,7 @@ mil | n | FR répas / meal |
 minn | v | to mean / to signify | 
 mltxim | n | crowd / multitude | 
 mltxplin | v | to multiply | 
+mn | ad, iject | in truth / of a truth / surely / verily | cf *xmen*, *amn*
 montn | n | mountain | 
 morn | n | morning | 
 mornmil | n | breakfast | 
@@ -565,7 +576,7 @@ pqlxt | n | palate |
 pqsn | v | to pass | 
 pr | prep | by (through the action of) / by way of / per (ratio) / through | 
 prc | ad | maybe / perchance / perhaps / possibly | 
-pre | prep | before (in time or space) | 
+pre | ad, n prep, | before (in time or space) / fore (the front place) / front | 
 pre- | fix | to do something before | 
 predeklrn | v | to preach | 
 preju | n | yesterday | 
@@ -577,6 +588,7 @@ prepreju | n | ES anteayer / day before yesterday |
 preri | n | prairie | 
 presypcn | n | precipitation | 
 presypn | v | to precipitate | 
+preyk | ad | forward | 
 prezns | n | presence (direct engagement in environment) | 
 preznsn | v | to witness via direct experience | 
 priv | ad | previous / prior | 
@@ -622,6 +634,9 @@ rqptys | n | bird of prey |
 rsys | n | bear | 
 ruak | n | spirit | See Strongs 7307.
 ruj | ad | red | 
+ruk | ad n, | back (the body part) / rear (the rear of the bus) | 
+ruksqk | n | backpack / rucksack | 
+rukyk | ad | backward | 
 rut | n | path / route / way | 
 rutfaindn | v | to navigate | 
 rutgon | v | to travel | 
@@ -690,6 +705,7 @@ spad | n | sword |
 spikn | v | to address (with indirect object for audience) / to speak | 
 splytn | v | to split | n
 spredn | v | to spread | 
+sqk | n | sack | 
 sr | n | monsieur / respectful title for any adult man / señor / sir | 
 srpys | n | serpent / snake | 
 stabl | ad | stable | 

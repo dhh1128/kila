@@ -11,7 +11,7 @@ A word or phrase that serves as an identifier (that is, a proper noun, a persona
 The first word of a sentence is not normally marked with a *haif*. However, a slash can be used in stream of consciousness, poetry, and other places to signal breaks that are sentence- or fragment-like. A double-slash can do something similar for a paragraph, and a triple-slash for a section or chapter.
 
 ## Contractions
-Kila has a few contractions. They do not use an apostrophe.
+Kila has a few contractions. They do not use an apostrophe. Recognizing these contractions requires the reader to know conventions and make educated (but easy, fairly obvious) guesses about the writer's intentions.
 
 One-syllable words ending in the vowel *x* are written without the trailing vowel: *nx* &rarr; *n* &mdash; 'and', *dx* &rarr; *d* &mdash; 'of/from'.
 
@@ -33,10 +33,10 @@ Nested quotes require an additional hyphen after the cwv and before the vwc: */-
 If and only if what's quoted includes natural punctuation (e.g., it's a quoted question or exclamation, as shown above), the punctuation goes inside the quotes. However, quoted punctuation never finishes the sentence of the quoter, which is why the kila examples above end with a period.
 
 ## Emphasis
-Text is emphasized (italicized) by surrounding it with asterisks: e bi \*sobyg\*.
+Text is emphasized (italicized) by surrounding it with underscores: e bi \_sobyg\_.
 
 ## Foreign text
-Kila uses foreign words freely, and writes them in their native script ([kqm](alphabets.md#kqm)). If words are obviously kqm, no special markup is needed: *i xbit yn Switzerland*. For extra clarity, the foreign text is surrounded by underscores: i hav \_déjà vu\_. (The word *déjà* is obviously kqm, but vu is not.) 
+Kila uses foreign words freely, and writes them in their native script ([kqm](alphabets.md#kqm)). If words are obviously kqm, no special markup is needed: *i xbit yn Switzerland*. For extra clarity, the foreign text is surrounded by asterisks: i hav \*déjà vu\*. (The word *déjà* is obviously kqm, but vu is not.) 
 
 ## Other punctuation
 Dashes are written as 2 hyphens -- or an em dash &mdash;, with spaces before and after. Question marks, exclamation points, commas, semicolons, and colons all bind to the word that precedes them, meaning they have no preceding space. Parens touch what they contain, and are offset from exterior text by a space.
