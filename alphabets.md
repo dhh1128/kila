@@ -48,7 +48,18 @@ digraph | IPA (sound) | note
 *ei* | /ei/ | diphthong written with *ay* in English *play*
 *au* | /au/ | dipthong written with *ow* in English *town*
 
-Vowel digraphs beginning with *i* approximate the sound of the English letter *y* followed by the next vowel, or the IPA glide /j/. Vowel digraphs beginning with *u* approximate the English letter *w* followed by the next vowel. Kila does not view these glides as letters and corresponding consonants. Thus, a kila speaker would transliterate the English word *yes* as *ies*, and *will* as *uyl*.
+Two vowels can occur next to each other in a word. Sometimes, vowel digraphs represent a diphthong as the nucleus of a single syllable. Other times, they represent two different syllables:
+
+vowel digraph | analysis
+--- | ---
+two instances of the same vowel | two syllables
+*ai*, *au* | diphthong
+*ei* | diphthong
+*ia*, *io* | diphthong
+*uy*, *ua*, *uw*, *ue*, *ui* | diphthong
+all others | two syllables
+
+If a vowel digraph that would normally render a diphthong needs to be rendered as two syllables, an apostrophe is used to separate the two vowels.
 
 ## fim
 Kila uses the capital letters A-Z in both written and spoken language. However, it considers them part of a different alphabet called the *fim*. A symbol in this set is called a *fi*. Fis are used not to *spell* words, but to *replace*, *suggest*, *reference* or *abbreviate* words. They are typically [used in acronyms, abbreviations](writing.md#acronyms-and-abbreviations), and symbolic/mathematical notation.
