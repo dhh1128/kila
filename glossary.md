@@ -102,7 +102,6 @@ cikn | n | missus |
 cin | n | ES hembra / female | 
 cip | n | sheep (also, ram or ewe) | 
 co | n | child | cico for daughter, tahico for grandson
-cogron | v | to become familiar with or adapted to / to know through co-adaptation / ~ES conocer / ~FR connaitre | cf kenn, sabn
 con | v | to show | 
 coz | n | ES cosa / FR chose / thing | 
 cudr | n | shoulder | 
@@ -243,6 +242,7 @@ grocn | n | growth |
 gron | v | to grow | 
 grqbn | v | to grab | 
 grqs | n | grass | 
+grqspn | v | to grasp | 
 grsun | ad | sooner | 
 gw | n | a letter of the spelling alphabet (the gwm) | 
 gwm | n | spelling alphabet (lower-case letters) | contrast /fim/
@@ -335,6 +335,7 @@ kntendn | v | to compete / to contend / to vie |
 ko | prep | with | 
 ko- | fix | EN "co-" / with | 
 koc | n | thigh | 
+kogron | neologism v, | to become familiar with or adapted to / to know through co-adaptation / ~ES conocer / ~FR connaitre | cf kenn, sabn
 kokob | n | star | 
 kolidn | v | to collide | 
 kolin | n | hill | 
@@ -438,6 +439,7 @@ mamlo | n | nipple |
 mamryn | n | breast | 
 mar | n | sea | 
 markn | v | to mark | 
+mecar | n | equity / even-handedness / fairness / justice | see Strong's 4339
 medin | v | to care for, medically / to doctor | 
 medir | n | doctor | 
 mei- | fix | foul, evil, damaged / ~EN mal- as in "maladroit" (but EN is less negative) | spread = 2
@@ -455,6 +457,9 @@ mentn | v | to lie (tell an untruth) |
 mervln | v | to marvel | 
 mervlyk | ad | marvelous | 
 mesyjn | v | to message | 
+micpat | n | decision / judgment | see Strongs 4941
+micpatn | v | to decide / to judge | 
+micpatr | n | deciding authority / judge | 
 mil | n | FR répas / meal | 
 minn | v | to mean / to signify | 
 mltxim | n | crowd / multitude | 
@@ -591,6 +596,7 @@ presypn | v | to precipitate |
 preyk | ad | forward | 
 prezns | n | presence (direct engagement in environment) | 
 preznsn | v | to witness via direct experience | 
+prgrqspn | v | to perceive | 
 priv | ad | previous / prior | 
 problm | n | problem | 
 prosain | v | to prophesy | 
@@ -882,6 +888,7 @@ ympruvn | v | to improve |
 yn | prep | in | 
 yna | prep | into | 
 ynflun | v | to influence | 
+yngrqspn | v | to receive | 
 ynjekn | v | to inject | 
 ynklun | v | to include | 
 ynsaid | prep | inside | 
