@@ -4,6 +4,7 @@ lemma | tags | definition | notes
 ----- | ---- | ---------- | -----
 -cn | fix | -ness or -tion: convert a verb, adjective, or adverb to a noun that embodies the action or quality (cloudi*ness*) | Not needed for many verbs, because a verb or adjective and a noun obviously associated with the verb or adjective are the same word, like "hammer" is both a noun and a verb in English, and "black" can be used as both an adjective and a noun. However: 'saj' &rarr; 'sajcn' (wise &rarr; wisdom)
 -du | fix | imperative mood on a verb | spread = 1
+-edn | n | Eden | 
 -ez | fix | -ify or -ize: convert noun or adverb into verb (weather*ize*) | 
 -gx | fix | ongoing aspect on a verb | spread = 2
 -hq | fix | perfective aspect on a verb | spread = 3
@@ -48,14 +49,14 @@ aks | n | ox |
 al | det | all | 
 alma | n | soul | 
 alri | ad | all around / everywhere | contrast vxri
-amn | n | faith / trust | see Strongs 540
-amnn | v | to exercise faith / to trust | see Strongs 540. cf *kredn* 'to believe (intellectually or abstractly)'
+amn | n | faith / trust | see Strong's 540
+amnn | v | to exercise faith / to trust | see Strong's 540. cf *kredn* 'to believe (intellectually or abstractly)'
 amnyk | ad | faith-filled / trusting | cf *dygnamnyk* 'faithful, trustworthy'
 an | prep | FR sur / on / upon | 
 anj | n | angel | 
 ant | n | human / person | 
 antyk | ad | human | 
-ap | ad prep | away / away from / hence | see Strongs G575
+ap | ad prep | away / away from / hence | see Strong's G575
 appwt | n | forgiveness | 
 appwtn | v | to forgive | 
 arb | n | tree | 
@@ -105,6 +106,7 @@ co | n | child | cico for daughter, tahico for grandson
 con | v | to show | 
 coz | n | ES cosa / FR chose / thing | 
 cudr | n | shoulder | 
+cwbn | v | to reverse course / to turn back | similar to retrnn, but this verb doesn't imply completion or arrival at an original position -- merely a change of direction. See Strong's 7725
 cwdn | v | to have good reason ("ought", "should") | 
 cwv | n | the open-quote symbol ∕- | cf vwc
 cwvn | v | to cite / to quote | 
@@ -140,6 +142,8 @@ dormn | v | to sleep |
 dr | conj prep | as / during / while | 
 drec | ad | right (-hand side, -ward) | cf nist
 drit | ad | straight | 
+dritalman | v | to repent | cf repensn 'to reconsider'
+dritn | v | to straighten | 
 dun | v | to do | 
 dutn | v | to doubt | 
 dx | prep | from / of / passive particle | 
@@ -160,6 +164,7 @@ eifynyk | ad | endless / infinite / neverending |
 eij | n | age (unit of longevity) / age (very long period of time) | 
 eiko | prep | ES "sin" / FR "sans" / without | 
 eiposib | ad | impossible | 
+eipqc | ad | immediate / immediately / without delay | 
 eivys | n | bird | 
 ek | ad | e.g. / for example | 
 elfys | n | elephant | 
@@ -181,11 +186,15 @@ eskleimn | v | to cry out / to exclaim |
 esmrjn | v | to emerge | 
 esplain | v | to explain | 
 esplikn | n | to explain / to explicate / to interpret or clarify the meaning | 
+espqnsn | v | to expand / to stretch out | 
 esprn | v | to hope | 
+espwtn | v | to express / to put forth | 
 esrodn | v | to erode / to wear away | 
 esrsisn | v | to exercise / to go through planned, intentional actions | 
 essaid | ad prep | outside | 
 esxkutn | v | to execute (a person, NOT an order or a plan) | cf sign, to follow an order or plan
+esyk | ad | outer | 
+esyk pqns | n | outer space | 
 ets | ad | and so forth / et cetera / etc. | 
 evr | ad | always / ever / forever | 
 fai | ad det | five | 
@@ -202,6 +211,7 @@ fim | n | symbolic alphabet | contrast /gwm/
 fingr | n | finger | 
 firn | v | to fear | 
 fl | ad | full | 
+flamn | v | to burn (including with passion) / to flame or flare | 
 flo | n | flow | 
 flon | v | to flow | 
 flyk | ad | completely / entirely / fully / wholly | 
@@ -212,7 +222,9 @@ fortcn | n | strength |
 fortn | v | to strengthen | 
 frant | n | forehead | 
 frbydn | v | to forbid | 
+frustrn | v | to frustrate | 
 frut | n | fruit | 
+fyksn | v | to establish / to fasten / to fix | 
 fyln | v | to fill | 
 fyn | n | end | 
 fynmil | n | dinner / evening meal / supper | 
@@ -281,6 +293,7 @@ hypys | n | horse |
 hytn | v | to hit | 
 i | pronoun | I / me | first person singular
 ia | det | over there / that (when determining a subsequent noun: "that apple") / there / yon / yonder | cf *iat* 'that' (pronoun)
+iagan | v | to afflict / to torment | see Strong's 3013
 iat | pronoun | that | cf *kx* (pronoun introducing relative clause), *ki* 'that' (determiner)
 id | ad | mine / my | 
 ide | n | idea | 
@@ -294,6 +307,7 @@ isl | n | island |
 ist | ad | east | 
 itn | v | to eat | 
 iuzn | v | to use | 
+jardn | n | garden | 
 jentvnt | n | gentile | 
 ju | n | day | 
 juj | n | judge | 
@@ -303,6 +317,7 @@ jum | n | twin |
 just | ad | barely / just | 
 juvnt | n | Jew | 
 jxst | ad | just / only | 
+kab | n | pain | see Strong's 3510
 kak | n | feces / poop | 
 kaksyks | n | coccyx / tailbone | 
 kald | ad | cold | 
@@ -325,6 +340,7 @@ kit | pronoun | this | cf *ki* 'this' (determiner)
 klemn | v | to claim | 
 klozn | v | to close | 
 klqvykl | n | clavicle / collarbone | 
+kltyvn | v | to cultivate / to till | 
 klyf | n | cliff | 
 kmplet | ad | complete / entire | 
 kmpletn | v | to complete | 
@@ -344,6 +360,7 @@ kontroln | v | to control |
 kop | n | head | 
 korp | n | body | 
 kost | n | coast | 
+kotekn | v | to partake (typically, with others) | 
 kovrsn | n | to converse | 
 koxn | n | partner | 
 kq | ad det | four | 
@@ -430,7 +447,7 @@ lysn | v | to listen | Not a perfect borrowing from English, because there's not
 lyvr | n | liver | 
 lyzys | n | lizard | 
 macaki | n | annointed one / messiah | 
-macakn | v | to annoint / to smear / to spread (a liquid) | see Strongs 4886
+macakn | v | to annoint / to smear / to spread (a liquid) | see Strong's 4886
 mai | n | mother | 
 mal | ad | bad / badly / poor | 
 mama | n | mom | 
@@ -447,8 +464,8 @@ meigri | ad n | evil / evilly |
 mekn | v | to make | 
 melagrys | n | turkey | 
 melk | n | domain / kingdom / reign / sphere of sovereignty | 
-melkn | v | to govern / to reign / to rule / to take counsel | see Strongs 4427 מָ
-melkr | n | ruler / >king / >queen | see Strongs 4427
+melkn | v | to govern / to reign / to rule / to take counsel | see Strong's 4427 מָ
+melkr | n | ruler / >king / >queen | see Strong's 4427
 melkri | n | kingdom | 
 mens | n | beginning / start | 
 mensn | v | to begin / to commence / to start | 
@@ -457,11 +474,12 @@ mentn | v | to lie (tell an untruth) |
 mervln | v | to marvel | 
 mervlyk | ad | marvelous | 
 mesyjn | v | to message | 
-micpat | n | decision / judgment | see Strongs 4941
+micpat | n | decision / judgment | see Strong's 4941
 micpatn | v | to decide / to judge | 
 micpatr | n | deciding authority / judge | 
 mil | n | FR répas / meal | 
 minn | v | to mean / to signify | 
+miser | n | misery / wretchedness | 
 mltxim | n | crowd / multitude | 
 mltxplin | v | to multiply | 
 mn | ad, iject | in truth / of a truth / surely / verily | cf *xmen*, *amn*
@@ -504,8 +522,8 @@ nirsaik | n | the posited dimension of mind that is capable of paranormal activi
 nirsaikr | n | psychic | 
 nist | ad | left (-hand side, -ward) | cf drec
 nixn | n | friend | 
+nl | ad n, | nothing / null | cf *void* 'emptiness'
 no | det iject | ES ningún / FR aucun / no / none | 
-nocoz | n | nothing | 
 nolm | ad | eternal | 
 nom | n | name | 
 nomn | v | to call (apply a name to) / to name | 
@@ -566,6 +584,8 @@ pod | n | power |
 podn | v | to be able or capable / to have power to do / ~EN can / ~ES poder / ~FR pouvoir | 
 podyk | ad | powerful | 
 pofai | n | lakh | 
+point | n | point | 
+pointn | v | to point | 
 pokq | n | ten thousand | 
 ponuv | n | billion | 
 portn | v | to carry | 
@@ -578,6 +598,7 @@ post- | fix | to do something after |
 pqcn | v | to attend / to wait patiently | 
 pqcnyk | ad | patient / patiently | 
 pqlxt | n | palate | 
+pqns | n | room (available time or place) / space | 
 pqsn | v | to pass | 
 pr | prep | by (through the action of) / by way of / per (ratio) / through | 
 prc | ad | maybe / perchance / perhaps / possibly | 
@@ -593,14 +614,17 @@ prepreju | n | ES anteayer / day before yesterday |
 preri | n | prairie | 
 presypcn | n | precipitation | 
 presypn | v | to precipitate | 
+pretekn | v | to assume / to presume / to suppose | 
 preyk | ad | forward | 
 prezns | n | presence (direct engagement in environment) | 
 preznsn | v | to witness via direct experience | 
 prgrqspn | v | to perceive | 
 priv | ad | previous / prior | 
+prkabn | v | to be in pain / to suffer | 
 problm | n | problem | 
 prosain | v | to prophesy | 
 prosair | n | prophet | 
+provn | v | to prove / to test / to verify | 
 prp | ad | purple | 
 pryvlej | n | privilege | n
 puan | n | wrist | 
@@ -613,9 +637,9 @@ qnsrn | v | to answer |
 qnsrys | n | goose | 
 qskn | v | to ask | 
 qvryj | ad | average | 
-raca | ad | lost from the path / wicked | Hebrew רשע
+raca | ad | lost from the path / wicked | see Strong's 7563
 raidn | v | to ride | 
-re- | fix | to repeat an action | 
+re- | fix | to do again / to do in a way that goes back to an original state | 
 redun | v | to redo / to repeat | 
 reg | n | right (what justly pertains to one) | 
 rein | n | rain | 
@@ -625,20 +649,22 @@ rejist | n | record |
 rejistcn | n | registry | 
 rejistn | v | to record / to register | 
 rekupn | v | to recover (an object, one's health) / to recuperate | 
+remqnn | v | to consign / to remand | 
+repensn | v | to reconsider / to rethink | cf dritalman 'to repent'
 replain | v | to reply | 
 repondn | v | to reply / to respond | 
 repozn | v | to repose / to rest | 
 reskun | v | to rescue | 
 rest | n | remnant | 
 restn | v | to remain | 
-retrnn | v | to return | 
+retrnn | v | to return | cf cwbn 'to reverse course, to turn back'
 ri | prep | about / around / concerning / regarding | 
 ridn | v | to read | 
 rod | n | road | 
 romn | v | to roam / to wander | 
 rqptys | n | bird of prey | 
 rsys | n | bear | 
-ruak | n | spirit | See Strongs 7307.
+ruak | n | spirit | See Strong's 7307.
 ruj | ad | red | 
 ruk | ad n, | back (the body part) / rear (the rear of the bus) | 
 ruksqk | n | backpack / rucksack | 
@@ -670,7 +696,7 @@ sankt | ad | consecrated to a sacred purpose / holy |
 sanktn | v | to sanctify | 
 sarys | n | reptile | 
 sava | n | charge / commandment | 
-savan | v | to charge / to command / to lay charge upon (see Strongs 6680) | 
+savan | v | to charge / to command / to lay charge upon (see Strong's 6680) | 
 sej | n | ES sede / FR siège / headquarters / locus / seat (of government, etc.) | 
 sejln | v | to seal | 
 sektys | n | insect | 
@@ -714,8 +740,10 @@ spredn | v | to spread |
 sqk | n | sack | 
 sr | n | monsieur / respectful title for any adult man / señor / sir | 
 srpys | n | serpent / snake | 
+srvn | v | to serve | 
 stabl | ad | stable | 
 stabln | v | to establish / to stabilize | 
+stad | n | state (condition of being) / status | 
 stat | n | state (government division smaller than federal) / state (government mechanism) / ~canton / ~province | 
 step | n | step | 
 stepn | v | to step | n
@@ -771,7 +799,7 @@ temptn | v | to tempt |
 ter | n | countryside / earth (dirt) / ground / land / terrain | 
 tercn | n | territory | 
 tern | v | to land (a plane, a boat) | 
-testxmnt | n | legal doc distributing assets at death | cf /vyl/, mental determination
+testxmnt | n | will (legal document distributing assets at death) | cf *vyl*, 'mental determination'. cf *zoig*, 'testament, testimony'
 tetc | n | technology | 
 tip | n | category / manner / prototype / type | 
 titcn | v | to teach | 
@@ -801,6 +829,8 @@ u | conj | or |
 uai | ad | why | 
 uait | ad | white | 
 uapiti | n | elk / wapiti | 
+uardn | v | to guard / to protect | 
+uardr | n | guard / protector | 
 uarnn | v | to alarm / to caution / to warn | 
 ud | ad | your (singular possessive) | 
 uen | ad | when | 
@@ -832,6 +862,7 @@ vi | pronoun | us / we | first person plural
 virn | v | to turn / to veer | 
 visitn | v | to visit | 
 vln | v | to want | 
+void | ad, n | emptiness / empty / gap / vacant | cf *nl* 'nothing'
 vos | n | voice | 
 vql | n | dale / valley | 
 vre | n | right (as in, "correct") / truth | 
@@ -896,11 +927,13 @@ ynten | n | intent / intention |
 yntencn | n | objective | 
 yntenn | v | to intend | 
 ynvitn | v | to invite | 
+ynyk | ad | inner | 
 yz | particle | ~FR "est-ce que" | query word to start a yes/no question (since word order doesn't change)
 zaln | n | minute | 
-zedek | ad | righteous / traveling the path | Hebrew צדיק
+zedek | ad | righteous / traveling the path | see Strong's 6664 or Hebrew צדיק
 zi | n | self | 
 zia | n | by the way / cf / compare / hyperlink / see / see also | one syllable. This is used in verbal as well as written kila.
+ziagan | v | to grieve | from zi- + Strong's 3013
 zidygnezn | v | to dignify | 
 zidygnx | ad | dignified | 
 zireg | n | privacy | 
