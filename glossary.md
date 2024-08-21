@@ -67,6 +67,7 @@ arm | n | arm (body part) / arm (weapon) |
 armn | v | to arm (equip for battle) | 
 armnim | n | army | 
 armr | n | armor | 
+aspirn | v | to aspire | from *a-* 'to' and *spirn* 'breathe'
 astu | ad | astute / clever / cunning | 
 astucn | n | astuteness / cleverness / cunning | 
 au | iject | ouch / shoot | 
@@ -144,6 +145,7 @@ drec | ad | right (-hand side, -ward) | cf nist
 drit | ad | straight | 
 dritalman | v | to repent | cf repensn 'to reconsider'
 dritn | v | to straighten | 
+drsun | ad | as soon as / immediately upon | followed by a verb phrase: "...he arrives" or by a noun phrase: "...his arrival"
 dun | v | to do | 
 dutn | v | to doubt | 
 dx | prep | from / of / passive particle | 
@@ -154,7 +156,8 @@ dygnamnyk | ad | faithful / trustworthy | cf *amnyk* 'faith-filled, trusting'
 dygnamnykcn | n | faithfulness / trustworthiness | 
 dygnx | ad | worthy | 
 dygnxcn | n | worthiness | 
-dys- | fix | bent, apart, turned | 
+dys- | fix | bent, apart, turned / different | 
+dysfiln | v | to dissent / to feel out of harmony or alignment | collocation: *dysfiln ap* 'dissent away from'
 dysvirn | v | to diverge | 
 e | pronoun | he / her (indirect obj) / him / it / she | third person singular
 ed | ad pronoun | her / his / its | 
@@ -229,6 +232,7 @@ fyln | v | to fill |
 fyn | n | end | 
 fynmil | n | dinner / evening meal / supper | 
 fynn | v | to end / to finish | 
+fynspirn | v | to die / to expire | from *fyn* 'end' and *spirn* 'breathe'
 fynyk | ad | at last / final / finally / last / lastly | 
 gad | n | god | 
 galys | n | chicken | 
@@ -357,8 +361,10 @@ kolidn | v | to collide |
 kolin | n | hill | 
 komprenn | v | to comprehend / to understand | 
 kontroln | v | to control | 
+kontrx | prep | against | 
 kop | n | head | 
 korp | n | body | 
+kospirn | v | to conspire | from *a-* 'to' and *spirn* 'breathe'
 kost | n | coast | 
 kotekn | v | to partake (typically, with others) | 
 kovrsn | n | to converse | 
@@ -524,6 +530,7 @@ nist | ad | left (-hand side, -ward) | cf drec
 nixn | n | friend | 
 nl | ad n, | nothing / null | cf *void* 'emptiness'
 no | det iject | ES ningún / FR aucun / no / none | 
+noc | conj | ES *no sea* / lest | 
 nolm | ad | eternal | 
 nom | n | name | 
 nomn | v | to call (apply a name to) / to name | 
@@ -630,6 +637,7 @@ pryvlej | n | privilege | n
 puan | n | wrist | 
 pumon | n | lung | 
 punin | v | punish | 
+pwcn | v | to push | 
 pwtn | v | to put | 
 pynys | n | pinniped / seal | 
 qkn | v | to act | 
@@ -735,6 +743,8 @@ sosin | v | to associate |
 sovx | ad | many / much | 
 spad | n | sword | 
 spikn | v | to address (with indirect object for audience) / to speak | 
+spir | n | breath | 
+spirn | v | to breathe | 
 splytn | v | to split | n
 spredn | v | to spread | 
 sqk | n | sack | 
@@ -844,6 +854,7 @@ unun | n | eleven |
 unxm | ad | first | 
 unzo | n | ten | 
 unzoxm | ad | tenth | 
+uor | n | war | 
 urd | n | word | 
 uwd | n | wood (the material) / woods (a copse of trees) | 
 uxndrn | v | to wonder | 
@@ -919,10 +930,11 @@ ympruvn | v | to improve |
 yn | prep | in | 
 yna | prep | into | 
 ynflun | v | to influence | 
-yngrqspn | v | to receive | 
+yngrqspn | v | to obtain / to receive | 
 ynjekn | v | to inject | 
 ynklun | v | to include | 
 ynsaid | prep | inside | 
+ynspirn | v | to inspire | from *yn-* 'in' and *spirn* 'breathe'
 ynten | n | intent / intention | 
 yntencn | n | objective | 
 yntenn | v | to intend | 
