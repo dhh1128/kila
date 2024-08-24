@@ -106,6 +106,7 @@ cip | n | sheep (also, ram or ewe) |
 co | n | child | cico for daughter, tahico for grandson
 con | v | to show | 
 coz | n | ES cosa / FR chose / thing | 
+cucn | v | to whisper | cf FR *chuchoter*, ES *susurar*
 cudr | n | shoulder | 
 cwbn | v | to reverse course / to turn back | similar to retrnn, but this verb doesn't imply completion or arrival at an original position -- merely a change of direction. See Strong's 7725
 cwdn | v | to have good reason ("ought", "should") | 
@@ -115,6 +116,7 @@ cwz | n | choice |
 cwzn | v | to choose | 
 dainosarys | n | dinosaur | 
 daun | ad prep | down | 
+dauncndn | v | to climb down / to descend | 
 daunyk | ad | downward | 
 de- | fix | to undo or cancel an action | 
 deb | n | debt | 
@@ -283,6 +285,7 @@ hirn | v | to hear |
 hm | iject | hmmm | 
 holdn | v | to hold | 
 hom | n | home | 
+hqmr | n | hammer | 
 hqpn | v | to happen / to occur | 
 hrd | n | herd, flock (a group of domesticated animals under human supervision) | Unlike English, this word is used with any animals that meet this definition, including geese, sheep, and so forth. Kila doesn't have different words for different types of animals.
 hrdn | v | to herd | 
@@ -461,6 +464,7 @@ mamin | n | mommy |
 mamlo | n | nipple | 
 mamryn | n | breast | 
 mar | n | sea | 
+mark | n | mark | 
 markn | v | to mark | 
 mecar | n | equity / even-handedness / fairness / justice | see Strong's 4339
 medin | v | to care for, medically / to doctor | 
@@ -468,6 +472,7 @@ medir | n | doctor |
 mei- | fix | foul, evil, damaged / ~EN mal- as in "maladroit" (but EN is less negative) | spread = 2
 meigri | ad n | evil / evilly | 
 mekn | v | to make | 
+mekraizn | v | to encourage / to grow / to promote / to raise / to raise up | 
 melagrys | n | turkey | 
 melk | n | domain / kingdom / reign / sphere of sovereignty | 
 melkn | v | to govern / to reign / to rule / to take counsel | see Strong's 4427 מָ
@@ -519,6 +524,7 @@ nasryl | n | nostril |
 nau | ad | now | 
 negl | n | nail (of finger or toe) | 
 nek | f | neck | 
+nel | n | nail (metal spike) | 
 nevr | ad | never | 
 nidn | v | to need | 
 nir | ad | near | 
@@ -647,6 +653,7 @@ qskn | v | to ask |
 qvryj | ad | average | 
 raca | ad | lost from the path / wicked | see Strong's 7563
 raidn | v | to ride | 
+raizn | v | to arise / to get up / to rise | 
 re- | fix | to do again / to do in a way that goes back to an original state | 
 redun | v | to redo / to repeat | 
 reg | n | right (what justly pertains to one) | 
@@ -742,6 +749,7 @@ somal | ad | worst |
 sosin | v | to associate | 
 sovx | ad | many / much | 
 spad | n | sword | 
+spaik | n | spike | 
 spikn | v | to address (with indirect object for audience) / to speak | 
 spir | n | breath | 
 spirn | v | to breathe | 
@@ -921,6 +929,7 @@ xmer | ad | bitter |
 xn- | fix | to cancel or negate or rollback an action | 
 xndun | v | to undo | 
 xp | ad | up | 
+xpcndn | v | to ascend / to climb | 
 xpyk | ad | upward | 
 xranj | ad | orange | 
 xsumn | v | to assume | 
