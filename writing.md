@@ -6,7 +6,7 @@ Kila is written left-to-right in pure ASCII.
 ## Capitalization
 Normal text is spelled using an alphabet called the *gwm*, which consists of the 26 lower-case letters available in ASCII. The 26 upper-case letters are part of a different alphabet called the *fim*. See [Alphabets](alphabets.md).
 
-A word or phrase that serves as an identifier (that is, a proper noun, a personal name, or a title) is preceded with a single hyphen (called a *haif*) to signal its identifier status. This punctuation mark is silent when read aloud. Marking an identifier this way has approximately the same function as capitalization in English.
+A word or phrase that serves as an identifier (that is, a proper noun, a personal name, or a title) is preceded with a single hyphen (called a *haif*) to signal its identifier status. If it is more than one word long, it is also followed by a single hyphen. There are no spaces between these hyphens and the words they attach to. Proper nouns inside proper nouns are not marked. Hyphens are silent when read aloud. Marking an identifier this way has approximately the same function as capitalization in English.
 
 The first word of a sentence is not normally marked with a *haif*. However, a slash can be used in stream of consciousness, poetry, and other places to signal breaks that are sentence- or fragment-like. A double-slash can do something similar for a paragraph, and a triple-slash for a section or chapter.
 

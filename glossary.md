@@ -106,6 +106,7 @@ cip | n | sheep (also, ram or ewe) |
 co | n | child | cico for daughter, tahico for grandson
 con | v | to show | 
 coz | n | ES cosa / FR chose / thing | 
+cqptm | n | chapter (local branch of a society) / chapter (of a book) | 
 cucn | v | to whisper | cf FR *chuchoter*, ES *susurar*
 cudr | n | shoulder | 
 cwbn | v | to reverse course / to turn back | similar to retrnn, but this verb doesn't imply completion or arrival at an original position -- merely a change of direction. See Strong's 7725
@@ -114,6 +115,7 @@ cwv | n | the open-quote symbol ∕- | cf vwc
 cwvn | v | to cite / to quote | 
 cwz | n | choice | 
 cwzn | v | to choose | 
+cyb | n | sister | 
 dainosarys | n | dinosaur | 
 daun | ad prep | down | 
 dauncndn | v | to climb down / to descend | 
@@ -152,6 +154,7 @@ dun | v | to do |
 dutn | v | to doubt | 
 dx | prep | from / of / passive particle | 
 dxk | n | duck | 
+dxktryn | n | doctrine | 
 dyfr | n | difference | 
 dyfrn | v | to differ | 
 dygnamnyk | ad | faithful / trustworthy | cf *amnyk* 'faith-filled, trusting'
@@ -174,7 +177,7 @@ eivys | n | bird |
 ek | ad | e.g. / for example | 
 elfys | n | elephant | 
 elo | ad | yellow | 
-elyps | n | an ellipsis with 3 dots, used to show that elided text did not touch or cross a sentence boundary | cf tolyps, kalyps
+elyps | n | an ellipsis with 3 dots, used to show that elided text did not touch or cross a sentence boundary | cf *tolyps*, *kqlyps*
 eni | det pronoun | any | 
 enicoz | n | anything | 
 eniri | ad | anywhere | 
@@ -203,6 +206,7 @@ esyk pqns | n | outer space |
 ets | ad | and so forth / et cetera / etc. | 
 evr | ad | always / ever / forever | 
 fai | ad det | five | 
+faindidmn | v | to liken (find similarities) | collocation is *faindidmn aho*; cf *koidmn*, which implies unopinionated examination rather than intent to discover similarities
 faindn | v | to find | 
 faln | v | to fall | 
 fam | n | woman | 
@@ -295,6 +299,7 @@ hrdys | n | herd animal |
 hu | pronoun | who (question word, not relative pronoun) | cf *kx*, relative pronoun
 hud | pronoun | whose | 
 hw | iject | "Now" when used as an interjection or coordinating conjunction, introducing a new thought. / ho / lo | 
+hyb | n | brother | 
 hydn | v | to hide | 
 hypys | n | horse | 
 hytn | v | to hit | 
@@ -307,6 +312,7 @@ ide | n | idea |
 idm | ad | equal / same | 
 idmi | ad | equivalent | 
 iecux | n | Jesus | 
+imr | n | member | 
 in | ad | little / petite / tiny | 
 in- | fix | ES -ito / diminutive or endearing / ~FR -ette | spread = 3
 iris | n | iris | 
@@ -359,6 +365,7 @@ ko | prep | with |
 ko- | fix | EN "co-" / with | 
 koc | n | thigh | 
 kogron | neologism v, | to become familiar with or adapted to / to know through co-adaptation / ~ES conocer / ~FR connaitre | cf kenn, sabn
+koidmn | v | to compare (examine for similarities) | collocation is *koidmn ko*; cf *faindidmn*, which implies greater intent to find what is similar
 kokob | n | star | 
 kolidn | v | to collide | 
 kolin | n | hill | 
@@ -373,7 +380,7 @@ kotekn | v | to partake (typically, with others) |
 kovrsn | n | to converse | 
 koxn | n | partner | 
 kq | ad det | four | 
-kqlyps | n | an ellipsis with 4 dots, used to show that elided text touches or crosses a sentence boundary | cf elyps, tolyps
+kqlyps | n | an ellipsis with 4 dots, used to show that elided text touches or crosses a sentence boundary | cf *elyps*, *tolyps*
 kqm | n | any script that is not kila's gwm or fim / ~unicode | 
 kqmlys | n | camel | 
 kqnys | n | dog | 
@@ -407,6 +414,7 @@ kutykl | n | cuticle |
 kuyk | ad | fast / quick / rapid | 
 kx | det pronoun | than / which / ~ES que / ~FR que / ~that (relative pronoun) | Also introduces clauses that would start with "who" or "which" in English.
 kxmn | v | to come | 
+kxtn | v | to cut | 
 kyj | n | year | 
 kyln | v | to kill / to murder / to slay | 
 lab | n | lip | 
@@ -458,6 +466,7 @@ lyzys | n | lizard |
 macaki | n | annointed one / messiah | 
 macakn | v | to annoint / to smear / to spread (a liquid) | see Strong's 4886
 mai | n | mother | 
+maisyb | n | mother's sibling | cf *saisyb* 'aunt or uncle' (through either parent), *maicyb* 'sister of mother', *maihyb* 'brother of mother'
 mal | ad | bad / badly / poor | 
 mama | n | mom | 
 mamin | n | mommy | 
@@ -471,6 +480,7 @@ medin | v | to care for, medically / to doctor |
 medir | n | doctor | 
 mei- | fix | foul, evil, damaged / ~EN mal- as in "maladroit" (but EN is less negative) | spread = 2
 meigri | ad n | evil / evilly | 
+mejr | ad | major | 
 mekn | v | to make | 
 mekraizn | v | to encourage / to grow / to promote / to raise / to raise up | 
 melagrys | n | turkey | 
@@ -478,6 +488,7 @@ melk | n | domain / kingdom / reign / sphere of sovereignty |
 melkn | v | to govern / to reign / to rule / to take counsel | see Strong's 4427 מָ
 melkr | n | ruler / >king / >queen | see Strong's 4427
 melkri | n | kingdom | 
+menr | ad | minor | 
 mens | n | beginning / start | 
 mensn | v | to begin / to commence / to start | 
 mensyk | ad | initial / initially | 
@@ -561,11 +572,13 @@ onr | n | honor |
 onrn | v | to honor | 
 op | iject | FR hop / c'mon / right! | 
 opn | v | to open | 
+orgu | n | arrogance / haughtiness / pride (in a negative sense) | 
 ortei | n | toe | 
 ospital | n | hospital | 
 ot | n | another / other | 
 ov | n | egg | 
 pai | n | father | Conveys more intimacy and more loyalty or submission than the English word "father". Good analog to the Hebrew word "abba".
+paisyb | n | father's sibling | cf *saisyb* 'aunt or uncle' (through either parent), *paicyb* 'sister of father', *paihyb* 'brother of father'
 palm | n | palm (of the hand) | 
 panz | n | belly | 
 papa | n | dad | 
@@ -610,6 +623,7 @@ post | prep | after (in time or space) |
 post- | fix | to do something after | 
 pqcn | v | to attend / to wait patiently | 
 pqcnyk | ad | patient / patiently | 
+pqkt | n | agreement / covenant / pact | 
 pqlxt | n | palate | 
 pqns | n | room (available time or place) / space | 
 pqsn | v | to pass | 
@@ -743,6 +757,7 @@ smal | ad | small |
 so | prep | as (followed by adjective or adverb) / so (followed by adjective or adverb) / way (intensifier: way up high) | 
 so- | fix | extreme / intense / own (before possessive, as in "soid" (my own) / very | spread = 4
 sobon | ad | best | 
+sof | conj | except / unless | 
 sofa | n | couch / sofa | 
 solm | ad | solemn | 
 somal | ad | worst | 
@@ -753,6 +768,7 @@ spaik | n | spike |
 spikn | v | to address (with indirect object for audience) / to speak | 
 spir | n | breath | 
 spirn | v | to breathe | 
+splytcn | n | section | 
 splytn | v | to split | n
 spredn | v | to spread | 
 sqk | n | sack | 
@@ -763,6 +779,7 @@ stabl | ad | stable |
 stabln | v | to establish / to stabilize | 
 stad | n | state (condition of being) / status | 
 stat | n | state (government division smaller than federal) / state (government mechanism) / ~canton / ~province | 
+statimr | n | citizen | 
 step | n | step | 
 stepn | v | to step | n
 stomak | n | stomach | 
@@ -772,6 +789,9 @@ strat | n | street |
 studn | v | to study | 
 studr | n | student | 
 su | prep | under | 
+suan | n | TLC / care / watchcare | 
+suann | v | ES cuidar / FR *prend soin* / to care for | 
+suanyk | ad | careful / vigilant | 
 subern | v | to support or sustain at great cost, without sinking under | cf "suffer" in Websters 1828
 sud | ad | south | 
 sueidn | v | to persuade | 
@@ -806,6 +826,8 @@ tal | ad | reference to a certain, given, or specific item ("one day", "a given 
 talkx | conj | insomuch / such that | 
 tam | ad | also / too | 
 tas | n | cup | 
+tataknt | n | fuzzy ancestral relation | cf *tatasai* 'direct-line ancestor'
+tatasai | n | direct-line ancestor | cf *tataknt* 'fuzzy ancestral relation'
 tcim | pronoun | of which / of whom / ~FR "dont" | 
 tcyn | n | chin | 
 tekn | v | to take | 
@@ -825,7 +847,8 @@ titcr | n | teacher |
 titl | n | title | 
 to | ad det | both / two | 
 tocwv | n | the two open-quote symbol | written as /--
-tolyps | n | an ellipsis with 2 dots, used to elide items in a sequence | cf elyps, kalyps
+tolyps | n | an ellipsis with 2 dots, used to elide items in a sequence | cf *elyps* , *kqlyps*
+tom | n | tome / volume (book) | 
 tortys | n | tortoise | 
 tost | n | toast | 
 totakucisyb | n | female 2nd cousin | 
@@ -850,7 +873,6 @@ uapiti | n | elk / wapiti |
 uardn | v | to guard / to protect | 
 uardr | n | guard / protector | 
 uarnn | v | to alarm / to caution / to warn | 
-ud | ad | your (singular possessive) | 
 uen | ad | when | 
 uer | ad | where | 
 uern | v | to wear | 
@@ -891,6 +913,7 @@ vwc | n | the close-quote symbol -∕ | cf cwv
 vwd | ad | your (plural possessive) | 
 vx- | fix | plural | spread = 4
 vxant | n | people | 
+vxantstat | n | country / nation | 
 vxco | n | children | 
 vxia | det | those (when determining a subsequent noun: "those apples") | cf *vxiat*, 'those' (pronoun)
 vxiat | pronoun | those | cf *vxia*, `those` (determiner)
@@ -908,6 +931,7 @@ vyzcn | n | vision (figurative or imaginative) | cf *vyz*, 'sight'
 vyzn | v | to see | 
 w | pronoun | thee / you | second person singular
 wakn | v | to walk | 
+wd | ad | your (singular possessive) | 
 wr | n | ear | 
 wrkn | v | to work | 
 wrlob | n | earlobe | 

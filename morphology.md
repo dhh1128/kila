@@ -34,3 +34,6 @@ perfective aspect | hq | 3 | sehq = have said, sedyhq = had said, sehqvw = would
 conditional or subjunctive aspect | vw | 4 | sevw = would say, segxvw = would be saying
 reflexive aspect | zi | 0 | sezi = say to myself
 
+A passive mood is expressed by replacing or following a subject with the preposition *dx*: *d rein* 'it's raining', *i d nasdy* 'I was born'.
+
+An exigent mood (should, must, FR *il faut que*, ES *hay que*) is expressed by combining passive and imperative: *d bidu suanyk* 'one should be careful', ES 'hay que cuidarse'. This is a softer and less direct construction than *bidu suanyk* 'be careful' (a command) or 'w deb bin suanyk' 'you must be careful'.
