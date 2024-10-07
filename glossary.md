@@ -107,6 +107,8 @@ co | n | child | cico for daughter, tahico for grandson
 con | v | to show | 
 coz | n | ES cosa / FR chose / thing | 
 cqptm | n | chapter (local branch of a society) / chapter (of a book) | 
+cqst | ad | chaste, morally pure | 
+cqstcn | n | chastity | 
 cucn | v | to whisper | cf FR *chuchoter*, ES *susurar*
 cudr | n | shoulder | 
 cwbn | v | to reverse course / to turn back | similar to retrnn, but this verb doesn't imply completion or arrival at an original position -- merely a change of direction. See Strong's 7725
@@ -116,6 +118,7 @@ cwvn | v | to cite / to quote |
 cwz | n | choice | 
 cwzn | v | to choose | 
 cyb | n | sister | 
+cyp | n | ship | 
 dainosarys | n | dinosaur | 
 daun | ad prep | down | 
 dauncndn | v | to climb down / to descend | 
@@ -161,9 +164,10 @@ dygnamnyk | ad | faithful / trustworthy | cf *amnyk* 'faith-filled, trusting'
 dygnamnykcn | n | faithfulness / trustworthiness | 
 dygnx | ad | worthy | 
 dygnxcn | n | worthiness | 
-dys- | fix | bent, apart, turned / different | 
+dys- | fix | away / bent, apart, turned / different | 
 dysfiln | v | to dissent / to feel out of harmony or alignment | collocation: *dysfiln ap* 'dissent away from'
 dysvirn | v | to diverge | 
+dysyk | ad | different | 
 e | pronoun | he / her (indirect obj) / him / it / she | third person singular
 ed | ad pronoun | her / his / its | 
 ei- | fix | EN -less (sightless) / EN a- (atypical) / EN in- or im- (impossible) / EN non- (nontraditional) / EN un (unlikely) / as a verb fix, lack of what follows | 
@@ -361,6 +365,7 @@ kn | n | spouse |
 knstrxkn | v | to construct | 
 kntendcn | n | competition / contention | 
 kntendn | v | to compete / to contend / to vie | 
+kntynun | v | to continue | 
 ko | prep | with | 
 ko- | fix | EN "co-" / with | 
 koc | n | thigh | 
@@ -369,7 +374,7 @@ koidmn | v | to compare (examine for similarities) | collocation is *koidmn ko*;
 kokob | n | star | 
 kolidn | v | to collide | 
 kolin | n | hill | 
-komprenn | v | to comprehend / to understand | 
+komprenn | v | to comprehend / to understand | cf *kenn* 'to deeply comprehend'
 kontroln | v | to control | 
 kontrx | prep | against | 
 kop | n | head | 
@@ -591,6 +596,7 @@ ped | n | foot |
 pein | v | to pay | 
 pek | n | sin | 
 pekn | n | to sin | 
+pendn | v | to hang | 
 pensn | v | to think | 
 petc | n | chest (body part) | 
 pirsn | v | to pierce | 
@@ -598,7 +604,9 @@ piso | n | floor |
 plak | n | plaque / plate | 
 plas | n | place | 
 plasn | v | to place | 
+pleiim | n | club / competitive team | 
 plein | v | to play | 
+pleir | n | player / team member | 
 plg | n | thumb | 
 plu | ad | more | 
 plubon | ad | better | 
@@ -621,6 +629,8 @@ posib | ad | possible |
 posikyj | n | millennium | 
 post | prep | after (in time or space) | 
 post- | fix | to do something after | 
+postpendn | v | to append / to suffix | 
+postpwtn | v | to postpone | 
 pqcn | v | to attend / to wait patiently | 
 pqcnyk | ad | patient / patiently | 
 pqkt | n | agreement / covenant / pact | 
@@ -636,23 +646,26 @@ preju | n | yesterday |
 prekyj | n | ago / last year / yesteryear | 
 premorn | n | yesterday morning | 
 prenotc | n | last night / yesternight | 
+prependn | v | to prefix / to prepend | 
 prepn | v | to prepare | 
 prepreju | n | ES anteayer / day before yesterday | 
 preri | n | prairie | 
 presypcn | n | precipitation | 
 presypn | v | to precipitate | 
 pretekn | v | to assume / to presume / to suppose | 
+prev | ad | previous / prior | 
 preyk | ad | forward | 
 prezns | n | presence (direct engagement in environment) | 
 preznsn | v | to witness via direct experience | 
 prgrqspn | v | to perceive | 
-priv | ad | previous / prior | 
 prkabn | v | to be in pain / to suffer | 
 problm | n | problem | 
 prosain | v | to prophesy | 
 prosair | n | prophet | 
 provn | v | to prove / to test / to verify | 
 prp | ad | purple | 
+prpensn | v | to consider / to ponder / to think through | 
+prpren | v | to carry on / to persevere / to press forward | 
 pryvlej | n | privilege | n
 puan | n | wrist | 
 pumon | n | lung | 
@@ -668,6 +681,7 @@ qvryj | ad | average |
 raca | ad | lost from the path / wicked | see Strong's 7563
 raidn | v | to ride | 
 raizn | v | to arise / to get up / to rise | 
+re | ad | again | 
 re- | fix | to do again / to do in a way that goes back to an original state | 
 redun | v | to redo / to repeat | 
 reg | n | right (what justly pertains to one) | 
@@ -799,6 +813,7 @@ sufi | ad | enough / sufficient |
 sugrocn | n | undergrowth | 
 sumrjn | v | to submerge | 
 sun | ad | soon | 
+supendn | v | to hang under / to suspend | 
 suspirn | v | to sigh | 
 susys | n | pig | 
 suvn | v | to remember | 
@@ -892,6 +907,7 @@ uxt | pronoun | what |
 uynn | v | to win | 
 vai | prep | over | 
 vailxt | ad | violet | 
+vaipendn | v | to arc over | 
 valu | n | value | 
 ve | pronoun | them / they | third person plural
 ved | ad | their | 
@@ -933,6 +949,7 @@ w | pronoun | thee / you | second person singular
 wakn | v | to walk | 
 wd | ad | your (singular possessive) | 
 wr | n | ear | 
+wrkim | n | crew / work team | 
 wrkn | v | to work | 
 wrlob | n | earlobe | 
 x | iject | uh / unstressed syllable placeholder used to force rhythm in poetry | 
