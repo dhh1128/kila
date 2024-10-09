@@ -352,6 +352,7 @@ ken | n | comprehension / deep, integrated insight comprising factual knowledge 
 kenn | v | to deeply comprehend / to understand | contrast sabn, cogron (which are each components of this deeper knowing)
 kerybu | n | caribou / reindeer | 
 ki | det | here / hither / this (when determining a subsequent noun: "this apple") | cf *kit* 'this' (pronoun)
+kidam | n | ES Don Nadie / ES fulano / FR Monsieur Tout-le-Monde / FR un quidam / Jane Doe / John Doe / John Q. Public | cf *klidam* ES 'zutano (second random person after fulano)', *kridam* ES 'mengano (third random person after fulano and zutano)'
 kiet | ad | quiet | 
 kiju | n | today | 
 kipn | v | to keep | 
@@ -365,8 +366,6 @@ kmplet | ad | complete / entire |
 kmpletn | v | to complete | 
 kn | n | spouse | 
 knstrxkn | v | to construct | 
-kntendcn | n | competition / contention | 
-kntendn | v | to compete / to contend / to vie | 
 kntynun | v | to continue | 
 ko | prep | with | 
 ko- | fix | EN "co-" / with | 
@@ -684,6 +683,9 @@ qskn | v | to ask |
 qvryj | ad | average | 
 raca | ad | lost from the path / wicked | see Strong's 7563
 raidn | v | to ride | 
+raivl | n | competitor / rival | 
+raivlcn | n | competition | cf *straif*, 'contention in anger or enmity'
+raivln | v | to compete / to vie | cf *straifn* 'to contend in anger or enmity'
 raizn | v | to arise / to get up / to rise | 
 re | ad | again | 
 re- | fix | to do again / to do in a way that goes back to an original state | 
@@ -803,6 +805,8 @@ stepn | v | to step | n
 stomak | n | stomach | 
 storm | n | storm | 
 stqndn | v | to stand | 
+straif | n | contention in anger or enmity | cf *rivalcn* 'competition, rivalry'
+straifn | v | to contend in anger or enmity | cf *rivaln*, 'to compete'
 strat | n | street | 
 studn | v | to study | 
 studr | n | student | 
