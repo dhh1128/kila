@@ -120,6 +120,8 @@ cwzn | v | to choose |
 cyb | n | sister | 
 cyp | n | ship | 
 dainosarys | n | dinosaur | 
+dark | ad n, | characterized by darkness (opposite of light) / darkness | 
+darkn | v | to darken | 
 daun | ad prep | down | 
 dauncndn | v | to climb down / to descend | 
 daunyk | ad | downward | 
@@ -457,7 +459,9 @@ lojr | n | scientist |
 lon | ad | far | 
 lonkuant | n | tribe | 
 lrnn | v | to learn | 
-lum | n | light | 
+lum | ad n, | characterized by light (opposite of dark) / light | cf *lumyk* 'alight, lit up'
+lumn | v | to illuminate / to light up | 
+lumyk | ad | alight / lit up | cf *lum* 'characterized by light'
 lun | n | moon | 
 lurd | ad | heavy | FR "lourde"
 lwf | n | leaf | 
@@ -752,7 +756,7 @@ sepyk | prep | despite / notwithstanding |
 servys | n | deer | 
 setys | n | whale | 
 si | ad det | three | 
-si | iject | yea / yes | 
+si | iject | yea / yeah / yes | 
 sidad | n | city | 
 siel | n | heaven | 
 sielyk | ad | celestial / heavenly | 
