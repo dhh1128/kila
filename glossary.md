@@ -45,6 +45,8 @@ afysr | n | officer / official |
 agu | n | water | 
 aho | prep | unto | 
 ai | n | eye | 
+air | n | anger / ire | 
+airn | v | to anger | 
 aks | n | ox | 
 al | det | all | 
 alma | n | soul | 
@@ -72,7 +74,7 @@ astu | ad | astute / clever / cunning |
 astucn | n | astuteness / cleverness / cunning | 
 au | iject | ouch / shoot | 
 bern | v | to bear (a burden) | cf nasn, to bear a child
-biholdn | v | to behold / to observe with wonder or awe | This verb is used in cases where the associated contemplation is particularly deep, wondrous, or awe-filled. It is not used to simply invite consideration. Contrast "lwki".
+biholdn | v | to behold (observe with wonder and awe) | This verb translates scriptural "behold" when wonder and awe are the focus of the experience. cf *ken*, which can translate 'behold' when meditation and understanding are the focus.
 bikxmn | v | to become | 
 bin | v | to be | 
 blas | n | bladder | 
@@ -145,6 +147,7 @@ desryk | ad | desirous |
 destrxkn | v | to destroy | 
 devel | n | revelation | 
 develn | v | to reveal | 
+diabl | n | devil | 
 dimyntn | v | to decrease / to reduce | 
 djngl | n | jungle | 
 donk | ad conj | so / so that / therefore / thus / wherefore | Similar to FR donc, but has a stronger sense of causation
@@ -197,6 +200,7 @@ esgon | v | FR, ES sortir / to exit |
 esjekn | v | to eject | 
 eskapn | v | to escape | 
 eskleimn | v | to cry out / to exclaim | 
+eslymn | v | to do away / to eliminate / to expel | 
 esmrjn | v | to emerge | 
 esplain | v | to explain | 
 esplikn | n | to explain / to explicate / to interpret or clarify the meaning | 
@@ -349,7 +353,7 @@ kasi | ad | about / almost / approximately |
 kaus | n | house | 
 kazn | v | to cause | 
 ken | n | comprehension / deep, integrated insight comprising factual knowledge and habituation | contrast sab, cogro
-kenn | v | to deeply comprehend / to understand | contrast sabn, cogron (which are each components of this deeper knowing)
+kenn | v | to deeply comprehend / to understand | This verb translates scriptural "behold" when pondering and comprehension are the focus. cf *sabn*, *cogron*, and *biholdn*, which can translate 'behold' when wonder and are the focus.
 kerybu | n | caribou / reindeer | 
 ki | det | here / hither / this (when determining a subsequent noun: "this apple") | cf *kit* 'this' (pronoun)
 kidam | n | ES Don Nadie / ES fulano / FR Monsieur Tout-le-Monde / FR un quidam / Jane Doe / John Doe / John Q. Public | cf *klidam* ES 'zutano (second random person after fulano)', *kridam* ES 'mengano (third random person after fulano and zutano)'
@@ -465,9 +469,11 @@ lun | n | moon |
 lurd | ad | heavy | FR "lourde"
 lwf | n | leaf | 
 lwgn | v | to lay, typically down (cause to rest, transitive) / to lie (rest in a supported position, typically flat or prostrate, intransitive) | 
-lwki | iject | FR voici / look here | In scriptural language, it is this exclamation, rather than a command or invitation or description about gazing with wonder or awe, that is usually the correct translation of "behold"
+lwki | iject | FR voici / look here | This word often translates scriptural "behold", if the meaning is more a verbal tic and less an invitation to ponder deeply (*kendu*) or to contemplate with wonder and awe (*biholddu*).
 lwkn | v | to look | 
 lyd | n | lid (cover for a pot or eye) | 
+lymn | n | boundary / limit / threshold | 
+lymn | v | to bound / to limit | 
 lysn | v | to listen | Not a perfect borrowing from English, because there's not an extra /n/.
 lyvr | n | liver | 
 lyzys | n | lizard | 
@@ -676,11 +682,13 @@ punin | v | punish |
 pwcn | v | to push | 
 pwtn | v | to put | 
 pynys | n | pinniped / seal | 
+qjitn | v | to agitate / to provoke / to stir up | 
 qkn | v | to act | 
 qnsrn | v | to answer | 
 qnsrys | n | goose | 
 qskn | v | to ask | 
 qvryj | ad | average | 
+rabia | n | fury / rage | 
 raca | ad | lost from the path / wicked | see Strong's 7563
 raidn | v | to ride | 
 raivl | n | competitor / rival | 
@@ -920,6 +928,7 @@ valu | n | value |
 ve | pronoun | them / they | third person plural
 ved | ad | their | 
 vehik | n | vehicle | 
+veksn | v | to afflict / to agitate / to bother / to disturb / to irritate / to vex | 
 vel | n | veil | 
 verd | ad | green | 
 ves | n | ES vez / FR fois / instance / occurence / repetition / times (multiplication) | 
