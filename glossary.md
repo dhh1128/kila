@@ -57,6 +57,7 @@ amnn | v | to exercise faith / to trust | see Strong's 540. cf *kredn* 'to belie
 amnyk | ad | faith-filled / trusting | cf *dygnamnyk* 'faithful, trustworthy'
 an | prep | FR sur / on / upon | 
 anj | n | angel | 
+ankr | n | anchor | 
 ant | n | human / person | 
 antyk | ad | human | 
 ap | ad prep | away / away from / hence | see Strong's G575
@@ -183,6 +184,7 @@ eifyncn | n | infinity |
 eifynyk | ad | endless / infinite / neverending | 
 eij | n | age (unit of longevity) / age (very long period of time) | 
 eiko | prep | ES "sin" / FR "sans" / without | 
+eimuvn | ad | steadfast / unmoving | 
 eiposib | ad | impossible | 
 eipqc | ad | immediate / immediately / without delay | 
 eivys | n | bird | 
@@ -247,6 +249,7 @@ fortcn | n | strength |
 fortn | v | to strengthen | 
 frant | n | forehead | 
 frbydn | v | to forbid | 
+frm | ad | firm / solid | 
 frustrn | v | to frustrate | 
 frut | n | fruit | 
 fyksn | v | to establish / to fasten / to fix | 
@@ -542,6 +545,7 @@ mrjn | v | to merge |
 mund | n | world | 
 murnn | v | to mourn | 
 mus | n | moose | 
+muvn | v | to move | 
 mxjest | ad, n | majestic / majesty | 
 myd | ad | mid / middle | 
 mydmil | n | lunch | 
@@ -822,6 +826,9 @@ spredn | v | to spread |
 sqk | n | sack | 
 sr | n | monsieur / respectful title for any adult man / señor / sir | 
 srpys | n | serpent / snake | 
+srt | ad, iject | certain / sure | 
+srtcn | n | certainty / confidence / surety | 
+srtn | v | to confirm / to make certain | 
 srvn | v | to serve | 
 stabl | ad | stable | 
 stabln | v | to establish / to stabilize | 
@@ -988,7 +995,9 @@ vyzn | v | to see |
 w | pronoun | thee / you | second person singular
 wakn | v | to walk | 
 wd | ad | your (singular possessive) | 
+wn | ad | ES aún / FR même / even | 
 wr | n | ear | 
+wrk | n | FR oeuvre / opus / work | 
 wrkim | n | crew / work team | 
 wrkn | v | to work | 
 wrlob | n | earlobe | 

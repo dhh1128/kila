@@ -1,7 +1,7 @@
 en | kila
 --- | ---
 Our Savior and Redeemer, Jesus Christ, | vid -salvr n -redimr, -iecux -macaki,
-will perform some of His mightiest works | esduvy sxm d ed wrkcn plipodyk
+will perform some of His mightiest works | esduvy sxm d ed vxwrk plipodyk
 between now and when He comes again. | tuin nau n uen e km re.
 We will see miraculous indications that God the Father | vi vizvy vxynco uxndryk k -gad-pai-z
 and His Son, Jesus Christ, | n ed -hico, -iecux -macaki,
