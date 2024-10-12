@@ -38,6 +38,7 @@ lemma | tags | definition | notes
 9mxk | n | september | 
 a | prep | at / to | 
 abi | ad | i.e. / that is / that is to say | 
+acevn | v | to achieve / to have success | cf *poststqndn* 'to succeed, in the sense of coming after'
 af | prep | off | 
 aft | ad | often | 
 afys | n | office (a formal role) | cf 'afysri' (the location)
@@ -74,6 +75,7 @@ astu | ad | astute / clever / cunning |
 astucn | n | astuteness / cleverness / cunning | 
 au | iject | ouch / shoot | 
 bern | v | to bear (a burden) | cf nasn, to bear a child
+bicn | n | being | 
 biholdn | v | to behold (observe with wonder and awe) | This verb translates scriptural "behold" when wonder and awe are the focus of the experience. cf *ken*, which can translate 'behold' when meditation and understanding are the focus.
 bikxmn | v | to become | 
 bin | v | to be | 
@@ -156,8 +158,9 @@ dr | conj prep | as / during / while |
 drec | ad | right (-hand side, -ward) | cf nist
 drit | ad | straight | 
 dritalman | v | to repent | cf repensn 'to reconsider'
-dritn | v | to straighten | 
+dritn | v | to direct / to straighten | 
 drsun | ad | as soon as / immediately upon | followed by a verb phrase: "...he arrives" or by a noun phrase: "...his arrival"
+ducn | v | action / performance / work | 
 dun | v | to do | 
 dutn | v | to doubt | 
 dx | prep | from / of / passive particle | 
@@ -196,6 +199,7 @@ entrn | v | enter |
 eon | n | eon | 
 era | n | era | 
 es | ad prep, | forth / out / out of | 
+esdun | v | to bring about / to effect / to perform | 
 esgon | v | FR, ES sortir / to exit | 
 esjekn | v | to eject | 
 eskapn | v | to escape | 
@@ -210,6 +214,8 @@ espwtn | v | to express / to put forth |
 esrodn | v | to erode / to wear away | 
 esrsisn | v | to exercise / to go through planned, intentional actions | 
 essaid | ad prep | outside | 
+esstqndn | v | to secede | 
+esvyvn | v | to outlive | 
 esxkutn | v | to execute (a person, NOT an order or a plan) | cf sign, to follow an order or plan
 esyk | ad | outer | 
 esyk pqns | n | outer space | 
@@ -255,6 +261,7 @@ galys | n | chicken |
 garg | n | throat | 
 geizn | v | to gaze / to stare | 
 getn | v | to get | 
+gidn | v | to guide | 
 ginx | n | knee | 
 glori | n | glory | 
 gon | v | to go | 
@@ -285,6 +292,7 @@ habl | n | hair |
 hai | ad | high | 
 haif | n | the en dash / the hyphen symbol | 
 haifn | v | to mark a word or phrase as an identifier by preceding it with a haif (hyphen) character; roughly, to capitalize | 
+haltn | v | to cease / to halt / to stop | 
 harc | ad | harsh | 
 harkn | v | to hearken | 
 hart | n | heart | 
@@ -477,7 +485,7 @@ lymn | v | to bound / to limit |
 lysn | v | to listen | Not a perfect borrowing from English, because there's not an extra /n/.
 lyvr | n | liver | 
 lyzys | n | lizard | 
-macaki | n | annointed one / messiah | 
+macaki | n | Christ / Messiah / annointed one | 
 macakn | v | to annoint / to smear / to spread (a liquid) | see Strong's 4886
 mai | n | mother | 
 maisyb | n | mother's sibling | cf *saisyb* 'aunt or uncle' (through either parent), *maicyb* 'sister of mother', *maihyb* 'brother of mother'
@@ -534,6 +542,7 @@ mrjn | v | to merge |
 mund | n | world | 
 murnn | v | to mourn | 
 mus | n | moose | 
+mxjest | ad, n | majestic / majesty | 
 myd | ad | mid / middle | 
 mydmil | n | lunch | 
 mylyter | n | military | 
@@ -617,15 +626,19 @@ pleiim | n | club / competitive team |
 plein | v | to play | 
 pleir | n | player / team member | 
 plg | n | thumb | 
+pli | ad | most | 
+pli- | fix | -est (comparative enhancer, most, as in bigg*est*) | cf *plu-* '-er'
 plu | ad | more | 
+plu- | fix | -er (comparative enhancer, more, as in bigg*er*) | cf *pli-* '-est'
 plubon | ad | better | 
 plumal | ad | worse | 
 plxto | n | plateau | 
 pocei | n | million | 
 poceikyj | n | a million years | 
 pod | n | power | 
+podcn | n | might / potency | 
 podn | v | to be able or capable / to have power to do / ~EN can / ~ES poder / ~FR pouvoir | 
-podyk | ad | powerful | 
+podyk | ad | mighty / potent / powerful | 
 pofai | n | lakh | 
 point | n | point | 
 pointn | v | to point | 
@@ -640,6 +653,7 @@ post | prep | after (in time or space) |
 post- | fix | to do something after | 
 postpendn | v | to append / to suffix | 
 postpwtn | v | to postpone | 
+poststqndn | v | to succeed, in the sense of coming after | cf *acevn* 'to achieve, to succeed'
 pqcn | v | to attend / to wait patiently | 
 pqcnyk | ad | patient / patiently | 
 pqkt | n | agreement / covenant / pact | 
@@ -659,8 +673,10 @@ prependn | v | to prefix / to prepend |
 prepn | v | to prepare | 
 prepreju | n | ES anteayer / day before yesterday | 
 preri | n | prairie | 
+prestqndn | v | to precede | 
 presypcn | n | precipitation | 
 presypn | v | to precipitate | 
+presytn | v | to preside | no collocation (she presides the meeting rather than presiding over it)
 pretekn | v | to assume / to presume / to suppose | 
 prev | ad | previous / prior | 
 preyk | ad | forward | 
@@ -675,6 +691,7 @@ provn | v | to prove / to test / to verify |
 prp | ad | purple | 
 prpensn | v | to consider / to ponder / to think through | 
 prpren | v | to carry on / to persevere / to press forward | 
+prvyvn | v | to survive | 
 pryvlej | n | privilege | n
 puan | n | wrist | 
 pumon | n | lung | 
@@ -697,6 +714,7 @@ raivln | v | to compete / to vie | cf *straifn* 'to contend in anger or enmity'
 raizn | v | to arise / to get up / to rise | 
 re | ad | again | 
 re- | fix | to do again / to do in a way that goes back to an original state | 
+redimn | v | to redeem | 
 redun | v | to redo / to repeat | 
 reg | n | right (what justly pertains to one) | 
 rein | n | rain | 
@@ -722,6 +740,7 @@ romn | v | to roam / to wander |
 rqptys | n | bird of prey | 
 rsys | n | bear | 
 ruak | n | spirit | See Strong's 7307.
+ruakyk | ad | spiritual / spiritually | 
 ruj | ad | red | 
 ruk | ad n, | back (the body part) / rear (the rear of the bus) | 
 ruksqk | n | backpack / rucksack | 
@@ -748,6 +767,7 @@ sainn | v | to sign / to signal |
 saisyb | n | aunt or uncle | Add hi- or ci- at the front to say what side of the family (father's or mother's side); add it before "syb" to differentiate aunt and uncle: hisaisyb is an aunt/uncle on dad's side; saicisyb is an aunt; hisaicisyb is an aunt on father's side.
 saj | ad | sage / wise | 
 sajcn | n | wisdom | 
+salvn | v | to rescue / to save | 
 sanj | n | blood | 
 sankt | ad | consecrated to a sacred purpose / holy | 
 sanktn | v | to sanctify | 
@@ -849,6 +869,7 @@ sxtm | n | week |
 syb | n | sibling | hisyb and cisyb for bro and sis
 synt | n | waist | 
 sypl | n | a durationless point in time / instant / moment | 
+sytn | v | to sit | 
 ta- | fix | grand-, as in grandmother (mai = mother, tamai = grandmother). Generations greater than "grand" are counted with numbers before "ta", so great-grandmother is "totamai". | 
 tak | iject | FR tac / there! | 
 takn | v | to talk | 
@@ -918,7 +939,9 @@ unzoxm | ad | tenth |
 uor | n | war | 
 urd | n | word | 
 uwd | n | wood (the material) / woods (a copse of trees) | 
+uxndr | n | miracle / wonder | 
 uxndrn | v | to wonder | 
+uxndryk | ad | miraculous / wondrous | 
 uxt | pronoun | what | 
 uynn | v | to win | 
 vai | prep | over | 
@@ -988,6 +1011,7 @@ xn- | fix | to cancel or negate or rollback an action |
 xndun | v | to undo | 
 xp | ad | up | 
 xpcndn | v | to ascend / to climb | 
+xpvyvn | v | to overcome | 
 xpyk | ad | upward | 
 xranj | ad | orange | 
 xsumn | v | to assume | 
@@ -996,6 +1020,8 @@ yktys | n | fish |
 ympruvn | v | to improve | 
 yn | prep | in | 
 yna | prep | into | 
+ynco | n | indication / symptom | 
+yncon | v | to indicate | 
 ynflun | v | to influence | 
 yngrqspn | v | to obtain / to receive | 
 ynjekn | v | to inject | 
