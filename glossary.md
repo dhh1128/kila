@@ -75,6 +75,7 @@ aspirn | v | to aspire | from *a-* 'to' and *spirn* 'breathe'
 astu | ad | astute / clever / cunning | 
 astucn | n | astuteness / cleverness / cunning | 
 au | iject | ouch / shoot | 
+barakn | v | to bless | cf Strongs 1288
 bern | v | to bear (a burden) | cf nasn, to bear a child
 bicn | n | being | 
 biholdn | v | to behold (observe with wonder and awe) | This verb translates scriptural "behold" when wonder and awe are the focus of the experience. cf *ken*, which can translate 'behold' when meditation and understanding are the focus.
@@ -230,6 +231,7 @@ faln | v | to fall |
 fam | n | woman | 
 fard | n | burden | 
 fardn | v | to burden | 
+fas | n | face | 
 favrn | v | to favor / to prefer | 
 fi | n | a symbol in the symbolic alphabet (the fim) | 
 filn | v | to feel | 
@@ -358,7 +360,9 @@ kald | ad | cold |
 kaln | v | to call | 
 kamp | n | camp / encampment | 
 kampn | v | to camp / to occupy territory | 
+kanann | v | to be gracious / to be merciful / to bestow / to favor | cf Strongs 2603
 kanixn | n | canyon | 
+kantn | v | to sing | 
 kaos | n | chaos | 
 kasi | ad | about / almost / approximately | 
 kaus | n | house | 
@@ -524,6 +528,7 @@ mesyjn | v | to message |
 micpat | n | decision / judgment | see Strong's 4941
 micpatn | v | to decide / to judge | 
 micpatr | n | deciding authority / judge | 
+midbar | n | desert / wilderness | cf Strongs 4057
 mil | n | FR répas / meal | 
 minn | v | to mean / to signify | 
 miser | n | misery / wretchedness | 
@@ -613,6 +618,7 @@ papin | n | daddy |
 part | n | part | 
 parti | n | party (one concerned or interested in an affair, including possibly a group that's unified in interests or purpose) | 
 partn | v | to divide up / to divvy up / to share | 
+pas | n | peace | 
 pask | conj | ES porque / ES pues / FR parceque / because / since (causation) / so that / such that | 
 ped | n | foot | 
 pein | v | to pay | 
@@ -1016,6 +1022,7 @@ xkauntn | v | to account (give a history) |
 xm | iject | uh / umm | 
 xmen | iject | amen | 
 xmer | ad | bitter | 
+xmqn | n | to count / to number | 
 xn- | fix | to cancel or negate or rollback an action | 
 xndun | v | to undo | 
 xp | ad | up | 
