@@ -123,6 +123,7 @@ cwv | n | the open-quote symbol ∕- | cf vwc
 cwvn | v | to cite / to quote | 
 cwz | n | choice | 
 cwzn | v | to choose | 
+cxlom | n | completeness / soundness / welfare / wholeness | cf Strongs 7965
 cyb | n | sister | 
 cyp | n | ship | 
 dainosarys | n | dinosaur | 
