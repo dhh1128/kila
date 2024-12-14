@@ -20,7 +20,7 @@ diminutive or endearing | in- | 3 | indag = little dag; vxinsidag = cute female 
 augmentive | gr- | 3 | grdag = great big dog
 foul or evil or damaged | mei- | 2 | meidag = nasty dog
 beautiful or good or pure | li- | 2 | lidag = beautiful dog
-extreme | so- | 4 | sodag = a very doggy dog; sogrdag = an enormous dog of a dog; sovxdag = lots and lots of dogs
+extreme | so- | 4 | sodag = a very doggy dog; sogrdag = an big dog of a dog; sovxdag = lots of dogs
 
 ## Inflection (conjugation)
 
