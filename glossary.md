@@ -80,6 +80,7 @@ asu | prep | below |
 au | iject | ouch / shoot | 
 auen | prep | until | 
 avai | prep | above | 
+baks | n | box | 
 barakn | v | to bless | cf Strongs 1288
 bern | v | to bear (a burden) | cf nasn, to bear a child
 bicn | n | being | 
@@ -104,7 +105,7 @@ byld | n | building |
 byldn | v | to build | 
 bytn | v | to bite | 
 c | iject | FR chut / shhh | 
-cad | det pronoun | each | 
+cad | det pronoun | each / every | 
 canj | n | change | 
 canjn | v | to change | 
 cei | ad det | six | 
@@ -173,6 +174,7 @@ dun | v | to do |
 dutn | v | to doubt | 
 dx | prep | from / of / passive particle | 
 dxk | n | duck | 
+dxkretn | v | to decree | 
 dxktryn | n | doctrine | 
 dyfr | n | difference | 
 dyfrn | v | to differ | 
@@ -271,6 +273,8 @@ fynyk | ad | at last / final / finally / last / lastly |
 gad | n | god | 
 galys | n | chicken | 
 garg | n | throat | 
+gast | n | guest | 
+gastri | n | guest house / inn / lodging | 
 geizn | v | to gaze / to stare | 
 getn | v | to get | 
 gidn | v | to guide | 
@@ -350,6 +354,7 @@ in- | fix | ES -ito / diminutive or endearing / ~FR -ette | spread = 3
 iris | n | iris | 
 isl | n | island | 
 ist | ad | east | 
+itbaks | n | manger | 
 itn | v | to eat | 
 iuzn | v | to use | 
 jardn | n | garden | 
@@ -398,6 +403,8 @@ kntynun | v | to continue |
 ko | prep | with | 
 ko- | fix | EN "co-" / with | 
 koc | n | thigh | 
+koco | ad | pregnant / with child | 
+kocon | v | to conceive / to engender / to impregnate / to sire | The English constructs that are unilateral (e.g., a woman conceiving a child, or a man fathering a child) are subsumed by this term, which is a mutual act between a woman and a man. When the verb takes a direct object, it is the child, and when both parents are named, they are a compound subject. Thus, English "she conceived" and "he engendered"both become "i kocody".
 kogron | neologism v, | to become familiar with or adapted to / to know through co-adaptation / ~ES conocer / ~FR connaitre | cf kenn, sabn
 koidmn | v | to compare (examine for similarities) | collocation is *koidmn ko*; cf *faindidmn*, which implies greater intent to find what is similar
 kokob | n | star | 
@@ -693,6 +700,7 @@ pre- | fix | to do something before |
 predeklrn | v | to preach | 
 pregrqdn | v | to move forward / to progress | 
 preju | n | yesterday | 
+prekun | v | to agree to marry / to betroth | 
 prekyj | n | ago / last year / yesteryear | 
 premorn | n | yesterday morning | 
 prenotc | n | last night / yesternight | 
@@ -700,6 +708,7 @@ prependn | v | to prefix / to prepend |
 prepn | v | to prepare | 
 prepreju | n | ES anteayer / day before yesterday | 
 preri | n | prairie | 
+presendn | v | to promise | 
 prestqndn | v | to precede | 
 presypcn | n | precipitation | 
 presypn | v | to precipitate | 
@@ -763,8 +772,10 @@ restn | v | to remain |
 retrnn | v | to return | cf cwbn 'to reverse course, to turn back'
 ri | prep | about / around / concerning / regarding | 
 ridn | v | to read | 
+ristadn | v | to be comprised of / to consist of | 
 rod | n | road | 
 romn | v | to roam / to wander | 
+rqpn | v | to wrap | 
 rqptys | n | bird of prey | 
 rsys | n | bear | 
 ruak | n | spirit | See Strong's 7307.
@@ -870,6 +881,8 @@ strat | n | street |
 studn | v | to study | 
 studr | n | student | 
 su | prep | beneath / under | 
+suadcn | n | swaddling cloth / swath | 
+suadn | v | to swathe / to wrap | 
 suan | n | TLC / care / watchcare | 
 suann | v | ES cuidar / FR *prend soin* / to care for | 
 suanyk | ad | careful / vigilant | 
