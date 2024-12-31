@@ -8,8 +8,8 @@ Mr. Bennet made no answer.|Bennet-hikn no qnsrdy.
 “You want to tell me, and I have no objection to hearing it.”|/-w vl teln d i, n i hav no xbjekcn a hirn e.-/
 This was invitation enough.|kit bidy ynvit sufi.
 “Why, my dear, you must know, | /-uai, cer-id, u deb sabn,
-Mrs. Long says that Netherfield is taken| Long-cikn se k Netherfield bi tekn pr
- by a young man of large fortune |
+Mrs. Long says that Netherfield is taken| Long-cikn se k Netherfield bi tekn
+ by a young man of large fortune | pr
  from the north of England; |
  that he came down on Monday |
  in a chaise and four |
