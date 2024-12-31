@@ -13,7 +13,7 @@ lemma | tags | definition | notes
 -mekr | fix | -maker: convert noun into one who makes it (trouble*maker*) | 
 -mqn | fix | FR *-aine*: convert a number to a group of that size / cardinality | cf doz*en*
 -n | fix | infinitive or past participle on a verb | spread = 1
--pos | fix | -able or -ible: admitting the possibility of what's inflected | 
+-pd | fix | -able or -ible: admitting the possibility of what's inflected | 
 -r | fix | -or or -er: convert a verb to the party who performs the verb (sail*or*) | 
 -ri | fix | -ry: convert a noun or verb into a place characterized by it (bake*ry*) | 
 -vnt | n | -ic, -an, -ese, -ish: turn a name or noun into a category of people (hispan*ic*, itali*an*, chin*ese*, turk*ish*) | Somewhat like a nisba adjective ending in Arabic. Only used for people, not as a general adjective suffix.
@@ -37,7 +37,7 @@ lemma | tags | definition | notes
 8mxk | n | august (the month) | 
 9mxk | n | september | 
 a | prep | at / to | 
-abi | ad | i.e. / that is / that is to say | 
+abi | ad | Latin *scilicet*, abbreviated sc. / i.e. / namely / that is / that is to say / to wit | 
 acevn | v | to achieve / to have success | cf *poststqndn* 'to succeed, in the sense of coming after'
 af | prep | off | 
 aft | ad | often | 
@@ -48,7 +48,7 @@ aho | prep | unto |
 ai | n | eye | 
 air | n | anger / ire | 
 airn | v | to anger | 
-ako | prep | beside (together without reference to containment) / next to | cf *asaid* 'along, alongside'
+ako | prep | beside (together without reference to containment) / by (colocated) / next to | cf *asaid* 'along, alongside', *pr* 'by (means of)'
 aks | n | ox | 
 al | det | all | 
 alma | n | soul | 
@@ -197,6 +197,8 @@ eimuvn | ad | steadfast / unmoving |
 eiposib | ad | impossible | 
 eipqc | ad | immediate / immediately / without delay | 
 eivys | n | bird | 
+eivyzpd | ad | invisible | 
+eivztr | ad | opaque | 
 ek | ad | e.g. / for example | 
 elfys | n | elephant | 
 elo | ad | yellow | 
@@ -500,6 +502,7 @@ lt | prep | beyond | from "ultra"
 ltgrqdn | v | to go beyond a good or bad limit / to transgress | 
 lum | ad n, | characterized by light (opposite of dark) / light | cf *lumyk* 'alight, lit up'
 lumn | v | to illuminate / to light up | 
+lumtr | ad | translucent | 
 lumyk | ad | alight / lit up | cf *lum* 'characterized by light'
 lun | n | moon | 
 lurd | ad | heavy | FR "lourde"
@@ -642,6 +645,7 @@ parti | n | party (one concerned or interested in an affair, including possibly 
 partn | v | to divide up / to divvy up / to share | 
 pas | n | peace | 
 pask | conj | ES porque / ES pues / FR parceque / because / since (causation) / so that / such that | 
+pdn | v | to be able or capable / to have power to do / ~EN can / ~ES poder / ~FR pouvoir | 
 ped | n | foot | 
 pein | v | to pay | 
 pek | n | sin | 
@@ -669,7 +673,6 @@ pocei | n | million |
 poceikyj | n | a million years | 
 pod | n | power | 
 podcn | n | might / potency | 
-podn | v | to be able or capable / to have power to do / ~EN can / ~ES poder / ~FR pouvoir | 
 podyk | ad | mighty / potent / powerful | 
 pofai | n | lakh | 
 point | n | point | 
@@ -693,7 +696,7 @@ pqkt | n | agreement / covenant / pact |
 pqlxt | n | palate | 
 pqns | n | room (available time or place) / space | 
 pqsn | v | to pass | 
-pr | prep | by (through the action of) / by way of / per (ratio) / through | 
+pr | prep | by (through the action of) / by way of / per (ratio) | cf *tr* 'through'
 prc | ad | maybe / perchance / perhaps / possibly | 
 pre | ad, n prep, | ahead / before (in time or space) / fore (the front place) / front | 
 pre- | fix | to do something before | 
@@ -953,6 +956,7 @@ toxm | ad | second (ordinal) |
 toxm | ad | half | In English, the ordinal "second" and the fraction "half" are different words, but the ordinal "third" and the fraction "third" are not. Kila is consistent in using the same word for both concepts, because a fraction is just the ordinal piece of an overall pie.
 tozo | n | twenty | 
 tqksi | n | taxi | 
+tr | ad | through / trans- | cf *pr* 'by'
 train | v | to try | 
 tredn | v | to tread | 
 tren | n | train | 
@@ -1030,6 +1034,8 @@ vyvn | v | to live (not "to dwell" but rather antonym of "to die") |
 vyz | n | sight / vision (literal sense of perception) | cf *vyzcn*, 'figurative vision or dream'
 vyzcn | n | vision (figurative or imaginative) | cf *vyz*, 'sight'
 vyzn | v | to see | 
+vyzpd | ad | visible | 
+vztr | ad | see-through / transparent | 
 w | pronoun | thee / you | second person singular
 wakn | v | to walk | 
 wd | ad | your (singular possessive) | 
