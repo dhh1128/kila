@@ -163,7 +163,7 @@ dimyntn | v | to decrease / to reduce |
 djngl | n | jungle | 
 donk | ad conj | so / so that / therefore / thus / wherefore | Similar to FR donc, but has a stronger sense of causation
 dormn | v | to sleep | 
-dr | conj prep | as / during / while | 
+dr | conj prep | as (at point in time) / during / while | cf *kwa* 'as'
 drec | ad | right (-hand side, -ward) | cf nist
 drit | ad | straight | 
 dritalman | v | to repent | cf repensn 'to reconsider'
@@ -287,7 +287,7 @@ got | n | goat |
 gqdr | n | any group of animals that is not under human supervision, such as a murder of crows, a pod of whales, a pride of lions, etc. Kila doesn't have different words for different types of animals. / assembly / gathering | 
 gqdrkaus | n | assembly hall / synagogue | 
 gqdrn | v | to gather | 
-gqdryk | ad | together | 
+gqdryk | ad | together / with one another | 
 gr | ad | many / much | cf *sovx* 'lots, plenty'
 gr- | fix | ES -ote / augmentive | spread = 3
 gran | ad | great | 
@@ -456,6 +456,8 @@ kuparyk | ad | marital / married |
 kursn | v | to course (blood coursed through his veins) / to race | 
 kutykl | n | cuticle | 
 kuyk | ad | fast / quick / rapid | 
+kwa | prep | ES *como* / FR *en tant que* / as (comparison) / as (in the sense or capacity or dimension of) / by which / in which | 
+kwyf | prep | as if / compared to / like | 
 kx | det pronoun | than / which / ~ES que / ~FR que / ~that (relative pronoun) | Also introduces clauses that would start with "who" or "which" in English.
 kxfarn | v | to cover and compensate and reconcile and purify and heal | cf Strongs 3722 and *likxfarn* 'to atone with beautiful grace'
 kxmn | v | to come | 
