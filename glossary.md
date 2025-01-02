@@ -24,19 +24,27 @@ lemma | tags | definition | notes
 10mxk | n | october | 
 11mxk | n | november | 
 12mxk | n | december | 
+1ju | n | sunday | 
 1mxk | n | january | 
 1ves | ad | once | 
+2ju | n | monday | 
 2mxk | n | february | 
 2ves | ad | twice | 
+3ju | n | tuesday | 
 3mxk | n | march | 
 3ves | ad | thrice | 
+4ju | n | wednesday | 
 4mxk | n | april | 
+5ju | n | thursday | 
 5mxk | n | may (the month) | 
+6ju | n | friday | 
 6mxk | n | june | 
+7ju | n | saturday | 
 7mxk | n | july | 
 8mxk | n | august (the month) | 
 9mxk | n | september | 
 a | prep | at / to | 
+abedn | v | FR se coucher / to go or put to bed | 
 abi | ad | Latin *scilicet*, abbreviated sc. / i.e. / namely / that is / that is to say / to wit | 
 acevn | v | to achieve / to have success | cf *poststqndn* 'to succeed, in the sense of coming after'
 af | prep | off | 
@@ -44,6 +52,7 @@ aft | ad | often |
 afys | n | office (a formal role) | cf 'afysri' (the location)
 afysr | n | officer / official | 
 agu | n | water | 
+ahebn | v | to love (a choice and action that is selfless, sacrificial, covenantal, and offering and seeking deep connection) | cf Strongs H157 and G25 (agape); contrast *filian* 'to feel fondness' and *erosn* 'to romance'
 aho | prep | unto | 
 ai | n | eye | 
 air | n | anger / ire | 
@@ -80,8 +89,9 @@ asu | prep | below |
 au | iject | ouch / shoot | 
 auen | prep | until | 
 avai | prep | above | 
+avzyn | v | to view | 
 baks | n | box | 
-barakn | v | to bless | cf Strongs 1288
+bed | n | bed | 
 bern | v | to bear (a burden) | cf nasn, to bear a child
 bicn | n | being | 
 biholdn | v | to behold (observe with wonder and awe) | This verb translates scriptural "behold" when wonder and awe are the focus of the experience. cf *ken*, which can translate 'behold' when meditation and understanding are the focus.
@@ -94,6 +104,8 @@ bok | n | mouth |
 bon | ad | good / well | 
 bovys | n | bovine / cattle / cow / kine | 
 bqg | n | bag (a small sack) | 
+brakcn | n | blessing | 
+brakn | v | to bless | cf Strongs 1288
 brau | n | eyebrow | 
 braun | ad | brown | 
 brekn | v | to break | 
@@ -108,7 +120,11 @@ c | iject | FR chut / shhh |
 cad | det pronoun | each / every | 
 canj | n | change | 
 canjn | v | to change | 
+cedl | n | schedule | 
+cedln | v | to schedule | 
 cei | ad det | six | 
+ceklyst | n | checklist | 
+cekn | v | to check | 
 celys | n | shellfish | 
 cer | ad | dear / precious | 
 ci- | fix | female | spread = 1
@@ -133,6 +149,7 @@ cxlom | n | completeness / soundness / welfare / wholeness | cf Strongs 7965
 cyb | n | sister | 
 cyp | n | ship | 
 dainosarys | n | dinosaur | 
+dankn | v | to thank | 
 dark | ad n, | characterized by darkness (opposite of light) / darkness | 
 darkn | v | to darken | 
 daun | ad prep | down | 
@@ -144,11 +161,13 @@ debcn | n | duty |
 debn | v | "must" as a helper verb / ES deber / FR devoir / to owe (either money, or a duty) | 
 debr | n | debtor | 
 debyk | ad | due / owing | 
+deja | ad | already | 
 deklern | v | to declare / to proclaim | 
 deluj | n | deluge / flood | 
 delujn | v | to deluge / to flood / to overflow or cover with water | 
 den | ad | then | 
 dent | n | tooth | 
+dentyk | ad | dental | 
 deprtenn | v | to deprive / to dissociate | 
 desaifrn | v | to decipher | 
 desidn | v | to decide | 
@@ -196,6 +215,8 @@ eiko | prep | ES "sin" / FR "sans" / without |
 eimuvn | ad | steadfast / unmoving | 
 eiposib | ad | impossible | 
 eipqc | ad | immediate / immediately / without delay | 
+eisuv | phrase | never mind | 
+eisuvn | v | to forget | 
 eivys | n | bird | 
 eivyzpd | ad | invisible | 
 eivztr | ad | opaque | 
@@ -211,6 +232,7 @@ enkl | n | ankle |
 entrn | v | enter | 
 eon | n | eon | 
 era | n | era | 
+erosn | v | to feel sexual attraction and romantic feelings for / to romance | cf *ahebn* 'to love (a selfless choice and action)' and *filian* 'to feel fondness'
 es | ad prep, | forth / out / out of | 
 esdun | v | to bring about / to effect / to perform | 
 esgon | v | FR, ES sortir / to go out / to leave | cf *esgrqdn* to exit
@@ -244,7 +266,9 @@ fard | n | burden |
 fardn | v | to burden | 
 fas | n | face | 
 favrn | v | to favor / to prefer | 
+fest | n | feast (celebratory or commemorative meal) | cf *slebcn* 'celebration, party' (not necessarily food-oriented)
 fi | n | a symbol in the symbolic alphabet (the fim) | 
+filian | v | to love (feel fondness, affection, and personal attachment) | cf *ahebn*, which is more of an action and commitment and less of a feeling
 filn | v | to feel | 
 filys | n | cat | 
 fim | n | symbolic alphabet | contrast /gwm/
@@ -256,6 +280,8 @@ flo | n | flow |
 flon | v | to flow | 
 flyk | ad | completely / entirely / fully / wholly | 
 fo | prep | for | 
+fokxs | n | focal point / focus / nexus / point of convergence | 
+fokxsn | v | to converge / to focus | 
 font | n | fount / fountain | 
 fort | ad | strong | 
 fortcn | n | strength | 
@@ -263,6 +289,10 @@ fortn | v | to strengthen |
 frant | n | forehead | 
 frbydn | v | to forbid | 
 frm | ad | firm / solid | 
+frsn | v | to force | 
+frsyk | ad | forceful / vigorous | 
+frszin | v | to strive | 
+frsziyk | ad | full of effort / strenuous | cf *frsyk* 'forceful, vigorous'
 frustrn | v | to frustrate | 
 frut | n | fruit | 
 fyksn | v | to establish / to fasten / to fix | 
@@ -272,16 +302,24 @@ fynmil | n | dinner / evening meal / supper |
 fynn | v | to end / to finish | 
 fynspirn | v | to die / to expire | from *fyn* 'end' and *spirn* 'breathe'
 fynyk | ad | at last / final / finally / last / lastly | 
+fytcn | n | fitness | 
+fytn | v | to fit / to suit to purpose | 
+fyzyk | ad | physical | 
 gad | n | god | 
 galys | n | chicken | 
 garg | n | throat | 
 gast | n | guest | 
 gastri | n | guest house / inn / lodging | 
 geizn | v | to gaze / to stare | 
+geld | n | money | 
+geldcn | n | finance | 
+geldcnyk | ad | financial | 
 getn | v | to get | 
 gidn | v | to guide | 
 ginx | n | knee | 
 glori | n | glory | 
+gol | n | goal | 
+goln | v | to set a goal | 
 gon | v | to go | 
 got | n | goat | 
 gqdr | n | any group of animals that is not under human supervision, such as a murder of crows, a pod of whales, a pride of lions, etc. Kila doesn't have different words for different types of animals. / assembly / gathering | 
@@ -291,6 +329,7 @@ gqdryk | ad | together / with one another |
 gr | ad | many / much | cf *sovx* 'lots, plenty'
 gr- | fix | ES -ote / augmentive | spread = 3
 gran | ad | great | 
+gratn | v | ES agradar / to gratify / to please | 
 gre | ad | grey | 
 grit | n | greeting | cf *gritcn*, 'formal greeting or greeting ceremony'
 gritcn | n | formal greeting or greeting ceremony / salutation (a showy or flowery greeting) | cf *grit*, 'greeting'
@@ -304,7 +343,9 @@ grqs | n | grass |
 grqspn | v | to grasp | 
 grsun | ad | sooner | 
 gw | n | a letter of the spelling alphabet (the gwm) | 
+gwan | phrase | hooray! | from Jamaican Patwa
 gwm | n | spelling alphabet (lower-case letters) | contrast /fim/
+gwmcn | n | note | 
 gwmn | v | to spell | 
 gyv | n | gift | 
 gyvn | v | to give | 
@@ -318,6 +359,8 @@ harkn | v | to hearken |
 hart | n | heart | 
 hat | ad | hot | 
 hau | ad | how ("how it happened" but not "how much" or "how come") | 
+haubi | ad | however (adverb, not conjunction) | cf *sepn* 'however (conj)'
+haugo | ph | How are you? / How's it going? | 
 havn | v | to have | 
 helpn | v | to aid / to assist / to help | 
 hi- | fix | male | spread = 1
@@ -327,7 +370,11 @@ hirn | v | to hear |
 hm | iject | hmmm | 
 holdn | v | to hold | 
 hom | n | home | 
+hqbxt | n | habit | 
+hqbxtn | v | to cultivate or form a habit / to habituate | 
 hqmr | n | hammer | 
+hqp | n | a happenstance (unplanned event) | cf *hqpcn* 'deliberate event'
+hqpcn | n | a deliberate event | cf *hqp* 'a happenstance'
 hqpn | v | to happen / to occur | 
 hrd | n | herd, flock (a group of domesticated animals under human supervision) | Unlike English, this word is used with any animals that meet this definition, including geese, sheep, and so forth. Kila doesn't have different words for different types of animals.
 hrdn | v | to herd | 
@@ -353,6 +400,8 @@ iecux | n | Jesus |
 imr | n | member | 
 in | ad | little / petite / tiny | 
 in- | fix | ES -ito / diminutive or endearing / ~FR -ette | spread = 3
+inion | n | fate (particularly in relationships) / providence | from Korean
+inpis | n | detail | 
 iris | n | iris | 
 isl | n | island | 
 ist | ad | east | 
@@ -367,6 +416,7 @@ jujcn | n | judgment |
 jujn | v | to judge | 
 jum | n | twin | 
 just | ad | barely / just | 
+jutom | n | diary / journal | 
 juvnt | n | Jew | 
 jxst | ad | just / only | 
 kab | n | pain | see Strong's 3510
@@ -380,11 +430,11 @@ kanann | v | to be gracious / to be merciful / to bestow / to favor | cf Strongs
 kanixn | n | canyon | 
 kantn | v | to sing | 
 kaos | n | chaos | 
-kasi | ad | about / almost / approximately | 
+kasi | ad | about / almost / approximately / nearly | 
 kaus | n | house | 
 kazn | v | to cause | 
-ken | n | comprehension / deep, integrated insight comprising factual knowledge and habituation | contrast sab, cogro
-kenn | v | to deeply comprehend / to understand | This verb translates scriptural "behold" when pondering and comprehension are the focus. cf *sabn*, *cogron*, and *biholdn*, which can translate 'behold' when wonder and are the focus.
+ken | n | comprehension / deep, integrated insight comprising factual knowledge and habituation / mastery | contrast sab, cogro
+kenn | v | to deeply comprehend / to master / to understand | This verb translates scriptural "behold" when pondering and comprehension are the focus. cf *sabn*, *cogron*, and *biholdn*, which can translate 'behold' when wonder and are the focus.
 kerybu | n | caribou / reindeer | 
 ki | det | here / hither / this (when determining a subsequent noun: "this apple") | cf *kit* 'this' (pronoun)
 kidam | n | ES Don Nadie / ES fulano / FR Monsieur Tout-le-Monde / FR un quidam / Jane Doe / John Doe / John Q. Public | cf *klidam* ES 'zutano (second random person after fulano)', *kridam* ES 'mengano (third random person after fulano and zutano)'
@@ -413,6 +463,7 @@ kokob | n | star |
 kolidn | v | to collide | 
 kolin | n | hill | 
 komprenn | v | to comprehend / to understand | cf *kenn* 'to deeply comprehend'
+komti | n | civility / courtesy | 
 kontr | prep | against | 
 kontroln | v | to control | 
 kop | n | head | 
@@ -443,6 +494,8 @@ krxptn | v | to corrupt |
 krxstys | n | crustacean | 
 ku- | fix | by marriage | kusyb is step sibling and kucisai is stepmother
 kuant | n | family (casual usage) / nuclear family | 
+kuantpai | n | patriarch | cf *kuantsai* 'family parent (ungendered patriarch/matriarch)'
+kuantsai | n | ungendered patriarch or matriarch | cf *kuantpai* and *kuantmai*
 kubrn | v | to cover | 
 kud | n | elbow | 
 kueikn | v | to quake | 
@@ -481,12 +534,14 @@ leng | n | language |
 lepys | n | rabbit | 
 lerynks | n | Adam's apple / larynx / voicebox | 
 letn | v | to allow / to let | 
+letr | n | letter (long note) / missive | 
 li | ad | comely / wholesome | 
 li- | fix | beautiful, good, pure / comely / wholesome | spread = 2
 lidn | v | to lead | 
 likxfarn | v | to atone in a divine act of grace | cf *kxfarn*, which is more general-purpose
 linga | n | tongue | 
 lisn | v | to lease / to rent | 
+litel | n | gospel | 
 liv | n | book | 
 livn | v | to leave | 
 livrn | v | deliver | FR livrer, DE abliefern
@@ -498,7 +553,7 @@ lojir | n | expert / guru / philosopher / scholar |
 lojn | v | to practice science / to study with rigor | 
 lojr | n | scientist | 
 lon | ad | far | 
-lonkuant | n | tribe | 
+lonkuant | n | clan / tribe | 
 lrnn | v | to learn | 
 lt | prep | beyond | from "ultra"
 ltgrqdn | v | to go beyond a good or bad limit / to transgress | 
@@ -516,6 +571,7 @@ lyd | n | lid (cover for a pot or eye) |
 lymn | n | boundary / limit / threshold | 
 lymn | v | to bound / to limit | 
 lysn | v | to listen | Not a perfect borrowing from English, because there's not an extra /n/.
+lystn | v | to list | 
 lyvr | n | liver | 
 lyzys | n | lizard | 
 macakn | v | to annoint / to smear / to spread (a liquid) | see Strong's 4886
@@ -575,6 +631,7 @@ mqn | n | hand |
 mqnyjn | v | to manage | 
 mrjn | v | to merge | 
 mund | n | world | 
+mundyk | ad | worldly | 
 murnn | v | to mourn | 
 mus | n | moose | 
 muvn | v | to move | 
@@ -594,6 +651,7 @@ nasryl | n | nostril |
 nau | ad | now | 
 negl | n | nail (of finger or toe) | 
 nek | f | neck | 
+neksn | v | to bind / to connect / to join | 
 nel | n | nail (metal spike) | 
 nevr | ad | never | 
 nidn | v | to need | 
@@ -615,14 +673,18 @@ nord | ad | north |
 nordyk | ad | northern | 
 nori | ad | nowhere | 
 notc | n | night | 
+nov | ad | new | 
+novcn | n | news / recent happenings / tidings | 
 nu | conj | and∕or | 
 nuv | ad det | nine | 
 nx | conj | and | 
+nxhqp | phrase | What's up? | 
 nxkl | n | knuckle | 
 o | iject | Oh ("Oh!" or "O ye of little faith" or "Oh no") | 
 ocn | n | ocean | 
 ok | ad det | eight | 
 oke | ad | okay | 
+old | ad | old | 
 om | n | man (male human) | 
 ombyl | n | ES ombligo / FR nombril / IT ombelico / bellybutton / navel | 
 omxk | n | month | 
@@ -656,6 +718,7 @@ pendn | v | to hang |
 pensn | v | to think | 
 petc | n | chest (body part) | 
 pirsn | v | to pierce | 
+pis | n | piece | 
 piso | n | floor | 
 plak | n | plaque / plate | 
 plas | n | place | 
@@ -666,6 +729,9 @@ pleir | n | player / team member |
 plg | n | thumb | 
 pli | ad | maximum / most | 
 pli- | fix | -est (comparative enhancer, most, as in bigg*est*) | cf *plu-* '-er'
+plplcn | n | entertainment | 
+plpln | v | to entertain | 
+plqnn | v | to plan | 
 plu | ad | more | 
 plu- | fix | -er (comparative enhancer, more, as in bigg*er*) | cf *pli-* '-est'
 plubon | ad | better | 
@@ -697,8 +763,9 @@ pqcnyk | ad | patient / patiently |
 pqkt | n | agreement / covenant / pact | 
 pqlxt | n | palate | 
 pqns | n | room (available time or place) / space | 
-pqsn | v | to pass | 
+pqsn | v | to pass (by, through, time, an object) | 
 pr | prep | by (through the action of) / by way of / per (ratio) | cf *tr* 'through'
+praj | n | project | 
 prc | ad | maybe / perchance / perhaps / possibly | 
 pre | ad, n prep, | ahead / before (in time or space) / fore (the front place) / front | 
 pre- | fix | to do something before | 
@@ -714,6 +781,7 @@ prepn | v | to prepare |
 prepreju | n | ES anteayer / day before yesterday | 
 preri | n | prairie | 
 presendn | v | to promise | 
+prest | ad | early | 
 prestqndn | v | to precede | 
 presypcn | n | precipitation | 
 presypn | v | to precipitate | 
@@ -724,19 +792,31 @@ preyk | ad | forward |
 prezns | n | presence (direct engagement in environment) | 
 preznsn | v | to witness via direct experience | 
 prgrqspn | v | to perceive | 
+prim | ad | main / primary / prime / principal | 
+prju | ad | daily | 
 prkabn | v | to be in pain / to suffer | 
+prkyj | ad | annually / yearly | 
+prmxk | ad | monthly | 
+prnekscn | n | relationship | 
+prneksn | v | to relate | 
 problm | n | problem | 
 prosain | v | to prophesy | 
 prosair | n | prophet | 
+provcn | n | exam / review / test / verification | 
 provn | v | to prove / to test / to verify | 
 prp | ad | purple | 
 prpensn | v | to consider / to ponder / to think through | 
 prpren | v | to carry on / to persevere / to press forward | 
+prsxtm | ad | weekly | 
+prtokyj | ad | bi-annual (every 2 years) | cf *toprkyj* 'semi-annual (two per year)'
+prtosxtm | ad | bi-weekly (every two weeks) | 
 prvyvn | v | to survive | 
+prynsxp | n | principle | 
 pryvlej | n | privilege | n
 puan | n | wrist | 
 pumon | n | lung | 
 punin | v | punish | 
+puvida | phrase | Costa Rica: "pura vida" / an upbeat feeling of gratitude and optimism / every little thing gonna be alright / look on the bright side | 
 pwcn | v | to push | 
 pwtn | v | to put | 
 pynys | n | pinniped / seal | 
@@ -744,6 +824,7 @@ qjitn | v | to agitate / to provoke / to stir up |
 qkn | v | to act | 
 qnsrn | v | to answer | 
 qnsrys | n | goose | 
+qskcn | n | question | 
 qskn | v | to ask | 
 qvryj | ad | average | 
 rabia | n | fury / rage | 
@@ -755,6 +836,7 @@ raivln | v | to compete / to vie | cf *straifn* 'to contend in anger or enmity'
 raizn | v | to arise / to get up / to rise | 
 re | ad | again / back | 
 re- | fix | to do again / to do in a way that goes back to an original state | 
+reavyzn | v | to review | 
 redimn | v | to redeem | 
 redun | v | to redo / to repeat | 
 reg | n | right (what justly pertains to one) | 
@@ -777,6 +859,7 @@ restn | v | to remain |
 retrnn | v | to return | cf cwbn 'to reverse course, to turn back'
 ri | prep | about / around / concerning / regarding | 
 ridn | v | to read | 
+rin | v | to encompass / to surround | cf *ri* 'around'
 ristadn | v | to be comprised of / to consist of | 
 rod | n | road | 
 romn | v | to roam / to wander | 
@@ -809,10 +892,12 @@ saikyk | ad | mental / psychic (but not in a pseudo-scientific sense) | cf nirsa
 sain | n | sign | 
 sainn | v | to sign / to signal | 
 saisyb | n | aunt or uncle | Add hi- or ci- at the front to say what side of the family (father's or mother's side); add it before "syb" to differentiate aunt and uncle: hisaisyb is an aunt/uncle on dad's side; saicisyb is an aunt; hisaicisyb is an aunt on father's side.
-saj | ad | sage / wise | 
+saj | ad | sage / wise / wisely | 
 sajcn | n | wisdom | 
+salu | ad | health | 
 salvn | v | to rescue / to save | 
 sanj | n | blood | 
+sankfest | n | ES santa cena / FR sainte cène / communion (Catholic) / sacrament (Mormon) | 
 sankt | ad | consecrated to a sacred purpose / holy | 
 sanktn | v | to sanctify | 
 sarys | n | reptile | 
@@ -825,7 +910,7 @@ sen | v | to say |
 sendn | v | to send | 
 sentr | n | center | 
 sep | conj | but | 
-sepn | conj | although / however / nevertheless / notwithstanding / though / yet / ~FR cependant | 
+sepn | conj | although / however (conj) / nevertheless / notwithstanding / though / yet / ~FR cependant | cf *haubi* 'however (adverb)'
 sepyk | prep | despite / notwithstanding | 
 servys | n | deer | 
 setys | n | whale | 
@@ -837,13 +922,21 @@ sielyk | ad | celestial / heavenly |
 sig | ad | latter / next | 
 sigju | n | morrow / tomorrow | 
 sign | v | to follow (a person, a map, an order, a plan) | 
+sikn | v | to seek | 
 simn | v | to seem | 
 sisi | n | IFF / if and only if | 
+sita | n | appointment / rendezvous | 
 sitakusyb | n | 3rd cousin | 
+sitan | v | to make an appointment | 
+sitcn | n | date (romantic rendezvous) | 
 sixm | ad | one third / third | 
 sizo | n | thirty | 
 skribn | v | to write | 
 skrin | v | to shout | 
+sl | ex | hello / hi | 
+slebcn | n | celebration / party | cf *sleb* 'party (informal)'
+slebi | n | celebrity / person being celebrated in a party | 
+slebn | v | to celebrate / to party | 
 slon | prep | ES segun / FR selon / according to / as to | 
 smal | ad | small | 
 so | prep | as (followed by adjective or adverb) / so (followed by adjective or adverb) / way (intensifier: way up high) | 
@@ -932,11 +1025,13 @@ tatasai | n | direct-line ancestor | cf *tataknt* 'fuzzy ancestral relation'
 tcim | pronoun | of which / of whom / ~FR "dont" | 
 tcyn | n | chin | 
 tekn | v | to take | 
+tel | n | story / tale | 
 teln | v | to tell | 
 temp | n | time | 
 templ | n | temple | 
 temptcn | n | temptation | 
 temptn | v | to tempt | 
+tempyk | ad | on time / timely | 
 ter | n | countryside / earth (dirt) / ground / land / terrain | 
 tercn | n | territory | 
 tern | v | to land (a plane, a boat) | 
@@ -950,12 +1045,14 @@ to | ad det | both / two |
 tocwv | n | the two open-quote symbol | written as /--
 tolyps | n | an ellipsis with 2 dots, used to elide items in a sequence | cf *elyps* , *kqlyps*
 tom | n | tome / volume (book) | 
+toprkyj | ad | semi-annual (two per year) | cf *prtokyj* 'bi-annual (every two years)'
 tortys | n | tortoise | 
 tost | n | toast | 
 totakucisyb | n | female 2nd cousin | 
 tovwc | n | the two close-quote symbol | written as --/
 toxm | ad | second (ordinal) | 
 toxm | ad | half | In English, the ordinal "second" and the fraction "half" are different words, but the ordinal "third" and the fraction "third" are not. Kila is consistent in using the same word for both concepts, because a fraction is just the ordinal piece of an overall pie.
+toxmrut | ad | halfway | 
 tozo | n | twenty | 
 tqksi | n | taxi | 
 tr | ad | through / trans- | cf *pr* 'by'
@@ -975,6 +1072,7 @@ uait | ad | white |
 uapiti | n | elk / wapiti | 
 uardn | v | to guard / to protect | 
 uardr | n | guard / protector | 
+uardri | n | stewardship | 
 uarnn | v | to alarm / to caution / to warn | 
 uen | ad | when | 
 uer | ad | where | 
@@ -994,6 +1092,7 @@ uxndr | n | miracle / wonder |
 uxndrn | v | to wonder | 
 uxndryk | ad | miraculous / wondrous | 
 uxt | pronoun | what | 
+uxtbi | ad | whatever | 
 uynn | v | to win | 
 vai | prep | over | 
 vailxt | ad | violet | 
@@ -1022,6 +1121,7 @@ vx- | fix | plural | spread = 4
 vxant | n | people | 
 vxantstat | n | country / nation | 
 vxco | n | children | 
+vxdank | phrase | thank you / thanks | 
 vxia | det | those (when determining a subsequent noun: "those apples") | cf *vxiat*, 'those' (pronoun)
 vxiat | pronoun | those | cf *vxia*, `those` (determiner)
 vxki | det | these (when determining a subsequent noun: "these apples") | cf *vxkit*, 'these' (pronoun)
@@ -1035,7 +1135,7 @@ vyv | n | life |
 vyvn | v | to live (not "to dwell" but rather antonym of "to die") | 
 vyz | n | sight / vision (literal sense of perception) | cf *vyzcn*, 'figurative vision or dream'
 vyzcn | n | vision (figurative or imaginative) | cf *vyz*, 'sight'
-vyzn | v | to see | 
+vyzn | v | to see | cf *avyzn* 'to view'
 vyzpd | ad | visible | 
 vztr | ad | see-through / transparent | 
 w | pronoun | thee / you | second person singular
@@ -1057,6 +1157,8 @@ xbundyk | ad | abundant / bountiful |
 xdam | n | Adam | cf Strongs 121
 xfer | n | ES asunto / affair (a matter to consider) | 
 xflykn | v | to afflict | 
+xjend | n | a to-do list / agenda / itinerary | 
+xjendn | v | to add to a to-do list | 
 xjendx | n | agenda | 
 xkaunt | n | account | 
 xkauntn | v | to account (give a history) | 
@@ -1086,7 +1188,7 @@ ynklun | v | to include |
 ynsaid | prep | inside | 
 ynspirn | v | to inspire | from *yn-* 'in' and *spirn* 'breathe'
 ynten | n | intent / intention | 
-yntencn | n | objective | 
+yntencn | n | goal / objective | 
 yntenn | v | to intend | 
 ynvitn | v | to invite | 
 ynyk | ad | inner | 
