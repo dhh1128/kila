@@ -99,6 +99,7 @@ bikxmn | v | to become |
 bin | v | to be | 
 blas | n | bladder | 
 blu | ad | blue | 
+blys | n | bliss | 
 bntcn | v | to bunch | 
 bok | n | mouth | 
 bon | ad | good / well | 
@@ -179,10 +180,12 @@ devel | n | revelation |
 develn | v | to reveal | 
 diabl | n | devil | 
 dimyntn | v | to decrease / to reduce | 
+dip | ad | deep / profound | 
 djngl | n | jungle | 
 donk | ad conj | so / so that / therefore / thus / wherefore | Similar to FR donc, but has a stronger sense of causation
 dormn | v | to sleep | 
 dr | conj prep | as (at point in time) / during / while | cf *kwa* 'as'
+drain | v | to dry | 
 drec | ad | right (-hand side, -ward) | cf nist
 drit | ad | straight | 
 dritalman | v | to repent | cf repensn 'to reconsider'
@@ -195,6 +198,7 @@ dx | prep | from / of / passive particle |
 dxk | n | duck | 
 dxkretn | v | to decree | 
 dxktryn | n | doctrine | 
+dyc | n | dish (a receptacle to hold food or drink) | 
 dyfr | n | difference | 
 dyfrn | v | to differ | 
 dygnamnyk | ad | faithful / trustworthy | cf *amnyk* 'faith-filled, trusting'
@@ -317,7 +321,10 @@ geldcnyk | ad | financial |
 getn | v | to get | 
 gidn | v | to guide | 
 ginx | n | knee | 
+gli | n | glee / jubilation | 
+gliyk | ad | gleeful / jubilant | 
 glori | n | glory | 
+glqd | ad | glad / happy | 
 gol | n | goal | 
 goln | v | to set a goal | 
 gon | v | to go | 
@@ -418,7 +425,9 @@ jum | n | twin |
 just | ad | barely / just | 
 jutom | n | diary / journal | 
 juvnt | n | Jew | 
+jwa | n | joy | 
 jxst | ad | just / only | 
+jyst | n | gist / summary | 
 kab | n | pain | see Strong's 3510
 kak | n | feces / poop | 
 kaksyks | n | coccyx / tailbone | 
@@ -440,9 +449,12 @@ ki | det | here / hither / this (when determining a subsequent noun: "this apple
 kidam | n | ES Don Nadie / ES fulano / FR Monsieur Tout-le-Monde / FR un quidam / Jane Doe / John Doe / John Q. Public | cf *klidam* ES 'zutano (second random person after fulano)', *kridam* ES 'mengano (third random person after fulano and zutano)'
 kiet | ad | quiet | 
 kiju | n | today | 
+kimorn | n | this morning | 
+kinotc | n | tonight | 
 kipn | v | to keep | 
 kit | pronoun | this | cf *ki* 'this' (determiner)
 klemn | v | to claim | 
+klod | n | clothes | 
 klozn | v | to close | 
 klqvykl | n | clavicle / collarbone | 
 kltyvn | v | to cultivate / to till | 
@@ -704,6 +716,7 @@ palm | n | palm (of the hand) |
 panz | n | belly | 
 papa | n | dad | 
 papin | n | daddy | 
+park | n | park | 
 part | n | part | 
 parti | n | party (one concerned or interested in an affair, including possibly a group that's unified in interests or purpose) | 
 partn | v | to divide up / to divvy up / to share | 
@@ -933,6 +946,7 @@ sixm | ad | one third / third |
 sizo | n | thirty | 
 skribn | v | to write | 
 skrin | v | to shout | 
+skul | n | school | 
 sl | ex | hello / hi | 
 slebcn | n | celebration / party | cf *sleb* 'party (informal)'
 slebi | n | celebrity / person being celebrated in a party | 
@@ -962,6 +976,7 @@ srpys | n | serpent / snake |
 srt | ad, iject | certain / sure | 
 srtcn | n | certainty / confidence / surety | 
 srtn | v | to confirm / to make certain | 
+srvcn | n | service | 
 srvn | v | to serve | 
 stabl | ad | stable | 
 stabln | v | to establish / to stabilize | 
@@ -1023,6 +1038,8 @@ tas | n | cup |
 tataknt | n | fuzzy ancestral relation | cf *tatasai* 'direct-line ancestor'
 tatasai | n | direct-line ancestor | cf *tataknt* 'fuzzy ancestral relation'
 tcim | pronoun | of which / of whom / ~FR "dont" | 
+tcir | n | cheer / cheerfulness | 
+tciryk | ad | cheerful | 
 tcyn | n | chin | 
 tekn | v | to take | 
 tel | n | story / tale | 
@@ -1067,6 +1084,7 @@ trtlys | n | turtle |
 tuin | prep | ES entre / FR parmi / among / between / betwixt / tween | 
 tybia | n | shin | 
 u | conj | or | 
+uacn | v | to wash | 
 uai | ad | why | 
 uait | ad | white | 
 uapiti | n | elk / wapiti | 
