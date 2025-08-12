@@ -61,6 +61,8 @@ ako | prep | beside (together without reference to containment) / by (colocated)
 aks | n | ox | 
 al | det | all | 
 alma | n | soul | 
+almz | n | charitable giving | normally a non-count noun
+almzn | v | to give a charitable or merciful gift | 
 alri | ad | all around / everywhere | cf *vxri* 'round about, here and there'
 amn | n | faith / trust | see Strong's 540
 amnn | v | to exercise faith / to trust | see Strong's 540. cf *kredn* 'to believe (intellectually or abstractly)'
@@ -147,6 +149,7 @@ cwvn | v | to cite / to quote |
 cwz | n | choice | 
 cwzn | v | to choose | 
 cxlom | n | completeness / soundness / welfare / wholeness | cf Strongs 7965
+cxualn | v | to inquire / to pray / to seek counsel, advice, or guidance | cf Strongs H7592
 cyb | n | sister | 
 cyp | n | ship | 
 dainosarys | n | dinosaur | 
@@ -182,8 +185,11 @@ diabl | n | devil |
 dimyntn | v | to decrease / to reduce | 
 dip | ad | deep / profound | 
 djngl | n | jungle | 
+domai | n | prayer (supplication) | 
+domain | v | to beg / to beseech / to entreat / to pray / to supplicate | cf Strongs G1189 and H6279
 donk | ad conj | so / so that / therefore / thus / wherefore | Similar to FR donc, but has a stronger sense of causation
 dormn | v | to sleep | 
+dqmyjn | v | to damage | 
 dr | conj prep | as (at point in time) / during / while | cf *kwa* 'as'
 drain | v | to dry | 
 drec | ad | right (-hand side, -ward) | cf nist
@@ -426,6 +432,7 @@ just | ad | barely / just |
 jutom | n | diary / journal | 
 juvnt | n | Jew | 
 jwa | n | joy | 
+jwan | v | to experience joy / to rejoice | 
 jxst | ad | just / only | 
 jyst | n | gist / summary | 
 kab | n | pain | see Strong's 3510
@@ -456,12 +463,16 @@ kit | pronoun | this | cf *ki* 'this' (determiner)
 klemn | v | to claim | 
 klod | n | clothes | 
 klozn | v | to close | 
+klqs | n | class (in school) | cf *strqt* 'social class'
 klqvykl | n | clavicle / collarbone | 
 kltyvn | v | to cultivate / to till | 
 klyf | n | cliff | 
+kmpiutn | v | to compute | 
+kmpiutr | n | computer | 
 kmplet | ad | complete / entire | 
 kmpletn | v | to complete | 
 kn | n | spouse | 
+knfygn | v | to arrange / to configure | 
 knstrxkn | v | to construct | 
 kntynun | v | to continue | 
 ko | prep | with | 
@@ -484,6 +495,7 @@ kospirn | v | to conspire | from *a-* 'to' and *spirn* 'breathe'
 kost | n | coast | 
 kotekn | v | to partake (typically, with others) | 
 kovrsn | n | to converse | 
+kovyztnn | v | to attend | 
 koxn | n | partner | 
 koyn | prep | beside (together inside) / within | 
 kq | ad det | four | 
@@ -647,6 +659,7 @@ mundyk | ad | worldly |
 murnn | v | to mourn | 
 mus | n | moose | 
 muvn | v | to move | 
+mxcin | n | machine | 
 mxjest | ad, n | majestic / majesty | 
 myd | ad | mid / middle | 
 mydmil | n | lunch | 
@@ -665,6 +678,8 @@ negl | n | nail (of finger or toe) |
 nek | f | neck | 
 neksn | v | to bind / to connect / to join | 
 nel | n | nail (metal spike) | 
+netcn | n | network | as a proper noun, this is the internet
+netyk | ad | online | 
 nevr | ad | never | 
 nidn | v | to need | 
 nir | ad | near / nearby | 
@@ -717,6 +732,7 @@ panz | n | belly |
 papa | n | dad | 
 papin | n | daddy | 
 park | n | park | 
+parkletn | v | to serve as an ally, advocate, or comfort | cf Strongs G3875
 part | n | part | 
 parti | n | party (one concerned or interested in an affair, including possibly a group that's unified in interests or purpose) | 
 partn | v | to divide up / to divvy up / to share | 
@@ -771,7 +787,7 @@ postpendn | v | to append / to suffix |
 postpwtn | v | to postpone | 
 poststqndn | v | to succeed, in the sense of coming after | cf *acevn* 'to achieve, to succeed'
 postyk | ad | backward | 
-pqcn | v | to attend / to wait patiently | 
+pqcn | v | to attend to / to wait patiently | cf *kovyztnn* 'to attend'
 pqcnyk | ad | patient / patiently | 
 pqkt | n | agreement / covenant / pact | 
 pqlxt | n | palate | 
@@ -779,6 +795,7 @@ pqns | n | room (available time or place) / space |
 pqsn | v | to pass (by, through, time, an object) | 
 pr | prep | by (through the action of) / by way of / per (ratio) | cf *tr* 'through'
 praj | n | project | 
+prbitn | v | to abide | 
 prc | ad | maybe / perchance / perhaps / possibly | 
 pre | ad, n prep, | ahead / before (in time or space) / fore (the front place) / front | 
 pre- | fix | to do something before | 
@@ -895,6 +912,7 @@ rxnn | v | to run |
 rxportn | v | to report | 
 ryb | n | rib | 
 ryvr | n | river | 
+sabaot | n | hosts (of soldiers) / massive quantity / throng / vast amount | cf Strongs H6635 and G4519
 sabcn | n | knowledge (memorized) | contrast "ken", deep understanding
 sabn | v | to know or perceive a fact or abstract proposition | contrast "kenn", to understand or be familiar with the nature of
 sai | n | parent | hisai and cisai for father and mother
@@ -991,6 +1009,7 @@ stqndn | v | to stand |
 straif | n | contention in anger or enmity | cf *rivalcn* 'competition, rivalry'
 straifn | v | to contend in anger or enmity | cf *rivaln*, 'to compete'
 strat | n | street | 
+strqt | n | social class | cf *klqs* 'class (in school)'
 studn | v | to study | 
 studr | n | student | 
 su | prep | beneath / under | 
@@ -1125,7 +1144,6 @@ verd | ad | green |
 ves | n | ES vez / FR fois / instance / occurence / repetition / times (multiplication) | 
 vi | pronoun | us / we | first person plural
 virn | v | to turn / to veer | 
-visitn | v | to visit | 
 vln | v | to want | 
 void | ad, n | emptiness / empty / gap / vacant | cf *nl* 'nothing'
 vos | n | voice | 
@@ -1155,6 +1173,7 @@ vyz | n | sight / vision (literal sense of perception) | cf *vyzcn*, 'figurative
 vyzcn | n | vision (figurative or imaginative) | cf *vyz*, 'sight'
 vyzn | v | to see | cf *avyzn* 'to view'
 vyzpd | ad | visible | 
+vyztnn | v | to visit | 
 vztr | ad | see-through / transparent | 
 w | pronoun | thee / you | second person singular
 wakn | v | to walk | 
