@@ -2,7 +2,7 @@
 
 lemma | tags | definition | notes
 ----- | ---- | ---------- | -----
--cn | fix | -ness or -tion: convert a verb, adjective, or adverb to a noun that embodies the action or quality (cloudi*ness*) | Not needed for many verbs, because a verb or adjective and a noun obviously associated with the verb or adjective are the same word, like "hammer" is both a noun and a verb in English, and "black" can be used as both an adjective and a noun. However: 'saj' &rarr; 'sajcn' (wise &rarr; wisdom)
+-cn | fix | -ness or -tion or -ship: convert a verb, adjective, adverb, or another noun to a noun that embodies the action, quality, or nature (cloudi*ness*, syncopa*tion*, friend*ship*) | Not needed for many verbs, because a verb or adjective and a noun obviously associated with the verb or adjective are the same word, like "hammer" is both a noun and a verb in English, and "black" can be used as both an adjective and a noun. However: 'saj' --> 'sajcn' (wise --> wisdom)
 -du | fix | imperative mood on a verb | spread = 1
 -edn | n | Eden | 
 -ez | fix | -ify or -ize: convert noun or adverb into verb (weather*ize*) | 
@@ -208,7 +208,7 @@ dyc | n | dish (a receptacle to hold food or drink) |
 dyfr | n | difference | 
 dyfrn | v | to differ | 
 dygnamnyk | ad | faithful / trustworthy | cf *amnyk* 'faith-filled, trusting'
-dygnamnykcn | n | faithfulness / trustworthiness | 
+dygnamnykcn | n | faithfulness / reliability / trustworthiness | cf *emuna*, which has a covenantal and emotional loyalty component
 dygnx | ad | worthy | 
 dygnxcn | n | worthiness | 
 dys- | fix | away / bent, apart, turned / different | 
@@ -234,6 +234,7 @@ ek | ad | e.g. / for example |
 elfys | n | elephant | 
 elo | ad | yellow | 
 elyps | n | an ellipsis with 3 dots, used to show that elided text did not touch or cross a sentence boundary | cf *tolyps*, *kqlyps*
+emuna | n | loyal, steady faithfulness or steadfastness, particularly in a transformative relationship such as a marriage or a covenant | cf Strongs H530; cf *dynamnykcn*, which is similar but implies less loyalty or emotional resonance
 eni | det pronoun | any | 
 enicoz | n | anything | 
 eniri | ad | anywhere | 
@@ -376,6 +377,7 @@ haubi | ad | however (adverb, not conjunction) | cf *sepn* 'however (conj)'
 haugo | ph | How are you? / How's it going? | 
 havn | v | to have | 
 helpn | v | to aid / to assist / to help | 
+hesedn | v | to love (cf *ahebn*) with covenant loyalty, mercy, and kindness. | cf Strongs H2617. This adds to *ahebn* the concept of loyalty, mercy, and tender lovingkindness.
 hi- | fix | male | spread = 1
 hikn | n | mister | 
 hin | n | ES macho / ES varon / male | 
@@ -787,7 +789,7 @@ postpendn | v | to append / to suffix |
 postpwtn | v | to postpone | 
 poststqndn | v | to succeed, in the sense of coming after | cf *acevn* 'to achieve, to succeed'
 postyk | ad | backward | 
-pqcn | v | to attend to / to wait patiently | cf *kovyztnn* 'to attend'
+pqcn | n v, | patience / to attend to / to wait patiently | cf *kovyztnn* 'to attend'
 pqcnyk | ad | patient / patiently | 
 pqkt | n | agreement / covenant / pact | 
 pqlxt | n | palate | 
@@ -849,6 +851,7 @@ punin | v | punish |
 puvida | phrase | Costa Rica: "pura vida" / an upbeat feeling of gratitude and optimism / every little thing gonna be alright / look on the bright side | 
 pwcn | v | to push | 
 pwtn | v | to put | 
+pylr | n | pillar | 
 pynys | n | pinniped / seal | 
 qjitn | v | to agitate / to provoke / to stir up | 
 qkn | v | to act | 
@@ -947,6 +950,7 @@ servys | n | deer |
 setys | n | whale | 
 si | ad det | three | 
 si | iject | yea / yeah / yes | 
+sicwv | n | the three open-quote symbol | written as /---
 sidad | n | city | 
 siel | n | heaven | 
 sielyk | ad | celestial / heavenly | 
@@ -1065,9 +1069,9 @@ tel | n | story / tale |
 teln | v | to tell | 
 temp | n | time | 
 templ | n | temple | 
-temptcn | n | temptation | 
-temptn | v | to tempt | 
 tempyk | ad | on time / timely | 
+temtcn | n | temptation | 
+temtn | v | to tempt | 
 ter | n | countryside / earth (dirt) / ground / land / terrain | 
 tercn | n | territory | 
 tern | v | to land (a plane, a boat) | 
@@ -1245,45 +1249,3 @@ zokyj | n | decade | "The 80s": vokzokyj; "the 1990s": vunposi-nuvzokyj.
 zozo | n | hundred | 
 zozokyj | n | century | 
 zx | det | the | 
-
-    Involve
-    Arrive
-    Continue
-    Discover
-    Discuss
-    Introduce
-    Mention
-    Occur
-    Receive
-    Reflect
-    Replace
-    Return
-    Support
-    Suppose
-    Wonder
-    Develop
-    Express
-    Mention
-    Perform
-    Prevent
-    Protect
-    Refuse
-    Release
-    Remain
-    Remove
-    Respect
-    Respond
-    Result
-    Suggest
-    Surprise
-    Survive
-    Sustain
-    Travel
-    Worry
-
-
-
-
-apl - apple
-frag - frog
-

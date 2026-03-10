@@ -15,7 +15,7 @@ gw | order | name | IPA | notes
 *w* | 3 | *w* | /ʊ/ | vowel sound in English *put*
 *q* | 4 | *q* | /æ/ | vowel sound in English *cat*
 *e* | 5 | *e* | /ɛ/ | vowel sound in Spanish *es*, similar to vowel in English *met* &mdash; not the diphthong in English *raid*
-*y* | 6 | *y* | /I/ | vowel sound in English *kit*
+*y* | 6 | *y* | /ɪ/ | vowel sound in English *kit*
 *i* | 7 | *i* | /i/ | vowel sound in English *need* or Spanish *mi*
 *o* | 8 | *o* | /o/ | vowel sound in Spanish "color" &mdash; doesn't decay to /u/ like the vowel in English *go*
 *u* | 9 | *u* | /u/ | vowel sound in English *new* or Spanish *su*
@@ -52,19 +52,19 @@ Two vowels can occur next to each other in a word. Sometimes, vowel digraphs rep
 
 vowel digraph | analysis
 --- | ---
-two instances of the same vowel | two syllables
+two instances of the same vowel | two syllables (pronounced with a glottal stop or slight pause between them, similar to "Hawai'i")
 *ai*, *au* | diphthong
 *ei* | diphthong
 *ia*, *io* | diphthong
 *uy*, *ua*, *uw*, *ue*, *ui* | diphthong
 all others | two syllables
 
-If a vowel digraph that would normally render a diphthong needs to be rendered as two syllables, an apostrophe is used to separate the two vowels.
+If a vowel digraph that would normally render a diphthong needs to be rendered as two syllables, an apostrophe is used to separate the two vowels. For example, *haif* is a single syllable (the diphthong /ai/), while *ha'if* would be two syllables (/ha.ɪf/).
 
 ## fim
 Kila uses the capital letters A-Z in both written and spoken language. However, it considers them part of a different alphabet called the *fim*. A symbol in this set is called a *fi*. Fis are used not to *spell* words, but to *replace*, *suggest*, *reference* or *abbreviate* words. They are typically [used in acronyms, abbreviations](writing.md#acronyms-and-abbreviations), and symbolic/mathematical notation.
 
-Each symbol in the fim has a corresponding letter in the gwm (*A* &rarr; *a*, *B* &rarr; *b*, and so forth). The corresponding item in the opposite alphabet is called the *jum* 'twin'. The fim gets its name from the fact that the names of its symbols are formed by adding /f/ to the vowel sound in the name of the jum gw from the gwm:
+Each symbol in the fim has a corresponding letter in the gwm (*A* &rarr; *a*, *B* &rarr; *b*, and so forth). The corresponding item in the opposite alphabet is called the *jum* 'twin'. The fim gets its name from the fact that the names of its symbols are formed by inserting /f/ adjacent to the vowel in the jum gw name: if the gw name begins with a vowel (*a*, *em*), /f/ precedes the vowel (*fa*, *fem*); if it begins with a consonant (*bi*, *pa*), /f/ follows the vowel (*bif*, *paf*):
 
 fim | order | jum gw name | name
 --- | --- | --- | ---
@@ -79,8 +79,10 @@ fim | order | jum gw name | name
 A fi often (but not always) gets its meaning from jum correspondence. For example, if two friends are talking or writing about a third person named *meri-qn* 'Mary Anne', that they both know well and recognize from context, they may simply refer to this person verbally as /fem/, or in written form as *M* (read aloud as /fem/ again). Both will understand that the person they're referring to is someone whose name begins with the jum of *M*, which is *m* &mdash; and connect that mentally with *meri-qn*.
 
 ## kqm
-Any script that is written with accepts or a non-latin script, or that mixes upper- and lower-case ASCII in a way that kila would not, is categorized as *kqm* and is processed as unicode. See [foreign text](writing.md#foreign-text) and [borrowing and transliteration](borrowing.md).
+Any script that is written with a non-latin script, or that mixes upper- and lower-case ASCII in a way that kila would not, is categorized as *kqm* and is processed as unicode. See [foreign text](writing.md#foreign-text) and [borrowing and transliteration](borrowing.md).
 
 ## Sort order
-Kila sorts whitespace characters first (and within whitespace, in byte order), then digits, then fim, then gwm in the order shown, then kqm, then every other byte of text in byte order.
+Kila sorts whitespace characters first (and within whitespace, in byte order), then digits, then fim, then gwm in the order shown, then kqm, then every other byte of text in byte order. Note that this means fim (*A*, *B*, etc.) sorts before gwm (*a*, *b*, etc.). This matches ASCII sort order where uppercase precedes lowercase.
+
+When kila text is said to be sorted "lexically" or "lexicographically", this refers to alphabetical ordering according to kila's alphabet ordering defined here, not standard ASCII byte order.
 
