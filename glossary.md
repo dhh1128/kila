@@ -768,6 +768,7 @@ plu- | fix | -er (comparative enhancer, more, as in bigg*er*) | cf *pli-* '-est'
 plubon | ad | better | 
 plumal | ad | worse | 
 plxto | n | plateau | 
+po- | fix | prefix combining with digit words to create power-of-ten markers for large numbers (*po* + *si* = *posi* 'thousand', *po* + *cei* = *pocei* 'million') | 
 pocei | n | million | 
 poceikyj | n | a million years | 
 pod | n | power | 

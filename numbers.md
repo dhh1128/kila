@@ -38,6 +38,18 @@ Negative numbers are preceded by the prefix *hi-*. Thus, -4816 would be *hikqpos
 Ordinals are constructed by adding the suffix *-xm* to the number. This rule is completely regular. Thus, the translation of English 'first' or '1st' could be written as *1xm* or (less commonly) *unxm* in kila.
 
 Words for groups of a given size are built with numbers plus the suffix *-mqn*. This is analogous to the French pattern of adding *-aine* to a number: *ventaine* is a group of 20, *centaine* is a group of 100, and *douzaine* is a group of 12 &mdash; compare English *dozen*). The kila word *untomqn* means 'dozen'.
+## Decimals
 
+Decimal numbers are written using a period, as in English: *3.14*. When spoken, the decimal point is pronounced as *ko* (the word for 'with'), and the digits after the decimal are spoken as individual digit words. Thus *3.14* is pronounced *si ko un kq*.
+
+## Fractions
+
+Fractions are written using the slash notation, as in English: *5/6*. When spoken, fractions follow the pattern numerator-*dx*-ordinal, where *dx* means 'from/of'. The ordinal (*-xm* suffix) converts the denominator into its ordinal form, which also serves as the fractional unit ('sixth', 'eighth', etc.). Thus *5/6* is pronounced *fai dx ceixm* (literally, 'five from sixth').
+
+## Digit Sequences
+
+When numbers function as codes rather than quantities — such as phone numbers, social security numbers, street addresses, or identification codes — they are pronounced as pure digit sequences without the *-po* power-of-ten system. For example, 007 as a code would be pronounced *zo zo sxt*, not as the number seven.
+
+## Script
 A python script, [saynum.py](saynum.py), is available. Given any number, it generates the corresponding kila syllables.
 
