@@ -1,7 +1,7 @@
 # Poetry
 Alliteration and end rhyme are common. Onomatopeia is prized. Hebraic parallelism and chaismus are also standard techniques.
 
-Word order becomes more free. Instead of SVO, any order that is convenient for the rhythm and rhyme is allowed. Also, inflecting verb suffixes can be reordered for rhyme, or turned into hyphenated prefixes (gody &rarr; dy-go). However, pronouns or other techniques may be needed to make the meaning clear if word order changes. Creating consistent, custom word-order patterns is a form of syntactic rhyme and is considered artistic.
+Word order becomes more free. Instead of SVO, any order that is convenient for the rhythm and rhyme is allowed. Also, inflecting verb suffixes can be reordered for rhyme, or turned into hyphenated prefixes (*gody* &rarr; *dy-go*). However, pronouns or other techniques may be needed to make the meaning clear if word order changes. Creating consistent, custom word-order patterns is a form of syntactic rhyme and is considered artistic.
 
 Syllable boundaries can be slightly shifted in poetry, collapsing syllabic consonants to compress, or making a consonant syllabic to expand.
 

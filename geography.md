@@ -2,20 +2,20 @@
 
 en | kila
 --- | ---
-canyon | kanixn
-coast | kost
-desert | desrt
-hill | kolin
-jungle | djxngl
-lake | lak
-mountain | montn
-ocean | ocn
-plateau | plxto
-prairie | preri
-river | ryvr
-sea | mar
-swamp | morqs
-valley | vql
+canyon | *kanixn*
+coast | *kost*
+desert | *desrt*
+hill | *kolin*
+jungle | *djxngl*
+lake | *lak*
+mountain | *montn*
+ocean | *ocn*
+plateau | *plxto*
+prairie | *preri*
+river | *ryvr*
+sea | *mar*
+swamp | *morqs*
+valley | *vql*
 
 5. **Gorge**
 6. **Cliff**

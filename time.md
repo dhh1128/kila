@@ -2,19 +2,19 @@
 
 unit | word
 --- | ---
-time | temp
-instant, moment | sypl
-second | mqgza
-minute | zaln
-hour | naij
-day | ju
-week | sxtm
-month | omxk
-year | kyj
-decade | zokyj
-century | zozokyj
-millennium | posikyj
-million years | poceikyj
-age | eij
-era | era
-eon | eon
+time | *temp*
+instant, moment | *sypl*
+second | *mqgza*
+minute | *zaln*
+hour | *naij*
+day | *ju*
+week | *sxtm*
+month | *omxk*
+year | *kyj*
+decade | *zokyj*
+century | *zozokyj*
+millennium | *posikyj*
+million years | *poceikyj*
+age | *eij*
+era | *era*
+eon | *eon*
