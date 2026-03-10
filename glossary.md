@@ -2,7 +2,7 @@
 
 lemma | tags | definition | notes
 ----- | ---- | ---------- | -----
--cn | fix | -ness or -tion or -ship: convert a verb, adjective, adverb, or another noun to a noun that embodies the action, quality, or nature (cloudi*ness*, syncopa*tion*, friend*ship*) | Not needed for many verbs, because a verb or adjective and a noun obviously associated with the verb or adjective are the same word, like "hammer" is both a noun and a verb in English, and "black" can be used as both an adjective and a noun. However: 'saj' --> 'sajcn' (wise --> wisdom)
+-cn | fix | -ness or -tion or -ship: convert a verb, adjective, adverb, or another noun to a noun that embodies the action, quality, or nature (cloudi*ness*, syncopa*tion*, friend*ship*) | Not needed for many verbs, because a verb or adjective and a noun obviously associated with the verb or adjective are the same word, like "hammer" is both a noun and a verb in English, and "black" can be used as both an adjective and a noun. However: *saj* --> *sajcn* 'wise' --> 'wisdom'
 -du | fix | imperative mood on a verb | spread = 1
 -edn | n | Eden | 
 -ez | fix | -ify or -ize: convert noun or adverb into verb (weather*ize*) | 
@@ -11,7 +11,7 @@ lemma | tags | definition | notes
 -i | fix | -ee: convert verb into one receiving action (induct*ee*) | 
 -im | fix | convert a noun (especially of people or animals) into a group | 
 -mekr | fix | -maker: convert noun into one who makes it (trouble*maker*) | 
--mqn | fix | FR *-aine*: convert a number to a group of that size / cardinality | cf doz*en*
+-mqn | fix | FR *-aine*: convert a number to a group of that size / cardinality | cf dozen
 -n | fix | infinitive or past participle on a verb | spread = 1
 -pd | fix | -able or -ible: admitting the possibility of what's inflected | 
 -r | fix | -or or -er: convert a verb to the party who performs the verb (sail*or*) | 
@@ -20,7 +20,7 @@ lemma | tags | definition | notes
 -vw | fix | conditional or subjunctive mood on a verb | spread = 4
 -vy | fix | future tense on a verb | spread = 1
 -xm | fix | -th or -st: convert a number to an ordinal or denominator (four*th*) | 
--yk | fix | -ful or -ish or -ous: convert noun or verb to its essential characteristic (ridicul*ous*) | 'rwvn' -> 'rwvyk' (dreamy)
+-yk | fix | -ful or -ish or -ous: convert noun or verb to its essential characteristic (ridicul*ous*) | *rwvn* -> *rwvyk* 'dreamy'
 10mxk | n | october | 
 11mxk | n | november | 
 12mxk | n | december | 
@@ -49,7 +49,7 @@ abi | ad | Latin *scilicet*, abbreviated sc. / i.e. / namely / that is / that is
 acevn | v | to achieve / to have success | cf *poststqndn* 'to succeed, in the sense of coming after'
 af | prep | off | 
 aft | ad | often | 
-afys | n | office (a formal role) | cf 'afysri' (the location)
+afys | n | office (a formal role) | cf *afysri* 'the location'
 afysr | n | officer / official | 
 agu | n | water | 
 ahebn | v | to love (a choice and action that is selfless, sacrificial, covenantal, and offering and seeking deep connection) | cf Strongs H157 and G25 (agape); contrast *filian* 'to feel fondness' and *erosn* 'to romance'
@@ -94,7 +94,7 @@ avai | prep | above |
 avzyn | v | to view | 
 baks | n | box | 
 bed | n | bed | 
-bern | v | to bear (a burden) | cf nasn, to bear a child
+bern | v | to bear (a burden) | cf *nasn* 'to bear a child'
 bicn | n | being | 
 biholdn | v | to behold (observe with wonder and awe) | This verb translates scriptural "behold" when wonder and awe are the focus of the experience. cf *ken*, which can translate 'behold' when meditation and understanding are the focus.
 bikxmn | v | to become | 
@@ -142,9 +142,9 @@ cqst | ad | chaste, morally pure |
 cqstcn | n | chastity | 
 cucn | v | to whisper | cf FR *chuchoter*, ES *susurar*
 cudr | n | shoulder | 
-cwbn | v | to reverse course / to turn back | similar to retrnn, but this verb doesn't imply completion or arrival at an original position -- merely a change of direction. See Strong's 7725
+cwbn | v | to reverse course / to turn back | similar to *retrnn*, but this verb doesn't imply completion or arrival at an original position -- merely a change of direction. See Strong's 7725
 cwdn | v | to have good reason ("ought", "should") | 
-cwv | n | the open-quote symbol ∕- | cf vwc
+cwv | n | the open-quote symbol ∕- | cf *vwc*
 cwvn | v | to cite / to quote | 
 cwz | n | choice | 
 cwzn | v | to choose | 
@@ -192,9 +192,9 @@ dormn | v | to sleep |
 dqmyjn | v | to damage | 
 dr | conj prep | as (at point in time) / during / while | cf *kwa* 'as'
 drain | v | to dry | 
-drec | ad | right (-hand side, -ward) | cf nist
+drec | ad | right (-hand side, -ward) | cf *nist*
 drit | ad | straight | 
-dritalman | v | to repent | cf repensn 'to reconsider'
+dritalman | v | to repent | cf *repensn* 'to reconsider'
 dritn | v | to direct / to straighten | 
 drsun | ad | as soon as / immediately upon | followed by a verb phrase: "...he arrives" or by a noun phrase: "...his arrival"
 ducn | v | action / performance / work | 
@@ -234,7 +234,7 @@ ek | ad | e.g. / for example |
 elfys | n | elephant | 
 elo | ad | yellow | 
 elyps | n | an ellipsis with 3 dots, used to show that elided text did not touch or cross a sentence boundary | cf *tolyps*, *kqlyps*
-emuna | n | loyal, steady faithfulness or steadfastness, particularly in a transformative relationship such as a marriage or a covenant | cf Strongs H530; cf *dynamnykcn*, which is similar but implies less loyalty or emotional resonance
+emuna | n | loyal, steady faithfulness or steadfastness, particularly in a transformative relationship such as a marriage or a covenant | cf Strongs H530; cf *dygnamnykcn*, which is similar but implies less loyalty or emotional resonance
 eni | det pronoun | any | 
 enicoz | n | anything | 
 eniri | ad | anywhere | 
@@ -246,7 +246,7 @@ era | n | era |
 erosn | v | to feel sexual attraction and romantic feelings for / to romance | cf *ahebn* 'to love (a selfless choice and action)' and *filian* 'to feel fondness'
 es | ad prep, | forth / out / out of | 
 esdun | v | to bring about / to effect / to perform | 
-esgon | v | FR, ES sortir / to go out / to leave | cf *esgrqdn* to exit
+esgon | v | FR, ES sortir / to go out / to leave | cf *esgrqdn* 'to exit'
 esgrqdn | v | to exit | cf *esgon* 'to leave, to go out'
 esjekn | v | to eject | 
 eskapn | v | to escape | 
@@ -263,7 +263,7 @@ esrsisn | v | to exercise / to go through planned, intentional actions |
 essaid | ad prep | outside | 
 esstqndn | v | to secede | 
 esvyvn | v | to outlive | 
-esxkutn | v | to execute (a person, NOT an order or a plan) | cf sign, to follow an order or plan
+esxkutn | v | to execute (a person, NOT an order or a plan) | cf *sign* 'to follow an order or plan'
 esyk | ad | outer | 
 esyk pqns | n | outer space | 
 ets | ad | and so forth / et cetera / etc. | 
@@ -282,7 +282,7 @@ fi | n | a symbol in the symbolic alphabet (the fim) |
 filian | v | to love (feel fondness, affection, and personal attachment) | cf *ahebn*, which is more of an action and commitment and less of a feeling
 filn | v | to feel | 
 filys | n | cat | 
-fim | n | symbolic alphabet | contrast /gwm/
+fim | n | symbolic alphabet | contrast *gwm*
 fingr | n | finger | 
 firn | v | to fear | 
 fl | ad | full | 
@@ -345,8 +345,8 @@ gr- | fix | ES -ote / augmentive | spread = 3
 gran | ad | great | 
 gratn | v | ES agradar / to gratify / to please | 
 gre | ad | grey | 
-grit | n | greeting | cf *gritcn*, 'formal greeting or greeting ceremony'
-gritcn | n | formal greeting or greeting ceremony / salutation (a showy or flowery greeting) | cf *grit*, 'greeting'
+grit | n | greeting | cf *gritcn* 'formal greeting or greeting ceremony'
+gritcn | n | formal greeting or greeting ceremony / salutation (a showy or flowery greeting) | cf *grit* 'greeting'
 gritn | v | to greet | 
 grleit | ad | later | 
 grocn | n | growth | 
@@ -358,7 +358,7 @@ grqspn | v | to grasp |
 grsun | ad | sooner | 
 gw | n | a letter of the spelling alphabet (the gwm) | 
 gwan | phrase | hooray! | from Jamaican Patwa
-gwm | n | spelling alphabet (lower-case letters) | contrast /fim/
+gwm | n | spelling alphabet (lower-case letters) | contrast *fim*
 gwmcn | n | note | 
 gwmn | v | to spell | 
 gyv | n | gift | 
@@ -396,7 +396,7 @@ hrdn | v | to herd |
 hrdr | n | herder / shepherd | 
 hrdrys | n | a herder's animal (member of a domesticated flock) | 
 hrdys | n | herd animal | 
-hu | pronoun | who (question word, not relative pronoun) | cf *kx*, relative pronoun
+hu | pronoun | who (question word, not relative pronoun) | cf *kx* 'relative pronoun'
 hud | pronoun | whose | 
 hw | iject | "Now" when used as an interjection or coordinating conjunction, introducing a new thought. / ho / lo | 
 hyb | n | brother | 
@@ -406,7 +406,7 @@ hytn | v | to hit |
 i | pronoun | I / me | first person singular
 ia | det | over there / that (when determining a subsequent noun: "that apple") / there / yon / yonder | cf *iat* 'that' (pronoun)
 iagan | v | to afflict / to torment | see Strong's 3013
-iat | pronoun | that | cf *kx* (pronoun introducing relative clause), *ki* 'that' (determiner)
+iat | pronoun | that | cf *kx* 'pronoun introducing relative clause', *ki* 'that' (determiner)'
 id | ad | mine / my | 
 ide | n | idea | 
 idm | ad | equal / same | 
@@ -451,7 +451,7 @@ kaos | n | chaos |
 kasi | ad | about / almost / approximately / nearly | 
 kaus | n | house | 
 kazn | v | to cause | 
-ken | n | comprehension / deep, integrated insight comprising factual knowledge and habituation / mastery | contrast sab, cogro
+ken | n | comprehension / deep, integrated insight comprising factual knowledge and habituation / mastery | contrast *sab*, *cogro*
 kenn | v | to deeply comprehend / to master / to understand | This verb translates scriptural "behold" when pondering and comprehension are the focus. cf *sabn*, *cogron*, and *biholdn*, which can translate 'behold' when wonder and are the focus.
 kerybu | n | caribou / reindeer | 
 ki | det | here / hither / this (when determining a subsequent noun: "this apple") | cf *kit* 'this' (pronoun)
@@ -482,7 +482,7 @@ ko- | fix | EN "co-" / with |
 koc | n | thigh | 
 koco | ad | pregnant / with child | 
 kocon | v | to conceive / to engender / to impregnate / to sire | The English constructs that are unilateral (e.g., a woman conceiving a child, or a man fathering a child) are subsumed by this term, which is a mutual act between a woman and a man. When the verb takes a direct object, it is the child, and when both parents are named, they are a compound subject. Thus, English "she conceived" and "he engendered"both become "i kocody".
-kogron | neologism v, | to become familiar with or adapted to / to know through co-adaptation / ~ES conocer / ~FR connaitre | cf kenn, sabn
+kogron | neologism v, | to become familiar with or adapted to / to know through co-adaptation / ~ES conocer / ~FR connaitre | cf *kenn*, *sabn*
 koidmn | v | to compare (examine for similarities) | collocation is *koidmn ko*; cf *faindidmn*, which implies greater intent to find what is similar
 kokob | n | star | 
 kolidn | v | to collide | 
@@ -493,7 +493,7 @@ kontr | prep | against |
 kontroln | v | to control | 
 kop | n | head | 
 korp | n | body | 
-kospirn | v | to conspire | from *a-* 'to' and *spirn* 'breathe'
+kospirn | v | to conspire | from *ko-* 'with' and *spirn* 'breathe'
 kost | n | coast | 
 kotekn | v | to partake (typically, with others) | 
 kovrsn | n | to converse | 
@@ -521,7 +521,7 @@ krxstys | n | crustacean |
 ku- | fix | by marriage | kusyb is step sibling and kucisai is stepmother
 kuant | n | family (casual usage) / nuclear family | 
 kuantpai | n | patriarch | cf *kuantsai* 'family parent (ungendered patriarch/matriarch)'
-kuantsai | n | ungendered patriarch or matriarch | cf *kuantpai* and *kuantmai*
+kuantsai | n | ungendered patriarch or matriarch | cf *kuantpai* 'patriarch' and *kuantmai* 'matriarch'
 kubrn | v | to cover | 
 kud | n | elbow | 
 kueikn | v | to quake | 
@@ -642,7 +642,7 @@ minn | v | to mean / to signify |
 miser | n | misery / wretchedness | 
 mltxim | n | crowd / multitude | 
 mltxplin | v | to multiply | 
-mn | ad, iject | in truth / of a truth / surely / verily | cf *xmen*, *amn*
+mn | ad, iject | in truth / of a truth / surely / verily | cf *xmen* 'amen', *amn* 'faith'
 mon | ad | least / minimum | 
 montn | n | mountain | 
 morn | n | morning | 
@@ -689,7 +689,7 @@ nir- | fix | EN para- (paralegal, paramedic) / by close or honorary relationship
 nirant | n | a person you live with | 
 nirsaik | n | the posited dimension of mind that is capable of paranormal activities such as ESP, telekinesis, and so forth. | 
 nirsaikr | n | psychic | 
-nist | ad | left (-hand side, -ward) | cf drec
+nist | ad | left (-hand side, -ward) | cf *drec*
 nixn | n | friend | 
 nl | ad n, | nothing / null | cf *void* 'emptiness'
 no | det iject | ES ningún / FR aucun / no / none | 
@@ -883,14 +883,14 @@ rejistcn | n | registry |
 rejistn | v | to record / to register | 
 rekupn | v | to recover (an object, one's health) / to recuperate | 
 remqnn | v | to consign / to remand | 
-repensn | v | to reconsider / to rethink | cf dritalman 'to repent'
+repensn | v | to reconsider / to rethink | cf *dritalman* 'to repent'
 replain | v | to reply | 
 repondn | v | to reply / to respond | 
 repozn | v | to repose / to rest | 
 reskun | v | to rescue | 
 rest | n | remnant | 
 restn | v | to remain | 
-retrnn | v | to return | cf cwbn 'to reverse course, to turn back'
+retrnn | v | to return | cf *cwbn* 'to reverse course, to turn back'
 ri | prep | about / around / concerning / regarding | 
 ridn | v | to read | 
 rin | v | to encompass / to surround | cf *ri* 'around'
@@ -917,13 +917,13 @@ rxportn | v | to report |
 ryb | n | rib | 
 ryvr | n | river | 
 sabaot | n | hosts (of soldiers) / massive quantity / throng / vast amount | cf Strongs H6635 and G4519
-sabcn | n | knowledge (memorized) | contrast "ken", deep understanding
-sabn | v | to know or perceive a fact or abstract proposition | contrast "kenn", to understand or be familiar with the nature of
+sabcn | n | knowledge (memorized) | contrast *ken* 'deep understanding'
+sabn | v | to know or perceive a fact or abstract proposition | contrast *kenn* 'to understand or be familiar with the nature of'
 sai | n | parent | hisai and cisai for father and mother
 said | n | side | 
 saik | n | mind / psyche | 
 saikloji | n | psychology | 
-saikyk | ad | mental / psychic (but not in a pseudo-scientific sense) | cf nirsaik
+saikyk | ad | mental / psychic (but not in a pseudo-scientific sense) | cf *nirsaik*
 sain | n | sign | 
 sainn | v | to sign / to signal | 
 saisyb | n | aunt or uncle | Add hi- or ci- at the front to say what side of the family (father's or mother's side); add it before "syb" to differentiate aunt and uncle: hisaisyb is an aunt/uncle on dad's side; saicisyb is an aunt; hisaicisyb is an aunt on father's side.
@@ -1011,8 +1011,8 @@ stepn | v | to step | n
 stomak | n | stomach | 
 storm | n | storm | 
 stqndn | v | to stand | 
-straif | n | contention in anger or enmity | cf *rivalcn* 'competition, rivalry'
-straifn | v | to contend in anger or enmity | cf *rivaln*, 'to compete'
+straif | n | contention in anger or enmity | cf *raivlcn* 'competition, rivalry'
+straifn | v | to contend in anger or enmity | cf *raivln* 'to compete'
 strat | n | street | 
 strqt | n | social class | cf *klqs* 'class (in school)'
 studn | v | to study | 
@@ -1036,7 +1036,7 @@ susys | n | pig |
 suvn | v | to remember | 
 sxfrn | v | to suffer | 
 sxlut | n | greeting gesture / salute | 
-sxlutn | v | to greet with a gesture / to salute | cf *gritcn*, 'formal greeting or greeting ceremony'
+sxlutn | v | to greet with a gesture / to salute | cf *gritcn* 'formal greeting or greeting ceremony'
 sxm | det | some | 
 sxmant | n | someone | 
 sxmcoz | n | something | 
@@ -1076,7 +1076,7 @@ temtn | v | to tempt |
 ter | n | countryside / earth (dirt) / ground / land / terrain | 
 tercn | n | territory | 
 tern | v | to land (a plane, a boat) | 
-testxmnt | n | will (legal document distributing assets at death) | cf *vyl*, 'mental determination'. cf *zoig*, 'testament, testimony'
+testxmnt | n | will (legal document distributing assets at death) | cf *vyl* 'mental determination', *zoig* 'testament, testimony'
 tetc | n | technology | 
 tip | n | category / manner / prototype / type | 
 titcn | v | to teach | 
@@ -1084,7 +1084,7 @@ titcr | n | teacher |
 titl | n | title | 
 to | ad det | both / two | 
 tocwv | n | the two open-quote symbol | written as /--
-tolyps | n | an ellipsis with 2 dots, used to elide items in a sequence | cf *elyps* , *kqlyps*
+tolyps | n | an ellipsis with 2 dots, used to elide items in a sequence | cf *elyps*, *kqlyps*
 tom | n | tome / volume (book) | 
 toprkyj | ad | semi-annual (two per year) | cf *prtokyj* 'bi-annual (every two years)'
 tortys | n | tortoise | 
@@ -1156,26 +1156,26 @@ vql | n | dale / valley |
 vre | n | right (as in, "correct") / truth | 
 vreyk | ad | true / truthful | 
 vw | pronoun | ye / you | second person plural
-vwc | n | the close-quote symbol -∕ | cf cwv
+vwc | n | the close-quote symbol -∕ | cf *cwv*
 vwd | ad | your (plural possessive) | 
 vx- | fix | plural | spread = 4
 vxant | n | people | 
 vxantstat | n | country / nation | 
 vxco | n | children | 
 vxdank | phrase | thank you / thanks | 
-vxia | det | those (when determining a subsequent noun: "those apples") | cf *vxiat*, 'those' (pronoun)
-vxiat | pronoun | those | cf *vxia*, `those` (determiner)
-vxki | det | these (when determining a subsequent noun: "these apples") | cf *vxkit*, 'these' (pronoun)
+vxia | det | those (when determining a subsequent noun: "those apples") | cf *vxiat* 'those' (pronoun)
+vxiat | pronoun | those | cf *vxia* 'those' (determiner)
+vxki | det | these (when determining a subsequent noun: "these apples") | cf *vxkit* 'these' (pronoun)
 vxkit | pronoun | these (pronoun) | cf *vxki* (determiner)
 vxno | det | either (additional negation) / neither | 
 vxri | ad | here and there / round about | cf *alri* 'all around, everywhere'
-vyl | n | DE Wille ES voluntad FR volonté / will (mental determination) | cf /testxmnt/, legal doc distributing assets at death
+vyl | n | DE Wille ES voluntad FR volonté / will (mental determination) | cf *testxmnt* 'legal doc distributing assets at death'
 vyln | v | to exercise the faculty of mind by which we determine either to do or forbear an action (paraphrase from Websters 1828) | 
 vynd | n | wind | 
 vyv | n | life | 
 vyvn | v | to live (not "to dwell" but rather antonym of "to die") | 
 vyz | n | sight / vision (literal sense of perception) | cf *vyzcn*, 'figurative vision or dream'
-vyzcn | n | vision (figurative or imaginative) | cf *vyz*, 'sight'
+vyzcn | n | vision (figurative or imaginative) | cf *vyz* 'sight'
 vyzn | v | to see | cf *avyzn* 'to view'
 vyzpd | ad | visible | 
 vyztnn | v | to visit | 

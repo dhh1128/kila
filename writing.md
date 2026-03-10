@@ -42,10 +42,10 @@ Nested quotes require an additional hyphen after the cwv and before the vwc: */-
 If and only if what's quoted includes natural punctuation (e.g., it's a quoted question or exclamation, as shown above), the punctuation goes inside the quotes. However, quoted punctuation never finishes the sentence of the quoter, which is why the kila examples above end with a period.
 
 ## Emphasis
-Text is emphasized (italicized) by surrounding it with underscores: e bi \_sobyg\_.
+Text is emphasized (italicized) by surrounding it with underscores: *e bi* \_sobyg\_.
 
 ## Foreign text
-Kila uses foreign words freely, and writes them in their native script ([kqm](alphabets.md#kqm)). If words are obviously kqm, no special markup is needed: *i xbit yn Switzerland*. For extra clarity, the foreign text is surrounded by asterisks: i hav \*déjà vu\*. (The word *déjà* is obviously kqm, but vu is not.) 
+Kila uses foreign words freely, and writes them in their native script ([kqm](alphabets.md#kqm)). If words are obviously kqm, no special markup is needed: *i xbit yn Switzerland*. For extra clarity, the foreign text is surrounded by asterisks: *i hav \*déjà vu\**. (The word *déjà* is obviously kqm, but *vu* is not.) 
 
 Foreign proper nouns that use mixed case or non-Latin scripts (like *McDonald's* or *Москва*) are kqm, but they can also be transliterated into gwm when desired (e.g., *makdonaldz*, *moskva*). 
 

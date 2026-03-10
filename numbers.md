@@ -19,7 +19,7 @@ digit | word
 8 | *ok*
 9 | *nuv*
 
-The sequence of digits in the number 24 is the digit 2 followed by the digit 4 &mdash; so the number word for 24 in kila is *tokq* (the word for *two* followed by the word for *four*). Similarly, the word for 100 in kila is *unzozo*.
+The sequence of digits in the number 24 is the digit 2 followed by the digit 4 &mdash; so the number word for 24 in kila is *tokq* (the word for 'two' followed by the word for 'four'). Similarly, the word for 100 in kila is *unzozo*.
 
 Numbers are virtually always written with actual digits in kila text. However, they can be spelled as words, and whichever form they take, they are pronounced the same way. *100* and *unzozo* sound the same when read aloud.
 
@@ -37,7 +37,7 @@ Negative numbers are preceded by the prefix *hi-*. Thus, -4816 would be *hikqpos
 
 Ordinals are constructed by adding the suffix *-xm* to the number. This rule is completely regular. Thus, the translation of English 'first' or '1st' could be written as *1xm* or (less commonly) *unxm* in kila.
 
-Words for groups of a given size are built with numbers plus the suffix *-mqn*. This is analogous to the French pattern of adding *-aine* to a number: *ventaine* is a group of 20, *centaine* is a group of 100, and *douzaine* is a group of 12 &mdash; compare English *dozen*). The kila word *untomqn* means 'dozen'.
+Words for groups of a given size are built with numbers plus the suffix *-mqn*. This is analogous to the French pattern of adding *-aine* to a number: *ventaine* is a group of 20, *centaine* is a group of 100, and *douzaine* is a group of 12 &mdash; compare English 'dozen'). The kila word *untomqn* means 'dozen'.
 ## Decimals
 
 Decimal numbers are written using a period, as in English: *3.14*. When spoken, the decimal point is pronounced as *ko* (the word for 'with'), and the digits after the decimal are spoken as individual digit words. Thus *3.14* is pronounced *si ko un kq*.
