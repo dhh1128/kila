@@ -1,5 +1,11 @@
 # Numbers
 
+**Scope**: Number system (base-10), digit words, ordinals, fractions, counting principles
+
+**Related files**: glossary.md (number lemmas), morphology.md (-mqn, -xm affixes)
+
+---
+
 Kila is strongly base-10 oriented, and its numbering system is easy to learn because it is so predictable.
 
 English has number words for the digits zero through nine, but it also has number words that are less directly tied to digits, like "ten", and "eleven". Kila, on the other hand, always models number words as sequences of one to three digit words.

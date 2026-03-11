@@ -1,5 +1,11 @@
 # Alphabets
 
+**Scope**: Writing systems (gwm), phoneme inventory, IPA correspondences, romanization, letter names
+
+**Related files**: writing.md (conventions), prosody.md (phonology), phonotactics.yaml (patterns)
+
+---
+
 ## gwm
 
 Kila's normal alphabet (the one it uses to spell words) is called the *gwm*, and a letter in this alphabet is called a *gw*.

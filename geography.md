@@ -1,5 +1,11 @@
 # Geography
 
+**Scope**: Geographic vocabulary, landforms, place-related terminology, topographical terms
+
+**Related files**: glossary.md (geographic lemmas)
+
+---
+
 en | kila
 --- | ---
 canyon | *kanixn*

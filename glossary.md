@@ -1,5 +1,11 @@
 # Glossary
 
+**Scope**: Master lexicon (1200+ words), four-column table format: lemma | tags | definition | notes
+
+**Related files**: morphology.md (affixes), borrowing.md (etymology), all domain vocabulary files
+
+---
+
 lemma | tags | definition | notes
 ----- | ---- | ---------- | -----
 -cn | fix | -ness or -tion or -ship: convert a verb, adjective, adverb, or another noun to a noun that embodies the action, quality, or nature (cloudi*ness*, syncopa*tion*, friend*ship*) | Not needed for many verbs, because a verb or adjective and a noun obviously associated with the verb or adjective are the same word, like "hammer" is both a noun and a verb in English, and "black" can be used as both an adjective and a noun. However: *saj* --> *sajcn* 'wise' --> 'wisdom'

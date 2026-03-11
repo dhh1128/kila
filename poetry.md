@@ -1,4 +1,11 @@
 # Poetry
+
+**Scope**: Poetic forms, meter, rhyme schemes, stress manipulation, word order flexibility, artistic conventions
+
+**Related files**: prosody.md (normal stress rules), writing.md (orthography)
+
+---
+
 Alliteration and end rhyme are common. Onomatopoeia is prized. Hebraic parallelism and chiasmus are also standard techniques.
 
 Word order becomes more free. Instead of SVO, any order that is convenient for the rhythm and rhyme is allowed. Also, inflecting verb suffixes can be reordered for rhyme, or turned into hyphenated prefixes (*gody* &rarr; *dy-go*). However, pronouns or other techniques may be needed to make the meaning clear if word order changes. Creating consistent, custom word-order patterns is a form of syntactic rhyme and is considered artistic.

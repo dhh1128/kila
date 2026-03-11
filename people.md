@@ -1,5 +1,11 @@
 # People
 
+**Scope**: Kinship terms, social roles, gender marking, family relationships, compositional principles
+
+**Related files**: honorifics.md (address forms), glossary.md (people terms), morphology.md (gender prefixes)
+
+---
+
 Most people words have a form that doesn't imply any gender, which can then be combined with a *hi-* or *ci-* prefix to make an explicit gender claim. The core family terms for mother, father, brother, and sister (*mai*, *pai*, *hyb*, *cyb*) each combine the gender prefix with the root in a single syllable. These single-syllable gendered forms can appear as components in longer compound words, mixing gendered and neutral elements as needed. People who are well known to a speaker tend to be described with the short form.
 
 ## Compositional Principles

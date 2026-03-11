@@ -1,5 +1,11 @@
 # Borrowing and transliteration
 
+**Scope**: Etymology, loanword adaptation, transliteration rules, foreign script handling, phonological adaptation
+
+**Related files**: alphabets.md (kqm script), phonotactics.yaml (constraints), morphology.md (inflection)
+
+---
+
 When a word or phrase is borrowed into kila, it can be written two ways: in its native script, or in kila.
 
 If the borrowing is written in its native script ([kqm](alphabets.md#kqm)), it is called a *kqmcn*. A *kqmcn's* foreignness may be obvious because of accents, capitalization, or spelling that clearly violates kila norms. In this case, it is usually written directly, without any special notation: *i hqdygx aft déjà vu* 'I often used to have déjà vu'. However, in contexts where a kqmcn could be misinterpreted as kila, it is delimited with asterisks and is called an *eskqmcn*: *yz vu vyzdy ki \*meme\*?* 'Did you see this meme?' In documents, asterisks are often used only once per *kqmcn* &mdash; the first time the *kqmcn* appears. In rare cases, *kqmcn* can be inflected according to their native rules: *id \*laptops\* bi brekn* 'my laptops are broken'. More commonly, *kqmcn* are inflected by kila rules, in which case they are written with asterisks around the base form but not the inflections: *id vx\*laptop\* bi brekn* 'my laptops are broken'.

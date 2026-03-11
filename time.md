@@ -1,5 +1,11 @@
 # Time
 
+**Scope**: Temporal expressions, time units, calendrical systems, temporal vocabulary
+
+**Related files**: glossary.md (temporal terms), morphology.md (tense/aspect affixes)
+
+---
+
 unit | word
 --- | ---
 time | *temp*

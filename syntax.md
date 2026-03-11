@@ -1,5 +1,11 @@
 # Syntax
 
+**Scope**: Word order (SVO), clause structure, negation, questions, passive voice, basic sentence patterns
+
+**Related files**: morphology.md (affixes), prosody.md (stress), glossary.md (lexicon)
+
+---
+
 ## Word order
 Word order is SVO (subject-verb-object). This is approximately the same approach to ordering that's used by English, Mandarin, Russian, Spanish, and Hindi. It's the most common word order in the world's languages. However, kila is far more regular in this choice, whereas most other languages are not. See the [sample dialog from Jane Austen](samples/random/pride-and-prejudice.md) for some examples of English variation and kila consistency.
 

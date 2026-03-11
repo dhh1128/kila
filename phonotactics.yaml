@@ -1,0 +1,955 @@
+# Kila Phonotactics Analysis
+# 
+# Generated from analysis of non-affix words in glossary.md.
+# 
+# Methodology:
+# - Analyzed 1205 non-affix lexical words (excluded affixes marked with -)
+# - Treats m, n, l, r as VOCALIC (syllabic) when they function as syllable nuclei
+# - Recognizes diphthongs per alphabets.md: ai, au, ei, ia, io, uy, ua, uw, ue, ui
+# - Consonant clusters exclude vocalic sonorants
+# - Counts indicate frequency in corpus
+#
+# Use this data when coining new words to ensure phonological naturalness.
+
+metadata:
+  corpus_size: 1205
+  analysis_date: "2026-03-11"
+  excludes_affixes: true
+  treats_mnlr_as_vocalic_when_syllabic: true
+  recognizes_diphthongs: true
+  orthography: gwm  # Phonemic orthography
+
+# Initial consonant clusters (word-initial, 2+ consonants)
+# Excludes vocalic sonorants
+initial_clusters:
+  - cluster: pr
+    count: 32
+  - cluster: gr
+    count: 12
+  - cluster: pl
+    count: 12
+  - cluster: st
+    count: 12
+  - cluster: kr
+    count: 10
+  - cluster: kl
+    count: 6
+  - cluster: tr
+    count: 6
+  - cluster: br
+    count: 5
+  - cluster: dr
+    count: 5
+  - cluster: sp
+    count: 5
+  - cluster: fl
+    count: 4
+  - cluster: gl
+    count: 4
+  - cluster: sl
+    count: 4
+  - cluster: str
+    count: 4
+  - cluster: tc
+    count: 4
+  - cluster: bl
+    count: 3
+  - cluster: fr
+    count: 3
+  - cluster: mlt
+    count: 2
+  - cluster: prn
+    count: 2
+  - cluster: skr
+    count: 2
+  - cluster: spl
+    count: 2
+  - cluster: vr
+    count: 2
+  - cluster: dj
+    count: 1
+  - cluster: grl
+    count: 1
+  - cluster: mrj
+    count: 1
+  - cluster: pd
+    count: 1
+  - cluster: prm
+    count: 1
+  - cluster: sk
+    count: 1
+  - cluster: sm
+    count: 1
+  - cluster: spr
+    count: 1
+  - cluster: vzt
+    count: 1
+
+# Medial consonant clusters (word-internal, 2+ consonants)
+medial_clusters:
+  - cluster: nd
+    count: 22
+  - cluster: nt
+    count: 17
+  - cluster: st
+    count: 12
+  - cluster: sp
+    count: 9
+  - cluster: tc
+    count: 9
+  - cluster: ns
+    count: 9
+  - cluster: rt
+    count: 8
+  - cluster: rd
+    count: 7
+  - cluster: ks
+    count: 7
+  - cluster: gr
+    count: 7
+  - cluster: gn
+    count: 6
+  - cluster: rk
+    count: 5
+  - cluster: nc
+    count: 5
+  - cluster: nk
+    count: 4
+  - cluster: mp
+    count: 4
+  - cluster: pl
+    count: 4
+  - cluster: rs
+    count: 4
+  - cluster: mn
+    count: 3
+  - cluster: ld
+    count: 3
+  - cluster: kl
+    count: 3
+  - cluster: pt
+    count: 3
+  - cluster: bc
+    count: 3
+  - cluster: sr
+    count: 3
+  - cluster: str
+    count: 3
+  - cluster: sk
+    count: 3
+  - cluster: pc
+    count: 3
+  - cluster: mt
+    count: 3
+  - cluster: mr
+    count: 3
+  - cluster: lk
+    count: 3
+  - cluster: cp
+    count: 3
+  - cluster: vc
+    count: 3
+  - cluster: lm
+    count: 2
+  - cluster: pp
+    count: 2
+  - cluster: kc
+    count: 2
+  - cluster: nj
+    count: 2
+  - cluster: stc
+    count: 2
+  - cluster: kr
+    count: 2
+  - cluster: sv
+    count: 2
+  - cluster: spl
+    count: 2
+  - cluster: ng
+    count: 2
+  - cluster: sz
+    count: 2
+  - cluster: nsp
+    count: 2
+  - cluster: dr
+    count: 2
+  - cluster: mc
+    count: 2
+  - cluster: dm
+    count: 2
+  - cluster: tb
+    count: 2
+  - cluster: jc
+    count: 2
+  - cluster: mpr
+    count: 2
+  - cluster: ml
+    count: 2
+  - cluster: jm
+    count: 2
+  - cluster: dc
+    count: 2
+  - cluster: stp
+    count: 2
+  - cluster: pr
+    count: 2
+  - cluster: kt
+    count: 2
+  - cluster: nz
+    count: 2
+  - cluster: lmz
+    count: 1
+  - cluster: lr
+    count: 1
+  - cluster: rmn
+    count: 1
+  - cluster: vz
+    count: 1
+  - cluster: ktr
+    count: 1
+  - cluster: sf
+    count: 1
+  - cluster: vzt
+    count: 1
+  - cluster: lf
+    count: 1
+  - cluster: sd
+    count: 1
+  - cluster: sg
+    count: 1
+  - cluster: sgr
+    count: 1
+  - cluster: sj
+    count: 1
+  - cluster: skl
+    count: 1
+  - cluster: sl
+    count: 1
+  - cluster: smrj
+    count: 1
+  - cluster: ss
+    count: 1
+  - cluster: sst
+    count: 1
+  - cluster: rtc
+    count: 1
+  - cluster: nm
+    count: 1
+  - cluster: ldc
+    count: 1
+  - cluster: ldcn
+    count: 1
+  - cluster: lt
+    count: 1
+  - cluster: lp
+    count: 1
+  - cluster: np
+    count: 1
+  - cluster: ntv
+    count: 1
+  - cluster: ntr
+    count: 1
+  - cluster: ft
+    count: 1
+  - cluster: ntp
+    count: 1
+  - cluster: nts
+    count: 1
+  - cluster: tgr
+    count: 1
+  - cluster: lkr
+    count: 1
+  - cluster: rvl
+    count: 1
+  - cluster: db
+    count: 1
+  - cluster: rnm
+    count: 1
+  - cluster: gz
+    count: 1
+  - cluster: mb
+    count: 1
+  - cluster: rg
+    count: 1
+  - cluster: rkl
+    count: 1
+  - cluster: rtr
+    count: 1
+  - cluster: stst
+    count: 1
+  - cluster: cn
+    count: 1
+  - cluster: ksc
+    count: 1
+  - cluster: vl
+    count: 1
+  - cluster: nsr
+    count: 1
+  - cluster: skc
+    count: 1
+  - cluster: vr
+    count: 1
+  - cluster: tf
+    count: 1
+  - cluster: tg
+    count: 1
+  - cluster: lv
+    count: 1
+  - cluster: nkf
+    count: 1
+  - cluster: nkt
+    count: 1
+  - cluster: rv
+    count: 1
+  - cluster: gj
+    count: 1
+  - cluster: mrj
+    count: 1
+  - cluster: mtc
+    count: 1
+  - cluster: rc
+    count: 1
+  - cluster: tl
+    count: 1
+  - cluster: rdr
+    count: 1
+  - cluster: ndr
+    count: 1
+  - cluster: ntst
+    count: 1
+  - cluster: zc
+    count: 1
+  - cluster: rl
+    count: 1
+  - cluster: bj
+    count: 1
+  - cluster: br
+    count: 1
+  - cluster: fl
+    count: 1
+  - cluster: pv
+    count: 1
+  - cluster: nfl
+    count: 1
+  - cluster: ngr
+    count: 1
+  - cluster: nkl
+    count: 1
+  - cluster: nv
+    count: 1
+
+# Final consonant clusters (word-final, 2+ consonants)  
+final_clusters:
+  - cluster: rn
+    count: 23
+  - cluster: st
+    count: 19
+  - cluster: mn
+    count: 17
+  - cluster: nt
+    count: 15
+  - cluster: nn
+    count: 14
+  - cluster: ln
+    count: 13
+  - cluster: rd
+    count: 5
+  - cluster: tc
+    count: 5
+  - cluster: ks
+    count: 4
+  - cluster: nj
+    count: 4
+  - cluster: ld
+    count: 4
+  - cluster: rk
+    count: 4
+  - cluster: rt
+    count: 4
+  - cluster: frn
+    count: 3
+  - cluster: ps
+    count: 3
+  - cluster: mr
+    count: 3
+  - cluster: ns
+    count: 3
+  - cluster: rnn
+    count: 3
+  - cluster: nd
+    count: 3
+  - cluster: lm
+    count: 3
+  - cluster: rm
+    count: 2
+  - cluster: rmn
+    count: 2
+  - cluster: nk
+    count: 2
+  - cluster: zpd
+    count: 2
+  - cluster: dmn
+    count: 2
+  - cluster: vrn
+    count: 2
+  - cluster: mp
+    count: 2
+  - cluster: ztnn
+    count: 2
+  - cluster: brn
+    count: 2
+  - cluster: ng
+    count: 2
+  - cluster: nr
+    count: 2
+  - cluster: vln
+    count: 2
+  - cluster: trnn
+    count: 2
+  - cluster: ft
+    count: 1
+  - cluster: lmz
+    count: 1
+  - cluster: mnn
+    count: 1
+  - cluster: rb
+    count: 1
+  - cluster: rmr
+    count: 1
+  - cluster: dln
+    count: 1
+  - cluster: ntrn
+    count: 1
+  - cluster: sprn
+    count: 1
+  - cluster: ts
+    count: 1
+  - cluster: frm
+    count: 1
+  - cluster: strn
+    count: 1
+  - cluster: rg
+    count: 1
+  - cluster: drn
+    count: 1
+  - cluster: rc
+    count: 1
+  - cluster: rp
+    count: 1
+  - cluster: pt
+    count: 1
+  - cluster: nks
+    count: 1
+  - cluster: lrnn
+    count: 1
+  - cluster: lk
+    count: 1
+  - cluster: rvln
+    count: 1
+  - cluster: nl
+    count: 1
+  - cluster: nrn
+    count: 1
+  - cluster: nz
+    count: 1
+  - cluster: sk
+    count: 1
+  - cluster: pln
+    count: 1
+  - cluster: kt
+    count: 1
+  - cluster: klrn
+    count: 1
+  - cluster: blm
+    count: 1
+  - cluster: lr
+    count: 1
+  - cluster: nsrn
+    count: 1
+  - cluster: nkt
+    count: 1
+  - cluster: jln
+    count: 1
+  - cluster: bln
+    count: 1
+  - cluster: mnt
+    count: 1
+  - cluster: ndrn
+    count: 1
+
+# Vowel/nucleus sequences (2+ adjacent vowels/vocalic sonorants)
+vowel_sequences:
+  - sequence: ai
+    count: 56
+  - sequence: ei
+    count: 28
+  - sequence: ua
+    count: 19
+  - sequence: au
+    count: 17
+  - sequence: ia
+    count: 9
+  - sequence: ux
+    count: 6
+  - sequence: oi
+    count: 6
+  - sequence: wa
+    count: 5
+  - sequence: ox
+    count: 5
+  - sequence: ue
+    count: 5
+  - sequence: ie
+    count: 4
+  - sequence: iu
+    count: 3
+  - sequence: ix
+    count: 3
+  - sequence: ea
+    count: 2
+  - sequence: iy
+    count: 2
+  - sequence: ao
+    count: 2
+  - sequence: uei
+    count: 2
+  - sequence: uy
+    count: 2
+  - sequence: ey
+    count: 2
+  - sequence: uai
+    count: 2
+  - sequence: xa
+    count: 2
+  - sequence: xia
+    count: 2
+  - sequence: aue
+    count: 1
+  - sequence: xua
+    count: 1
+  - sequence: iue
+    count: 1
+  - sequence: eo
+    count: 1
+  - sequence: io
+    count: 1
+  - sequence: oy
+    count: 1
+  - sequence: wy
+    count: 1
+  - sequence: xi
+    count: 1
+  - sequence: eii
+    count: 1
+  - sequence: ui
+    count: 1
+  - sequence: uo
+    count: 1
+  - sequence: uw
+    count: 1
+
+# Common bigrams (100 most frequent character pairs)
+common_bigrams:
+  - bigram: re
+    count: 63
+  - bigram: tn
+    count: 59
+  - bigram: st
+    count: 59
+  - bigram: ai
+    count: 58
+  - bigram: pr
+    count: 57
+  - bigram: dn
+    count: 54
+  - bigram: yk
+    count: 53
+  - bigram: cn
+    count: 51
+  - bigram: es
+    count: 47
+  - bigram: rn
+    count: 47
+  - bigram: en
+    count: 46
+  - bigram: an
+    count: 45
+  - bigram: nt
+    count: 44
+  - bigram: ys
+    count: 42
+  - bigram: in
+    count: 42
+  - bigram: kn
+    count: 38
+  - bigram: ar
+    count: 37
+  - bigram: yn
+    count: 37
+  - bigram: un
+    count: 36
+  - bigram: sa
+    count: 33
+  - bigram: ei
+    count: 31
+  - bigram: tr
+    count: 31
+  - bigram: ek
+    count: 29
+  - bigram: nd
+    count: 29
+  - bigram: si
+    count: 29
+  - bigram: ir
+    count: 28
+  - bigram: on
+    count: 28
+  - bigram: it
+    count: 28
+  - bigram: mn
+    count: 27
+  - bigram: le
+    count: 27
+  - bigram: pl
+    count: 27
+  - bigram: ri
+    count: 26
+  - bigram: id
+    count: 26
+  - bigram: ly
+    count: 26
+  - bigram: ra
+    count: 26
+  - bigram: or
+    count: 26
+  - bigram: gr
+    count: 26
+  - bigram: ku
+    count: 26
+  - bigram: xk
+    count: 25
+  - bigram: ko
+    count: 25
+  - bigram: po
+    count: 25
+  - bigram: al
+    count: 24
+  - bigram: el
+    count: 24
+  - bigram: de
+    count: 24
+  - bigram: rt
+    count: 24
+  - bigram: te
+    count: 24
+  - bigram: ta
+    count: 24
+  - bigram: me
+    count: 24
+  - bigram: nn
+    count: 23
+  - bigram: su
+    count: 23
+  - bigram: er
+    count: 23
+  - bigram: is
+    count: 23
+  - bigram: sn
+    count: 23
+  - bigram: ak
+    count: 22
+  - bigram: kr
+    count: 22
+  - bigram: sp
+    count: 22
+  - bigram: tc
+    count: 22
+  - bigram: ua
+    count: 22
+  - bigram: os
+    count: 22
+  - bigram: ry
+    count: 22
+  - bigram: pa
+    count: 22
+  - bigram: vn
+    count: 21
+  - bigram: ma
+    count: 21
+  - bigram: sy
+    count: 21
+  - bigram: to
+    count: 21
+  - bigram: ju
+    count: 20
+  - bigram: xm
+    count: 20
+  - bigram: vy
+    count: 20
+  - bigram: ln
+    count: 20
+  - bigram: dr
+    count: 20
+  - bigram: lo
+    count: 20
+  - bigram: ka
+    count: 20
+  - bigram: as
+    count: 19
+  - bigram: et
+    count: 19
+  - bigram: ns
+    count: 19
+  - bigram: rd
+    count: 18
+  - bigram: dy
+    count: 18
+  - bigram: au
+    count: 18
+  - bigram: ik
+    count: 18
+  - bigram: lu
+    count: 18
+  - bigram: kl
+    count: 18
+  - bigram: om
+    count: 18
+  - bigram: ed
+    count: 17
+  - bigram: pi
+    count: 17
+  - bigram: li
+    count: 17
+  - bigram: sx
+    count: 17
+  - bigram: mx
+    count: 16
+  - bigram: fy
+    count: 16
+  - bigram: am
+    count: 16
+  - bigram: ty
+    count: 16
+  - bigram: im
+    count: 16
+  - bigram: no
+    count: 16
+  - bigram: ej
+    count: 16
+  - bigram: rq
+    count: 16
+  - bigram: qn
+    count: 16
+  - bigram: sr
+    count: 15
+  - bigram: ni
+    count: 15
+  - bigram: rk
+    count: 15
+  - bigram: ut
+    count: 15
+  - bigram: ro
+    count: 15
+
+# Common trigrams (100 most frequent character triples)
+common_trigrams:
+  - trigram: pre
+    count: 27
+  - trigram: sai
+    count: 18
+  - trigram: ndn
+    count: 18
+  - trigram: mxk
+    count: 14
+  - trigram: ant
+    count: 13
+  - trigram: irn
+    count: 12
+  - trigram: tcn
+    count: 12
+  - trigram: ain
+    count: 12
+  - trigram: ekn
+    count: 11
+  - trigram: nyk
+    count: 10
+  - trigram: est
+    count: 10
+  - trigram: rai
+    count: 10
+  - trigram: grq
+    count: 10
+  - trigram: ort
+    count: 10
+  - trigram: end
+    count: 10
+  - trigram: spi
+    count: 9
+  - trigram: lys
+    count: 9
+  - trigram: str
+    count: 9
+  - trigram: pos
+    count: 9
+  - trigram: uan
+    count: 9
+  - trigram: kyj
+    count: 9
+  - trigram: res
+    count: 9
+  - trigram: ard
+    count: 8
+  - trigram: pir
+    count: 8
+  - trigram: idn
+    count: 8
+  - trigram: ntn
+    count: 8
+  - trigram: itn
+    count: 8
+  - trigram: vyz
+    count: 8
+  - trigram: lei
+    count: 8
+  - trigram: mor
+    count: 8
+  - trigram: ost
+    count: 8
+  - trigram: pen
+    count: 8
+  - trigram: ark
+    count: 7
+  - trigram: ygn
+    count: 7
+  - trigram: fyn
+    count: 7
+  - trigram: nsn
+    count: 7
+  - trigram: rtn
+    count: 7
+  - trigram: rut
+    count: 7
+  - trigram: ist
+    count: 7
+  - trigram: tys
+    count: 7
+  - trigram: unt
+    count: 7
+  - trigram: par
+    count: 7
+  - trigram: syb
+    count: 7
+  - trigram: rep
+    count: 7
+  - trigram: sta
+    count: 7
+  - trigram: sxm
+    count: 7
+  - trigram: amn
+    count: 6
+  - trigram: ank
+    count: 6
+  - trigram: tyk
+    count: 6
+  - trigram: aun
+    count: 6
+  - trigram: ytn
+    count: 6
+  - trigram: ikn
+    count: 6
+  - trigram: rys
+    count: 6
+  - trigram: ent
+    count: 6
+  - trigram: des
+    count: 6
+  - trigram: ynt
+    count: 6
+  - trigram: rit
+    count: 6
+  - trigram: ret
+    count: 6
+  - trigram: etn
+    count: 6
+  - trigram: dyg
+    count: 6
+  - trigram: uvn
+    count: 6
+  - trigram: yvn
+    count: 6
+  - trigram: red
+    count: 6
+  - trigram: lej
+    count: 6
+  - trigram: rnn
+    count: 6
+  - trigram: men
+    count: 6
+  - trigram: ens
+    count: 6
+  - trigram: aik
+    count: 6
+  - trigram: rej
+    count: 6
+  - trigram: tak
+    count: 6
+  - trigram: edn
+    count: 5
+  - trigram: alm
+    count: 5
+  - trigram: anj
+    count: 5
+  - trigram: pwt
+    count: 5
+  - trigram: rdn
+    count: 5
+  - trigram: dyk
+    count: 5
+  - trigram: aid
+    count: 5
+  - trigram: ern
+    count: 5
+  - trigram: akn
+    count: 5
+  - trigram: deb
+    count: 5
+  - trigram: aif
+    count: 5
+  - trigram: ryk
+    count: 5
+  - trigram: ita
+    count: 5
+  - trigram: utn
+    count: 5
+  - trigram: kre
+    count: 5
+  - trigram: syk
+    count: 5
+  - trigram: osi
+    count: 5
+  - trigram: nir
+    count: 5
+  - trigram: rqd
+    count: 5
+  - trigram: qdn
+    count: 5
+  - trigram: esp
+    count: 5
+  - trigram: pla
+    count: 5
+  - trigram: qns
+    count: 5
+  - trigram: vyv
+    count: 5
+  - trigram: esy
+    count: 5
+  - trigram: fai
+    count: 5
+  - trigram: rqs
+    count: 5
+  - trigram: hrd
+    count: 5
+  - trigram: orn
+    count: 5
+  - trigram: ple
+    count: 5

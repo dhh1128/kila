@@ -1,5 +1,11 @@
 # Personal Names
 
+**Scope**: Naming conventions, proper noun handling, haif (hyphen) usage, name structure, transliteration
+
+**Related files**: honorifics.md (titles), writing.md (punctuation), borrowing.md (foreign names)
+
+---
+
 Personal names in kila are marked with haifs (hyphens) to signal their status as proper nouns. Unlike common-language proper nouns (like *-aifl taur-* "Eiffel Tower"), which are surrounded by haifs to delimit their boundaries, personal name components are each preceded by a single haif. This is because personal names are inherently special words that only function as names, not general vocabulary that needs delimiting.
 
 Examples:

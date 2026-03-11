@@ -1,4 +1,13 @@
 # Writing about language
+
+**Scope**: Linguistic notation conventions, glossing standards, transcription methods (IPA), meta-linguistic formatting
+
+**Related files**: alphabets.md (phonemic transcription), glossary.md (gloss examples)
+
+**Note**: This is meta-documentation about how to document Kila, not about Kila itself.
+
+---
+
 When writing in language 1 about the features of language 2, some stylistic conventions can help clarify whether a particular piece of text is L1 or L2, whether it is a gloss or a translation, and whether it is in the language's orthography, or is a phonemic or phonetic transcription.
 
 The following conventions are often used by linguists and lexicographers, and are recommended in such cases:

@@ -30,11 +30,76 @@ When translating, show your work. For non-trivial translations, provide a morphe
 ### Respect the existing design
 Kila draws heavily from Romance languages (French, Spanish, Italian), English, and Hebrew. Sometimes it also pulls in roots from Greek or lesser known languages. It has its own phonological and morphological logic. New coinages should feel like they belong — check `borrowing.md` for conventions on how words enter Kila, and `morphology.md` for how derivation works.
 
+## Word Coining Process
+
+When translation or discussion reveals a lexical gap, follow this structured process to propose new vocabulary:
+
+### 1. Verify the gap
+Before coining a new word, confirm that no suitable word exists:
+- Search `glossary.md` for the concept and related concepts
+- Check for near-synonyms that might serve with additional context
+- Look for derivable forms using existing affixes (see `morphology.md`)
+- Consider whether a phrase or compound construction could work
+
+### 2. Determine etymology
+Select an appropriate source language based on semantic domain:
+- **Theological/spiritual concepts**: Prefer Hebrew roots (research Strong's concordance for semantic nuances)
+- **General vocabulary**: Prefer Latin, Greek, or Romance language (French, Spanish, Italian) roots
+- **Germanic influence**: English or Germanic roots when more fitting
+- **Phonological adaptation**: Apply Kila phonotactics (see below) to adapt foreign roots
+
+### 3. Check phonotactic constraints
+Kila has explicit phonological rules documented in `phonotactics.yaml`, derived from analysis of 1200+ lexical words. New words must:
+- Follow attested syllable structures (CV, CVC, CCVC, etc.)
+- Use phoneme combinations that appear in the existing lexicon
+- Avoid illegal consonant clusters or vowel sequences
+- Maintain stress patterns consistent with prosody.md rules
+
+**Method**: Before proposing a word, consult `phonotactics.yaml` to verify that its syllable patterns, consonant clusters, and bigram/trigram sequences are attested in the corpus.
+
+### 4. Avoid collisions
+Check for existing words and near-homophones:
+- Search glossary for the exact proposed lemma
+- Search for words that differ by only one phoneme
+- Consider homophone implications (words that sound identical)
+- Check that prefixed/suffixed forms don't collide with existing vocabulary
+
+### 5. Propose the word
+Present the proposal in this format:
+
+**Proposed lemma**: *newword*  
+**Tags**: [part of speech]  
+**Definition**: [English gloss(es) separated by ` / `]  
+**Etymology**: [Source language and root, with semantic rationale]  
+**Phonotactic validation**: [Attestation of syllable patterns in existing words]  
+**Collision check**: [Results of homophone/near-match search]  
+**Notes**: [Cross-references, usage guidance, derivation potential]
+
+### 6. Negotiate and refine
+- Present 2-3 alternatives if appropriate
+- Explain tradeoffs between options (semantic precision vs. phonological naturalness, etc.)
+- Respond to Daniel's feedback with revised proposals
+- Be prepared to iterate
+
+### 7. Add to glossary
+Once Daniel approves a coinage:
+1. Add the entry to `glossary.md` in alphabetical order
+2. Follow the four-column table format exactly (lemma | tags | definition | notes)
+3. Use proper formatting conventions (italics for cross-refs, language codes, etc.)
+4. If working in a session with glossary already loaded, reload the updated glossary into context
+5. Confirm the addition was successful
+
+### 8. Document the usage
+In the translation or discussion where the word was needed:
+- Mark it as newly coined (e.g., "newly coined: *word*")
+- Provide a gloss on first use
+- Update any relevant domain vocabulary files (animals.md, etc.) if applicable
+
 ## Repository Structure
 
 ### Grammar and reference files (top level)
-- `grammar.md` — core grammar rules (sentence structure, agreement, etc.)
-- `syntax.md` — word order, clause structure
+- `syntax.md` — word order, clause structure, negation, questions, passive voice
+- `writing-about-language.md` — linguistic notation conventions (meta-documentation)
 - `morphology.md` — word formation, derivation, compounding
 - `prosody.md` — stress, rhythm, intonation
 - `writing.md` — how Kila is written
@@ -46,6 +111,7 @@ Kila draws heavily from Romance languages (French, Spanish, Italian), English, a
 - `borrowing.md` — how words are borrowed from other languages
 - `people.md`, `personal-names.md` — conventions for people and names
 - `animals.md`, `body-parts.md`, `geography.md` — domain vocabulary organized by topic
+- `phonotactics.yaml` — phonological patterns and constraints (syllable structures, consonant clusters, n-grams)
 
 ### The glossary
 `glossary.md` is the master lexicon. It is a markdown table with four columns:
@@ -89,9 +155,9 @@ Not all files need to be loaded for every task. Here's a guide:
 
 | Task | Always load | Load as needed |
 |------|-------------|----------------|
-| Translation | `glossary.md`, `grammar.md`, `syntax.md` | `morphology.md`, relevant domain vocab files, relevant existing translations for consistency |
-| Grammar discussion | `grammar.md`, `morphology.md` | `syntax.md`, `prosody.md` |
-| New vocabulary | `glossary.md`, `borrowing.md`, `morphology.md` | Domain vocab files |
+| Translation | `glossary.md`, `syntax.md` | `morphology.md`, relevant domain vocab files, relevant existing translations for consistency |
+| Grammar discussion | `syntax.md`, `morphology.md` | `prosody.md` |
+| New vocabulary | `glossary.md`, `borrowing.md`, `morphology.md`, `phonotactics.yaml` | Domain vocab files |
 | Poetry/creative | `glossary.md`, `poetry.md`, `prosody.md` | `writing.md` |
 | Drilling/quizzing | `glossary.md` | Whatever grammar topic is being drilled |
 | Writing system | `alphabets.md`, `writing.md` | — |

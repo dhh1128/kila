@@ -1,5 +1,11 @@
 # Animals
 
+**Scope**: Animal vocabulary, taxonomic structure, -ys suffix, species naming conventions
+
+**Related files**: glossary.md (animal terms), morphology.md (productive suffixes)
+
+---
+
 Many animal words have a root that is recognizable from English or latin.
 
 The word for 'animal' in kila is *qnmys*. The suffix *-ys* is very productive with respect to animal words, and is appended to roots that represent generic categories of animals for which specific subcategories are significant. Thus we have:

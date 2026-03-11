@@ -1,5 +1,11 @@
 # Morphology, Inflection, Conjugation
 
+**Scope**: Word formation, derivation, compounding, affixes, decorators, inflection patterns
+
+**Related files**: syntax.md (sentence structure), glossary.md (base forms), borrowing.md (adaptation)
+
+---
+
 ## Decorators
 These are short prefixes on nouns or suffixes on verbs that add extra meaning. They are the main way that inflection happens.
 

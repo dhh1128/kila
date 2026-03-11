@@ -1,5 +1,11 @@
 # Body Parts
 
+**Scope**: Anatomical vocabulary, body part terminology, somatic expressions
+
+**Related files**: glossary.md (body term lemmas)
+
+---
+
 en | kila
 --- | ---
 ankle | *enkl*

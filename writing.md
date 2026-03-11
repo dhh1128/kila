@@ -1,5 +1,11 @@
 # Writing Conventions
 
+**Scope**: Orthographic conventions, punctuation, capitalization, spelling rules, typography
+
+**Related files**: alphabets.md (writing systems), prosody.md (phonology)
+
+---
+
 ## Design Goals
 Kila's writing system is designed to optimize for:
 

@@ -1,4 +1,11 @@
 # Prosody
+
+**Scope**: Stress patterns, rhythm, intonation, syllable structure, phonological processes
+
+**Related files**: alphabets.md (phonemes), phonotactics.yaml (constraints), poetry.md (meter)
+
+---
+
 Kila does not have tones. It does not have long and short forms of sounds, either. However, it does have some conventions about stress and rhythm.
 
 In kila, stress can be used to place explicit emphasis anywhere, and atypical stress is marked with an apostrophe before the emphasized syllable (analogous to bolding or italicizing a word). However, absent special emphasis, stress on syllables is predictable. Rules depend on whether the word appears in a sentence-like context, or in isolation, and on whether it is a content word (noun, verb, adjective, adverb, name, multi-syllable preposition, interjection) or a grammatical word (pronouns, one-syllable preposition, determiner, particle, conjunction):
