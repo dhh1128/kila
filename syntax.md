@@ -6,7 +6,7 @@ Word order is SVO (subject-verb-object). This is approximately the same approach
 Adjectives and adverbs (or phrases that play an adjectival or adverbial role) always come after the noun or verb that they modify, and they are appended in order from least noteworthy to most noteworthy (a subjective judgment of the speaker).
 
     English: slimy green frogs
-    Kila: *fragz slaimi grin fraghaus bryk uait small* (small is what the speaker is emphasizing most, then white next, and brick the least)
+    Kila: *fragz slaimi grin*
 
 Kila uses prepositions, not postpositions.
 
