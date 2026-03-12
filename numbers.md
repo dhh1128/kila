@@ -56,6 +56,15 @@ Fractions are written using the slash notation, as in English: *5/6*. When spoke
 
 When numbers function as codes rather than quantities — such as phone numbers, social security numbers, street addresses, or identification codes — they are pronounced as pure digit sequences without the *-po* power-of-ten system. For example, 007 as a code would be pronounced *zo zo sxt*, not as the number seven.
 
+## Numeric Ranges
+
+Numeric ranges follow the same inclusive/exclusive boundary patterns as time ranges (see [time.md](time.md#time-ranges)). Use *a* for an inclusive start or *post* for an exclusive start, then *aun* for an exclusive end or *aunko* for an inclusive end:
+
+- *a 1 aun 10* — "from 1 to 10" (excludes 10)
+- *a 1 aunko 10* — "from 1 through 10" (includes 10)
+- *post 5 aun 20* — "after 5 until 20" (6-19)
+- *post 5 aunko 20* — "after 5 through 20" (6-20)
+
 ## Script
 A python script, [saynum.py](saynum.py), is available. Given any number, it generates the corresponding kila syllables.
 

@@ -102,7 +102,7 @@ The definite article is *zx* 'the'. Articles are rarely used in kila; when *zx* 
 
 ## Subordinate clauses
 
-Temporal conjunctions: *uen* 'when', *dr* 'while/during', *pre* 'before', *post* 'after', *auen* 'until'
+Temporal conjunctions: *uen* 'when', *dr* 'while/during', *pre* 'before', *post* 'after', *aun* 'until'
 
 Causal: *pask* 'because/since', *donk* 'so/so that/therefore'
 

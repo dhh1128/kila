@@ -8,15 +8,15 @@ Mr. Bennet made no answer.|Bennet-hikn no qnsrdy.
 “You want to tell me, and I have no objection to hearing it.”|/-w vl teln d i, n i hav no xbjekcn a hirn e.-/
 This was invitation enough.|kit bidy ynvit sufi.
 “Why, my dear, you must know, | /-uai, cer-id, u deb sabn,
-Mrs. Long says that Netherfield is taken| Long-cikn se k Netherfield bi tekn
- by a young man of large fortune | pr
- from the north of England; |
- that he came down on Monday |
- in a chaise and four |
- to see the place, |
- and was so much delighted with it, |
- that he agreed with Mr. Morris immediately; |
- that he is to take possession before Michaelmas, |
- and some of his servants |
- are to be in the house |
- by the end of next week.” | 
+Mrs. Long says that Netherfield is taken| Long-cikn se k Netherfield bi d tekn
+ by a young man of large fortune | pr hiom [?young?] dx [?fortune?] gran
+ from the north of England; | dx nord dx England;
+ that he came down on Monday | k e kxmdy daun yn 2ju
+ in a chaise and four | yn chaise ri kq
+ to see the place, | vyzn plas,
+ and was so much delighted with it, | n bidy so gr glqd ri e,
+ that he agreed with Mr. Morris immediately; | k e pqktdy ri Morris-hikn eipqc;
+ that he is to take possession before Michaelmas, | k e bi tekvy [?possession?] pre Michaelmas,
+ and some of his servants | n sxm dx e [?servants?]
+ are to be in the house | bi yn kaus
+ by the end of next week." | pr fyn dx sxtm sig.-/

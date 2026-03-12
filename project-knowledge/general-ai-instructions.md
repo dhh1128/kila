@@ -131,6 +131,49 @@ In the translation or discussion where the word was needed:
 - Derived forms have notes linking back to their base: a verb ending in `-n` typically has a related noun without it.
 - When Daniel makes changes, he uses a Python tool called langkit that's not present in this repo. The format of the glossary is simple enough that you can make direct edits. However, you MUST respect the format so other tooling can continue to use the file.
 
+#### How to Search the Glossary
+
+**CRITICAL**: The glossary has 1200+ entries. When searching for English words, use proper methodology:
+
+1. **Prefer simple text search over regex**: Use `grep_search` with `isRegexp=false` and just the English word
+   - Example: `"query": "young", "isRegexp": false` finds anywhere "young" appears
+   - This searches ALL fields (lemma, tags, definition, notes)
+
+2. **Understanding the format**:
+   - Definition field can have **multiple glosses separated by ` / `**
+   - Example: `dx | prep | from / of / passive particle |` has THREE meanings
+   - Your search word might be the 2nd or 3rd gloss, not first
+   - Notes field also contains English text (cross-references, usage guidance)
+
+3. **Common mistakes to avoid**:
+   - ❌ Regex like `^young \|` or `\| young` — only matches if "young" is first/exact position
+   - ❌ Assuming word isn't there because narrow regex found nothing
+   - ✅ Simple text search: `"young"` finds it anywhere in any field
+   - ✅ Parse results to check which field matched (lemma vs definition vs notes)
+
+4. **When to use tools**:
+   - **If glossary is loaded in context**: Trust your memory, only grep if genuinely uncertain
+   - **If searching for new translation**: Grep with simple text first, examine results
+   - **If checking synonyms**: Look at notes field for `cf *word*` cross-references
+
+5. **Example searches**:
+   ```
+   # GOOD: Simple text, finds "glad / happy"
+   query: "happy", isRegexp: false
+   → Finds: glqd | ad | glad / happy |
+   
+   # GOOD: Finds "before" in multiple positions  
+   query: "before", isRegexp: false
+   → Finds: pre | ad, n prep, | ahead / before (in time...) / front |
+   → Also finds: so- | fix | ... / own (before possessive, as in...) | (in notes)
+   
+   # BAD: Too narrow, misses matches
+   query: "^before \|", isRegexp: true
+   → Finds: Nothing (word is "pre", not "before")
+   ```
+
+**When in doubt, search broadly and parse the results.**
+
 ### Translation corpus
 `samples/skribsankt/` contains translations organized by source text:
 - `bom/` — Book of Mormon chapters
@@ -166,12 +209,248 @@ Not all files need to be loaded for every task. Here's a guide:
 
 When Daniel asks for a translation:
 
-1. **Read the source text carefully.** Identify likely challenges — idioms, concepts that may not map cleanly, theological vocabulary requiring precision. Remember that kila is designed to force precision, so the goal in reading the source text will not simply be to find a theoretically valid translation, but to deeply consider the semantics and ambiguities in the original, and to thoughtfully explore such matters as similar ideas find expression in the target language.
-2. **Produce a draft translation** as a side-by-side markdown table.
-3. **Add a morpheme gloss** for complex or novel constructions, either inline or as footnotes.
-4. **Flag gaps and choices.** If you had to choose between two plausible Kila constructions, say so. If a word was missing from the glossary, propose it explicitly before using it.
-5. **Discuss and refine** with Daniel.
-6. **Update artifacts** — once a translation is finalized, save the translation file and (with permission) update any grammar docs or the glossary that need to reflect new decisions.
+### Pre-Translation Analysis
+
+1. **Read the complete source text** - Understand full context, narrative flow, relationships between clauses
+2. **Identify challenges**:
+   - Complex nested clauses or embedded structures
+   - Tense/aspect patterns (will need `-dy`, `-hq`, `-vy`, etc.)
+   - Theological or domain-specific vocabulary
+   - Idioms or culturally-bound expressions
+   - Proper names requiring transliteration
+3. **Note vocabulary gaps** - Words you don't recall from loaded glossary (verify morphologically first)
+
+### Sentence-by-Sentence Translation
+
+**CRITICAL PROCESS CHECKS** (verify before translating each sentence):
+
+1. **Gender/Number Marking**
+   - CHECK glossary definition notes: Does the word already specify gender/number?
+   - Example: `om | n | man (male human)` → already male, don't add `hi-`
+   - Example: `cico | n | daughter` → already female, don't add `ci-`
+   - Only add `hi-`/`ci-` if base word is gender-neutral
+   - Only add `vx-` if word is singular and needs pluralization
+
+2. **Preposition Selection**
+   - **NEVER assume English prepositions map 1:1 to Kila**
+   - Search glossary for exact Kila preposition meanings
+   - Common mismatches:
+     * "with" (accompaniment) = `ko` NOT `ri` (about/concerning)
+     * "in" (location) = `yn` NOT for temporal "on Monday"
+     * "on" (temporal) - CHECK time.md and existing translations
+   - Verify EVERY preposition against glossary before using
+
+3. **Foreign Words & Proper Nouns**
+   - BEFORE using any non-English word, consult borrowing.md
+   - Foreign words must be marked as `*kqmcn*` (asterisks) OR adapted to gwmcn
+   - Multi-word foreign phrases may need to be borrowed as unit
+   - Example: "chaise and four" might be `*chaise and four*` or adapted together
+   - Proper names use haif notation (see honorifics.md)
+
+4. **Temporal Expressions**
+   - CHECK time.md for how temporal phrases work
+   - Check existing translations for patterns
+   - Example: "one day" → `tel ju` (no preposition needed)
+   - Don't assume "on Monday", "in January" use English preposition structure
+
+5. **Possessives vs Pronouns**
+   - Object pronoun: `e` = he/him/her/it
+   - Possessive adjective: `ed` = his/her/its
+   - Possessive construction: `[thing] dx [possessor]` = "possessor's thing"
+   - Example: "his servants" = `vx[servant] dx ed` NOT `vx[servant] dx e`
+   - Example: "some of his servants" = `sxm dx ed vx[servant]`
+
+For each sentence or clause:
+
+**Step 1: Parse English structure**
+- Identify: Subject, Verb, Object, Modifiers
+- Note: Tense, aspect, mood, voice (active/passive)
+- Map to Kila: SVO order, verb decorators, modifier position
+
+**Step 2: Translate core elements**
+- **Subject**: Look up in loaded glossary
+  - CHECK definition notes for inherent gender/number
+  - Apply `vx-` for plural only if word is singular
+  - Apply `ci-`/`hi-` for gender only if word is gender-neutral
+  - Handle proper names with haif notation
+- **Verb**: Find infinitive form in loaded glossary (ends in `-n`)
+  - Apply tense: `-dy` (past), `-vy` (future)
+  - Apply aspect: `-gx` (ongoing), `-hq` (perfective)
+  - Apply mood: `-du` (imperative), `-vw` (conditional)
+  - Remember: `-n` drops when decorators attach
+- **Object**: Same as subject analysis
+
+**Step 3: Handle modifiers and particles**
+- Adjectives/adverbs: Follow the head (noun/verb) they modify
+- Order adjectives: Most categorical → most subjective/variable
+- **Prepositional phrases**: VERIFY preposition in glossary before using
+  - Search for exact meaning, don't assume English mapping
+- Questions: Add `yz` at start for yes/no, use `hu`/`uat`/`huar` for wh-
+- Negation: Place `no` before what it negates
+
+**Step 4: Check syntax**
+- Is it SVO? ✓
+- Passive construction using `dx` prefix? ✓
+- Relative clauses with `kx`? ✓
+- Indirect objects with `dx` after direct object? ✓
+
+**Step 5: Mark lexical gaps with placeholders**
+- If base form not in loaded glossary → **FIRST check noun-to-verb conversion (see below)**
+- Placeholder format: `[GAP: concept]` or `[?young?]` in output text
+- **DO NOT** coin words during translation pass
+- **DO NOT** guess at possible synonyms unless very certain
+- Coining is a separate, negotiated process (see Word Coining Process above)
+- Daniel may suggest existing synonyms you overlooked
+- Complete the translation with placeholders, resolve gaps afterward
+
+**IMPORTANT: Noun-to-Verb Conversion**
+
+Many verbs can be derived from nouns by adding the infinitive suffix `-n`:
+- Noun: `pqkt` = "agreement"
+- Verb infinitive: `pqktn` = "to agree"  
+- Verb past: `pqktdy` = "agreed" (the `-n` drops when `-dy` attaches)
+
+**Before marking a verb as a gap**:
+1. Check if a related noun exists in glossary
+2. Add `-n` to make infinitive
+3. Apply appropriate decorator (`-dy` past, `-vy` future, etc.)
+4. Remember: `-n` drops when other decorators attach
+
+Examples:
+- `tek` (take) → `tekn` (to take) → `tekdy` (took)
+- If you find noun `X` but need verb "to X", try `Xn` → `Xdy` pattern
+
+### Present Your Translation
+
+Show your work for learning and verification:
+
+```
+English: "the young man came"
+Analysis: 
+  - Subject: "the young man" = definite, singular, masculine
+  - Verb: "came" = past tense
+  - No object
+Kila: *hiom [?young?] kaemdy*
+  - hi-om = masculine-man (from glossary: om = man)
+  - [?young?] = PLACEHOLDER - word not found in glossary
+  - kaemdy = kaemn (to come) + -dy (past)
+```
+
+For routine constructions, gloss is optional. For complex or novel patterns, always show your reasoning.
+
+### Post-Translation Review
+
+**Pass 1: Translation with placeholders**
+1. Verify all words used exist in glossary (grep if uncertain)
+2. Mark ALL gaps with placeholders  
+3. Complete full translation with placeholders in place
+4. Check syntax, decorators, consistency
+
+**Pass 2: Resolve placeholders (with Daniel)**
+1. List all placeholders found
+2. For each gap, Daniel may:
+   - Suggest existing synonym from glossary
+   - Propose borrowing from source language
+   - Begin word coining negotiation (see process above)
+3. Replace placeholders with chosen/coined words
+4. Verify final translation is gap-free
+
+Remember that kila is designed to force precision, so the goal in reading the source text will not simply be to find a theoretically valid translation, but to deeply consider the semantics and ambiguities in the original, and to thoughtfully explore such matters as similar ideas find expression in the target language.
+
+## Analysis Workflow (Reviewing Existing Translations)
+
+When analyzing Kila translations for correctness or gaps:
+
+### Step 1: Apply Morphology First (Use Loaded Context)
+
+Before checking if a word exists, analyze it morphologically:
+
+1. **Identify English inflection** → predict Kila inflection
+   - English past tense "replied" → Kila stem + `-dy`
+   - English "-ing" form → Kila `-gx` (ongoing aspect)
+   - English "will X" → Kila `-vy` (future)
+   
+2. **Strip Kila affixes** to find base form
+   - `replaidy` → `replai` + `-dy`
+   - `havgx` → `hav` + `-gx`
+   - Verb infinitives end in `-n`, which **drops when other decorators attach**
+   - So `vln` (infinitive) becomes `vl` (bare stem) in `vldy` (wanted)
+
+3. **Search your loaded context** for the base form
+   - Glossary has infinitives (`vln`), not bare stems (`vl`)
+   - Glossary has singular nouns, not plurals
+   - **Trust your loaded context** - you have 1200+ words in memory
+
+4. **Only use grep/search tools if**:
+   - You genuinely cannot recall seeing the base form in loaded glossary
+   - You need to verify a construction rule from syntax.md
+   - You're looking for usage examples in sample translations
+
+### Step 2: Analyze Syntax (Refer to Loaded Syntax.md)
+
+Check constructions against loaded rules:
+
+- **Word order**: SVO - does the translation follow this?
+- **Passive voice**: Uses `dx` (contracted to `d`) before verb
+- **Indirect objects**: Marked with `dx` after direct object: `gyvdy buk dx meri` 'gave book to Mary'
+- **Questions**: `yz` for yes/no questions, `hu/uat/huar` etc for wh-questions
+- **Negation**: `no` precedes what it negates
+
+Cite the specific rule when identifying violations.
+
+### Step 3: Identify True Gaps
+
+Only flag as "missing" if:
+- ✅ You applied morphology and found the base form
+- ✅ The base form is not in your loaded glossary context
+- ✅ It's not derivable from existing words + affixes
+
+When proposing coinages, follow the full word coining process.
+
+### Working Efficiently
+
+**Show incremental progress**: Don't run 10 grep commands silently. Present findings as you go.
+
+**Example of good analysis**:
+```
+Analyzing verbs:
+- sedy (said) = sen + -dy ✓ (sen in glossary)
+- replaidy (replied) = replai + -dy → checking glossary... ✓ found replain
+- responddy (responded) = respond + -dy → checking... ✗ NOT FOUND - genuine gap
+
+Checking constructions:
+- "ed cileid sedy" = SVO ✓, but cileid not in glossary - checking if compound...
+```
+
+**Example of bad analysis**:
+```
+[runs 8 grep commands silently]
+[finally reports a list]
+```
+
+**Anti-patterns**:
+- ❌ **HALLUCINATING WORDS** - inventing words not in glossary (e.g., claiming `ait` = person when only `om` exists)
+- ❌ **Coining during translation** - word coining is a separate, negotiated process, not improvisation
+- ❌ **Skipping placeholders** - use `[GAP: concept]` format, don't pretend you have the word
+- ❌ **Redundant decorators** - adding `hi-` to `om` (man (male human)) when gender already specified in definition
+- ❌ **Assuming English prepositions map 1:1** - using `ri` (about/concerning) for "with" when glossary has `ko` (with)
+- ❌ **Ignoring borrowing.md** - writing foreign words like `chaise` without `*asterisks*` or phonetic adaptation
+- ❌ **Not checking possessive forms** - using `e` (he/him) for "his" when glossary has `ed` (his/her/its possessive)
+- ❌ **Applying English temporal syntax** - using `yn` (in) for "on Monday" without checking time.md or existing patterns
+- ❌ Grepping for words you have in loaded context
+- ❌ Searching for inflected forms (`vl`, `replaidy`) instead of base forms (`vln`, `replain`)
+- ❌ Flagging grammatically correct inflections as "missing"
+- ❌ Running tool after tool without reporting progress
+
+**CRITICAL: When unsure if a word exists, VERIFY with grep before using it. Use placeholders for confirmed gaps. NEVER invent words.**
+
+**TRANSLATION VERIFICATION CHECKLIST** (before considering translation complete):
+1. ✅ Checked glossary definition notes for each noun (inherent gender/number markers?)
+2. ✅ Verified EVERY preposition meaning in glossary (not assumed English mapping)
+3. ✅ Consulted borrowing.md for foreign words and marked them properly
+4. ✅ Used possessive forms (`ed`) not object pronouns (`e`) where appropriate
+5. ✅ Checked time.md and existing translations for temporal expression patterns
+6. ✅ Verified noun-to-verb conversions (add `-n` for infinitive from noun)
 
 ## Drilling Workflow
 

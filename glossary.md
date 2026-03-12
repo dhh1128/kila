@@ -1,11 +1,5 @@
 # Glossary
 
-**Scope**: Master lexicon (1200+ words), four-column table format: lemma | tags | definition | notes
-
-**Related files**: morphology.md (affixes), borrowing.md (etymology), all domain vocabulary files
-
----
-
 lemma | tags | definition | notes
 ----- | ---- | ---------- | -----
 -cn | fix | -ness or -tion or -ship: convert a verb, adjective, adverb, or another noun to a noun that embodies the action, quality, or nature (cloudi*ness*, syncopa*tion*, friend*ship*) | Not needed for many verbs, because a verb or adjective and a noun obviously associated with the verb or adjective are the same word, like "hammer" is both a noun and a verb in English, and "black" can be used as both an adjective and a noun. However: *saj* --> *sajcn* 'wise' --> 'wisdom'
@@ -95,7 +89,8 @@ astu | ad | astute / clever / cunning |
 astucn | n | astuteness / cleverness / cunning | 
 asu | prep | below | 
 au | iject | ouch / shoot | 
-auen | prep | until | 
+aun | prep | till / until | In terms of ranges, this is used to reference the first value beyond the included range. If you work *aun* 9 in the morning, you work until 8:59 and at 9, you stop. cf *aunko*, 'until including'
+aunko | prep | through (followed by a value that ends a range but is included in it) / until including | In terms of ranges, this is used to reference the last value of the included range. If you work from Monday *aunko* Friday, you work until Friday is done. cf *aun*, 'until (excluding)'
 avai | prep | above | 
 avzyn | v | to view | 
 baks | n | box | 
@@ -248,6 +243,7 @@ eniuen | ad | anytime |
 enkl | n | ankle | 
 entrn | v | enter | 
 eon | n | eon | 
+epak | n | epoch | 
 era | n | era | 
 erosn | v | to feel sexual attraction and romantic feelings for / to romance | cf *ahebn* 'to love (a selfless choice and action)' and *filian* 'to feel fondness'
 es | ad prep, | forth / out / out of | 
@@ -317,6 +313,7 @@ fyln | v | to fill |
 fyn | n | end | 
 fynmil | n | dinner / evening meal / supper | 
 fynn | v | to end / to finish | 
+fynrn | n | evening | 
 fynspirn | v | to die / to expire | from *fyn* 'end' and *spirn* 'breathe'
 fynyk | ad | at last / final / finally / last / lastly | 
 fytcn | n | fitness | 
@@ -548,6 +545,7 @@ kxfarn | v | to cover and compensate and reconcile and purify and heal | cf Stro
 kxmn | v | to come | 
 kxtn | v | to cut | 
 kyj | n | year | 
+kyju | n | anniversary | 
 kyln | v | to kill / to murder / to slay | 
 lab | n | lip | 
 lak | n | lake | 
@@ -792,6 +790,7 @@ posib | ad | possible |
 posikyj | n | millennium | 
 post | prep | after (in time or space) / behind | 
 post- | fix | to do something after | 
+postju | n | morrow / tomorrow | 
 postpendn | v | to append / to suffix | 
 postpwtn | v | to postpone | 
 poststqndn | v | to succeed, in the sense of coming after | cf *acevn* 'to achieve, to succeed'
@@ -962,7 +961,6 @@ sidad | n | city |
 siel | n | heaven | 
 sielyk | ad | celestial / heavenly | 
 sig | ad | latter / next | 
-sigju | n | morrow / tomorrow | 
 sign | v | to follow (a person, a map, an order, a plan) | 
 sikn | v | to seek | 
 simn | v | to seem | 
@@ -989,6 +987,7 @@ sof | conj | except / unless |
 sofa | n | couch / sofa | 
 solm | ad | solemn | 
 somal | ad | worst | 
+somxk | n | quarter (of a year) | 
 sosin | v | to associate | 
 sovx | ad | abundant / lots / plentiful / plenty / plenty of | cf *gr* 'many, much'
 spad | n | sword | 
@@ -1070,13 +1069,16 @@ tatasai | n | direct-line ancestor | cf *tataknt* 'fuzzy ancestral relation'
 tcim | pronoun | of which / of whom / ~FR "dont" | 
 tcir | n | cheer / cheerfulness | 
 tciryk | ad | cheerful | 
+tcx | iject | the verbal equivalent of a written bullet in a list -- marks a new item in a list | 
 tcyn | n | chin | 
 tekn | v | to take | 
 tel | n | story / tale | 
 teln | v | to tell | 
 temp | n | time | 
 templ | n | temple | 
+tempra | n | season | 
 tempyk | ad | on time / timely | 
+tempzon | n | timezone | 
 temtcn | n | temptation | 
 temtn | v | to tempt | 
 ter | n | countryside / earth (dirt) / ground / land / terrain | 
@@ -1253,6 +1255,7 @@ zo | n | zero |
 zoig | n | testament / testimony / witness (what is asserted) | 
 zoign | v | to assert (solemnly) / to bear witness / to testify | 
 zokyj | n | decade | "The 80s": vokzokyj; "the 1990s": vunposi-nuvzokyj.
+zon | n | zone | 
 zozo | n | hundred | 
 zozokyj | n | century | 
 zx | det | the | 
