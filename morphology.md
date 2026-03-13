@@ -35,8 +35,8 @@ meaning | decorator | default spread | note
 --- | --- | --- | ---
 verb tense | *vy* = future, *dy* = past | 1 | *sevy* = 'will say', *sedy* = 'did say'
 imperative mood | *du* | 1 | *sedu* = 'say!'
-infinitive or past participle aspect | *n* | 1 | *sen* = 'to say'. Dropped when other decorators attach. 
-ongoing aspect | *gx* | 2 | *segx* = 'is saying', *sedygx* = 'was saying', *sevygx* = 'will be saying'
+infinitive or past participle | *n* | 1 | *sen* = 'to say'; *skribn* = 'written' (past participle as adjective). Dropped when other decorators attach.
+ongoing aspect / present participle | *gx* | 2 | *segx* = 'is saying' (as main verb), *sedygx* = 'was saying', *sevygx* = 'will be saying'; also functions as present participle in adjectival/adverbial contexts: *om romgx* = 'roaming man', *dr romgx* = 'while roaming'
 perfective aspect | *hq* | 3 | *sehq* = 'have said', *sedyhq* = 'had said', *sehqvw* = 'would have said', *segxhqvw* = 'would have been saying'
 conditional or subjunctive aspect | *vw* | 4 | *sevw* = 'would say', *segxvw* = 'would be saying'
 reflexive aspect | *zi* | 0 | *sezi* = 'say to myself'

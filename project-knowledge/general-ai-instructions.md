@@ -198,12 +198,16 @@ Not all files need to be loaded for every task. Here's a guide:
 
 | Task | Always load | Load as needed |
 |------|-------------|----------------|
-| Translation | `glossary.md`, `syntax.md` | `morphology.md`, relevant domain vocab files, relevant existing translations for consistency |
+| Translation | `glossary.md`, `syntax.md`, `writing.md` | `morphology.md`, relevant domain vocab files, relevant existing translations for consistency |
 | Grammar discussion | `syntax.md`, `morphology.md` | `prosody.md` |
 | New vocabulary | `glossary.md`, `borrowing.md`, `morphology.md`, `phonotactics.yaml` | Domain vocab files |
 | Poetry/creative | `glossary.md`, `poetry.md`, `prosody.md` | `writing.md` |
 | Drilling/quizzing | `glossary.md` | Whatever grammar topic is being drilled |
 | Writing system | `alphabets.md`, `writing.md` | — |
+
+**CRITICAL for translation tasks**: ALWAYS load `writing.md` before evaluating or reviewing written Kila (or before producing significant amounts of written Kila in new translations). Many apparent "errors" are actually valid contractions (`nx` → `n`, `dx` → `d`, `zx` → `z`), haif notation for proper nouns, or other orthographic conventions. Without understanding these conventions, you will incorrectly identify legitimate writing as mistakes. Verify writing conventions before declaring errors, and use those conventions in your own writing.
+
+**Reading strategy for context files**: When loading grammar and reference files (syntax.md, morphology.md, writing.md, etc.), read them completely rather than stopping at arbitrary line counts. Critical rules may appear anywhere in these files. If you notice what appears to be a consistent pattern of "missing" or "wrong" elements across multiple instances, this is a strong signal to search the grammar files for explicit rules about that element before declaring errors.
 
 ## Translation Workflow
 
@@ -243,8 +247,8 @@ When Daniel asks for a translation:
 3. **Foreign Words & Proper Nouns**
    - BEFORE using any non-English word, consult borrowing.md
    - Foreign words must be marked as `*kqmcn*` (asterisks) OR adapted to gwmcn
-   - Multi-word foreign phrases may need to be borrowed as unit
-   - Example: "chaise and four" might be `*chaise and four*` or adapted together
+   - **Multi-word foreign phrases**: Consider whether words form a standard multi-word phrase, idiom, or technical term in the source language. Idiomatic phrases ("déjà vu", "status quo") and technical terms ("chaise and four", "prima facie") should typically be borrowed as complete units rather than word-by-word
+   - Example: "chaise and four" → `*chaise and four*` (complete unit) not `*chaise* ko kq`
    - Proper names use haif notation (see honorifics.md)
 
 4. **Temporal Expressions**
@@ -398,12 +402,19 @@ Check constructions against loaded rules:
 
 Cite the specific rule when identifying violations.
 
-### Step 3: Identify True Gaps
+### Step 3: Pattern Recognition Before Error Declaration
 
-Only flag as "missing" if:
+**CRITICAL**: Before flagging elements as "missing" or "wrong", check for patterns:
+- If you notice the same element appears to be "missing" multiple times (e.g., articles, prepositions), STOP
+- Search the grammar files for explicit rules about that element
+- Example: Noticing "missing" articles repeatedly → search for "article" in syntax.md
+- Pattern of omissions often indicates an intentional rule, not an error
+
+Only after verifying no rule exists, flag as "missing" if:
 - ✅ You applied morphology and found the base form
 - ✅ The base form is not in your loaded glossary context
 - ✅ It's not derivable from existing words + affixes
+- ✅ You searched for relevant grammar rules and found none explaining the pattern
 
 When proposing coinages, follow the full word coining process.
 
@@ -451,6 +462,8 @@ Checking constructions:
 4. ✅ Used possessive forms (`ed`) not object pronouns (`e`) where appropriate
 5. ✅ Checked time.md and existing translations for temporal expression patterns
 6. ✅ Verified noun-to-verb conversions (add `-n` for infinitive from noun)
+7. ✅ Applied contraction rules (see writing.md): `nx dx` → `nd`, `i dx` → `id`, `e dx` → `ed`, etc.
+8. ✅ Avoided redundant plural marking when determiners (sxm, gr, al, cad) already imply plurality
 
 ## Drilling Workflow
 

@@ -1,22 +1,22 @@
 en | kila
 --- | ---
-“My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?” | /-Bennet-kn-cer-id\*-/ ed cileid sedy\* a e tel ju /-yz w hirhq k Netherfield Park bi fynyk lisn?-/<br>---<br>\* honorifics<br>\*verbs follow subjects 
+"My dear Mr. Bennet," said his lady to him one day, "have you heard that Netherfield Park is let at last?" | /-Bennet-kn-cer-id\*-/ ed cileid sedy\* a e tel ju /-yz w hirhq k Netherfield Park d fynyk lisn?-/<br>---<br>\* honorifics<br>\*verbs follow subjects
 Mr. Bennet replied that he had not. | Bennet-hikn replaidy k e no ndy\*.<br>---<br>\*use "n" as a verb placeholder.
-“But it is,” returned she; “for Mrs. Long has just been here, and she told me all about it.”|/-sep e bi-/ e responddy /-pask Long-cikn bihq just ki, n e teldy al ri e d i.-/
+"But it is," returned she; "for Mrs. Long has just been here, and she told me all about it."|/-sep e bi-/ e reponddy /-pask Long-cikn bihq just ki, n e teldy al ri e d i.-/
 Mr. Bennet made no answer.|Bennet-hikn no qnsrdy.
-“Do you not want to know who has taken it?” cried his wife impatiently.|/-w no vl sabn hu tekhq e?-/ eskleimdy eipqcntyk qd kn.
+"Do you not want to know who has taken it?" cried his wife impatiently.|/-w no vl sabn hu tekhq e?-/ eskleimdy eipqcntyk ed kn.
 “You want to tell me, and I have no objection to hearing it.”|/-w vl teln d i, n i hav no xbjekcn a hirn e.-/
 This was invitation enough.|kit bidy ynvit sufi.
 “Why, my dear, you must know, | /-uai, cer-id, u deb sabn,
 Mrs. Long says that Netherfield is taken| Long-cikn se k Netherfield bi d tekn
  by a young man of large fortune | pr hiom [?young?] dx [?fortune?] gran
  from the north of England; | dx nord dx England;
- that he came down on Monday | k e kxmdy daun yn 2ju
- in a chaise and four | yn chaise ri kq
+ that he came down on Monday | k e kxmdy daun dr 2ju
+ in a chaise and four | yn *chaise and four*
  to see the place, | vyzn plas,
- and was so much delighted with it, | n bidy so gr glqd ri e,
- that he agreed with Mr. Morris immediately; | k e pqktdy ri Morris-hikn eipqc;
+ and was so much delighted with it, | n bidy so gr glqd ko e,
+ that he agreed with Mr. Morris immediately; | k e pqktdy ko Morris-hikn eipqc;
  that he is to take possession before Michaelmas, | k e bi tekvy [?possession?] pre Michaelmas,
- and some of his servants | n sxm dx e [?servants?]
+ and some of his servants | n sxm ded [?servants?]
  are to be in the house | bi yn kaus
  by the end of next week." | pr fyn dx sxtm sig.-/

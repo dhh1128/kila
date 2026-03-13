@@ -206,6 +206,7 @@ dxk | n | duck |
 dxkretn | v | to decree | 
 dxktryn | n | doctrine | 
 dyc | n | dish (a receptacle to hold food or drink) | 
+dydo | iject | ditto | 
 dyfr | n | difference | 
 dyfrn | v | to differ | 
 dygnamnyk | ad | faithful / trustworthy | cf *amnyk* 'faith-filled, trusting'

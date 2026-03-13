@@ -20,10 +20,16 @@ Adjectives and adverbs are the same words in kila, not separate derivations. Unl
 * Adverb modifying verb: *run velis* 'run quickly'
 * Adverb modifying adjective: *laden hevyli* 'heavily laden'
 
-Past participles are equivalent to infinitives (both use the *-n* form) and can be used as adjectives:
+Past participles use the *-n* form and can be used as adjectives:
 
 * *liv skribdn* 'a written book' (literally, 'book written')
-* *ant chozn* 'the chosen person'
+* *ant cwzn* 'the chosen person'
+
+Present participles use the *-gx* form (ongoing aspect) when functioning adjectivally or adverbially:
+
+* *om romgx* 'a roaming man' (literally, 'man roaming')
+* *dr romgx* 'while roaming'
+* *agu flogx* 'flowing water'
 
 Kila uses prepositions, not postpositions.
 
