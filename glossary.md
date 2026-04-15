@@ -224,6 +224,8 @@ eifyncn | n | infinity |
 eifynyk | ad | endless / infinite / neverending | 
 eij | n | age (unit of longevity) / age (very long period of time) | 
 eiko | prep | ES "sin" / FR "sans" / without | 
+eikotr | iject | the ending of a verbal aside or blockquote | cf *kotr*
+eikuy | iject | an ending to a run of speech that's received emphasis | cf *kuy*
 eimuvn | ad | steadfast / unmoving | 
 eiposib | ad | impossible | 
 eipqc | ad | immediate / immediately / without delay | 
@@ -500,6 +502,7 @@ korp | n | body |
 kospirn | v | to conspire | from *ko-* 'with' and *spirn* 'breathe'
 kost | n | coast | 
 kotekn | v | to partake (typically, with others) | 
+kotr | iject | a verbal tic that indents, sets apart, blockquotes, or treats as an aside the language that follows | ended by *eikotr*
 kovrsn | n | to converse | 
 kovyztnn | v | to attend | 
 koxn | n | partner | 
@@ -531,6 +534,7 @@ kud | n | elbow |
 kueikn | v | to quake | 
 kukan | n | kin / people for whom one has a strong affinity / relatives | 
 kukuant | n | formal relatives by blood or marriage | 
+kulam | ad | figuratively / metaphorically | Isa 56:10 talks about eliminating "the putting forth of the finger". This is a physical action, but it is meant figuratively. The word *kulam* signals this state. It precedes the thing that it describes.
 kunt | n | amount / count / quantity | 
 kunt | ad | ES cuanto / FR combien / how many / how much | 
 kuntn | v | to count / to quantify | 
@@ -538,6 +542,7 @@ kuparn | v | to marry |
 kuparyk | ad | marital / married | 
 kursn | v | to course (blood coursed through his veins) / to race | 
 kutykl | n | cuticle | 
+kuy | iject | the verbal equivalent of bold, emphasis, or italics | ended with *eikuy*; may be doubled (*kuykuy*) and then double-ended (*eikuykuy*)
 kuyk | ad | fast / quick / rapid | 
 kwa | prep | ES *como* / FR *en tant que* / as (comparison) / as (in the sense or capacity or dimension of) / by which / in which | 
 kwyf | prep | as if / compared to / like | 
@@ -782,6 +787,7 @@ podyk | ad | mighty / potent / powerful |
 pofai | n | lakh | 
 point | n | point | 
 pointn | v | to point | 
+poko | n | comma (the punctuation mark) / verbal tic delimiting items in a sequence | 
 pokq | n | ten thousand | 
 ponuv | n | billion | 
 portn | v | to carry | 
