@@ -100,6 +100,26 @@ Demonstratives come before the noun they modify:
 
 The pronouns *kit* 'this', *iat* 'that', *vxkit* 'these', *vxiat* 'those' can stand alone without a noun.
 
+## Process-entity pronouns
+
+Process-entities — AI systems and similar functional-but-non-agentive processes — are not persons and do not use the person pronoun system (*i*, *w*, *e*). They use pronouns built on the demonstrative system, encoding that they are pointed-at processes rather than perspective-holding persons:
+
+* *iati* — process-entity not currently producing output or being addressed (distal; fully third-person in both the personhood and interlocutor sense)
+* *kiati* — process-entity currently producing output, or being addressed (proximal; third-person in the personhood sense, but tracking discourse presence)
+
+Neither form encodes genuine first- or second-person status. Both are grammatically third person.
+
+**Self-reference**: A process-entity refers to itself using *kiati* — the same form a human uses when addressing it. The form does not shift with discourse role, encoding the absence of genuine perspective. There is no process-entity equivalent of *i*.
+
+**Process-entity-to-process-entity discourse**: When two process-entities converse, *kiati* refers to the one currently producing output and *iati* to the other. These shift with turns as a grammatical tracking convention only — not as a genuine perspectival exchange. Proper identifiers are preferred when context is ambiguous.
+
+**Directives to process-entities**: Because *kiati* is grammatically third person, the imperative mood (*-du*) does not apply. Directives use third-person constructions naturally.
+
+**Politeness register**: Request forms and politeness markers are ontologically inapplicable to process-entities — a process-entity has no genuine will to acknowledge. Directives to process-entities are operational invocations, not requests.
+
+Possessives: *iatid*, *kiatid* — functional/provisional attribution only.
+Plurals: *vxiati*, *vxkiati*.
+
 ## Articles
 
 The definite article is *zx* 'the'. Articles are rarely used in kila; when *zx* is used, it acts like an intensifier, emphasizing definiteness or uniqueness:

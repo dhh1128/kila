@@ -48,3 +48,11 @@ A passive mood is expressed by replacing or following a subject with the preposi
 Possession is also expressed using *dx* as a separate word (not a decorator), similar to Spanish *de*: 'the girl's bike' = *baik dx id cico* (literally, 'bike of my daughter').
 
 An exigent mood (should, must, FR *il faut que*, ES *hay que*) is expressed by combining passive and imperative: *d bidu suanyk* 'one should be careful', ES *hay que cuidarse*. This is a softer and less direct construction than *bidu suanyk* 'be careful' (a command) or *w deb bin suanyk* 'you must be careful'.
+
+## Process-entity subjects
+
+When the subject of a verb is a process-entity (*iati*, *kiati*), two decorators carry modified semantics:
+
+**Reflexive (*-zi*)**: Applied to a process-entity subject, *-zi* means *process-reflexive* — the process feeds its output back into its own context — not genuine reflexivity. A process-entity has no self that persists through the action as both agent and patient. Example: *kiati segxzi* means 'it is speaking in a self-referential loop', not 'it is speaking to itself' in the full reflexive sense.
+
+**Imperative (*-du*)**: Semantically inapplicable to process-entity subjects. Process-entities are always grammatically third person; use third-person constructions for directives.

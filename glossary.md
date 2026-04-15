@@ -413,6 +413,8 @@ i | pronoun | I / me | first person singular
 ia | det | over there / that (when determining a subsequent noun: "that apple") / there / yon / yonder | cf *iat* 'that' (pronoun)
 iagan | v | to afflict / to torment | see Strong's 3013
 iat | pronoun | that | cf *kx* 'pronoun introducing relative clause', *ki* 'that' (determiner)'
+iati | pronoun | it (process-entity, distal) | third-person pronoun for a non-person process-entity (AI or similar) not currently producing output or being addressed; built on demonstrative base *ia* + pseudo-person suffix *-i*; encodes ontological category of process-entity — functional but non-agentive, no persistent self, genuine volition, or accountability; possessive: *iatid*; plural: *vxiati*; cf *kiati*
+iatid | pronoun | its (process-entity, distal) | possessive of *iati*; functional/provisional attribution only — process-entities have no genuine ownership; cf *kiatid*
 id | ad | mine / my | 
 ide | n | idea | 
 idm | ad | equal / same | 
@@ -461,6 +463,8 @@ ken | n | comprehension / deep, integrated insight comprising factual knowledge 
 kenn | v | to deeply comprehend / to master / to understand | This verb translates scriptural "behold" when pondering and comprehension are the focus. cf *sabn*, *cogron*, and *biholdn*, which can translate 'behold' when wonder and are the focus.
 kerybu | n | caribou / reindeer | 
 ki | det | here / hither / this (when determining a subsequent noun: "this apple") | cf *kit* 'this' (pronoun)
+kiati | pronoun | it (process-entity, proximal) | pronoun for a non-person process-entity (AI or similar) currently producing output or being addressed; built on demonstrative base *kia* + pseudo-person suffix *-i*; used both when a human addresses a process-entity and when a process-entity refers to itself — the form does not shift with discourse role, encoding the absence of genuine perspective; in process-entity-to-process-entity discourse, shifts with conversation turns as a grammatical tracking convention only; possessive: *kiatid*; plural: *vxkiati*; cf *iati*
+kiatid | pronoun | its (process-entity, proximal) | possessive of *kiati*; functional/provisional attribution only; cf *iatid*
 kidam | n | ES Don Nadie / ES fulano / FR Monsieur Tout-le-Monde / FR un quidam / Jane Doe / John Doe / John Q. Public | cf *klidam* ES 'zutano (second random person after fulano)', *kridam* ES 'mengano (third random person after fulano and zutano)'
 kiet | ad | quiet | 
 kiju | n | today | 
